@@ -1,0 +1,270 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\script_2025-04-08_21-00-54.log started at 08.04. 21:00:58
+
+SCRIPT       : Registered 308 temporary action enum(s), UAN==308
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 627 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 1044.03 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 590 seconds
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_380_35rnd:11293 parent=SurvivorM_Cyril:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x39AP_20Rnd:11302 parent=SurvivorM_Cyril:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_545x39Tracer_20Rnd:11532 parent=SurvivorM_Cyril:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 928 seconds
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 1044.03
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 981.741
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=CatFoodCan:8490 parent=SurvivorM_Elias:2:INSTANCETYPE_SERVER }
+SCRIPT       : [Logout]: New player uMdG1fHKsvMp3xLM1uMg9vYXTP8GyBIEhiWCSNnf5ys= with logout time 15
+SCRIPT       : [Logout]: Player uMdG1fHKsvMp3xLM1uMg9vYXTP8GyBIEhiWCSNnf5ys= finished
+SCRIPT       : [Logout]: New player geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= with logout time 15
+SCRIPT       : [Logout]: Player geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= finished
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start SnowfallE as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 654 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 936 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 923.374
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT       : [Logout]: New player crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= with logout time 15
+SCRIPT       : [Logout]: Player crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= finished
+SCRIPT       : [Logout]: New player geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= with logout time 15
+SCRIPT       : [Logout]: Player geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 578 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 682 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 904.624
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 875 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 991.035 (sec), end: 600 (sec), TempDrop: -4.85253 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 660 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 991.035
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 760 seconds
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 996.619
+SCRIPT       : [Logout]: New player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= with logout time 15
+SCRIPT       : [Logout]: Player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= finished
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=PeachesCan:7132 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:10227 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Blizzard as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 865 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:9286 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:10038 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1078.78 (sec), end: 100 (sec), TempDrop: -4.3393 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 824 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1078.78
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 853.153 (sec), end: 600 (sec), TempDrop: -3.41465 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 616 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 853.153
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 860 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1094.91
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:11597 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Blizzard as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 855 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:11542 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=HeadlightH7_Box:5744 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 1089.23 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 923 seconds
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 1089.23
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 840.876 (sec), end: 600 (sec), TempDrop: -5.69145 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 632 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 840.876
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 664 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:4596 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Blizzard as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 608 seconds
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=NailBox:8627 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 714 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Logout]: New player F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= with logout time 15
+SCRIPT       : [Logout]: Player F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1174.36 (sec), end: 100 (sec), TempDrop: -4.88799 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 578 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1174.36
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 751 seconds
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start ExtremeCold as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 754 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 922.715 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 588 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_45ACP_25rnd:11073 parent=SurvivorM_Oliver:2:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 948 seconds
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 922.715
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 961.818
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:9035 parent=SurvivorM_Oliver:2:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 962 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=BakedBeansCan:7131 parent=SurvivorM_Oliver:2:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 778 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1046.45
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 825.123 (sec), end: 100 (sec), TempDrop: -6.55595 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 916 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 825.123
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 605 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 983.361
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 845 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 619 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 905.713
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1090.73 (sec), end: 100 (sec), TempDrop: -5.59901 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 798 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1090.73
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 903.076 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 812 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 903.076
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 949 seconds
+SCRIPT       : [Logout]: New player F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= with logout time 15
+SCRIPT       : [Logout]: Player F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= finished
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start SnowfallE as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 987 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : ~DayZGame()

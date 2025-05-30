@@ -1,0 +1,37 @@
+
+
+******************************************************************************
+AdminLog started on 2025-04-20 at 04:25:03
+
+
+******************************************************************************
+AdminLog started on 2025-04-20 at 12:41:46
+20:43:40 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) is connected
+20:44:39 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7032.1, 5811.4, 40.0>)[HP: 78.4257] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:44:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7032.2, 5813.3, 40.0>)[HP: 78.5006] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:45:03 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7061.5, 5782.7, 40.6>)[HP: 78.4072] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:45:07 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7062.2, 5782.2, 40.6>)[HP: 78.4821] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:45:08 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7062.4, 5781.6, 40.6>)[HP: 73.8508] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+20:45:16 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7062.3, 5776.7, 40.6>)[HP: 74.0692] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:45:18 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7062.4, 5778.8, 40.6>)[HP: 74.1399] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:45:19 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7062.5, 5779.4, 40.6>)[HP: 73.5224] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:45:20 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7061.1, 5780.2, 40.6>)[HP: 72.9049] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:45:23 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7055.8, 5788.8, 40.6>)[HP: 72.9745] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:45:24 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7056.9, 5790.7, 40.7>)[HP: 72.3931] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:45:34 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7077.1, 5831.2, 41.4>)[HP: 71.9423] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:45:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7067.1, 5832.9, 41.6>)[HP: 70.4629] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+20:45:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7067.1, 5832.9, 41.6>)[HP: 68.9191] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:46:26 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7085.9, 5825.4, 44.8>)[HP: 69.8225] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:46:30 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7085.3, 5827.1, 44.8>)[HP: 69.9288] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:47:03 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7074.0, 5825.3, 44.8>)[HP: 65.64] hit by Infected into Torso(1) for 4.875 damage (MeleeInfected)
+20:47:07 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7082.6, 5824.7, 44.8>)[HP: 65.6935] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:49:12 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7041.5, 5811.2, 40.0>)[HP: 66.3547] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:50:25 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7094.1, 6143.3, 87.0>) performed EmoteSitA
+20:50:27 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-20 at 20:57:10
+
+
+**********************************EOF****************************************

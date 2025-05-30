@@ -1,0 +1,50 @@
+
+
+******************************************************************************
+AdminLog started on 2025-05-24 at 04:25:09
+08:48:19 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+09:16:36 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6292.9, 9527.6, 20.7>) performed EmoteSitA with M16A2
+09:16:52 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-24 at 12:46:08
+17:33:59 | Player "Survivor"(id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA=) is connected
+17:55:21 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.3, 10859.7, 18.4>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+17:55:25 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7142.8, 10863.7, 17.3>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+17:55:27 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.4, 10864.7, 17.2>)[HP: 91.925] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+17:55:28 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.8, 10867.4, 16.0>)[HP: 92.0152] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+17:55:31 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.7, 10870.3, 15.4>)[HP: 90.4715] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+17:55:32 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.8, 10871.9, 15.0>)[HP: 90.5618] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+17:55:33 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7143.4, 10874.5, 14.6>)[HP: 90.5618] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+17:55:34 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7142.8, 10878, 14.5>)[HP: 90.652] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+17:55:36 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7140.8, 10881.1, 14.7>)[HP: 84.477] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:55:38 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7137.2, 10885.5, 14.1>)[HP: 78.3923] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:55:39 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7136.2, 10886.4, 14.1>)[HP: 72.2173] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:55:40 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7135.6, 10885.9, 14.4>)[HP: 70.1986] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+17:55:41 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7134.8, 10885.3, 14.7>)[HP: 70.2888] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+17:55:42 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7133.1, 10882.6, 15.4>)[HP: 68.745] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+17:55:43 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7132.5, 10882.8, 15.5>)[HP: 67.2013] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+17:55:46 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7130.6, 10887.1, 15.0>)[HP: 65.7476] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+17:55:46 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7129.7, 10889.4, 14.7>)[HP: 59.6628] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:55:49 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7127.1, 10894.6, 14.1>)[HP: 59.7531] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+17:55:50 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7126.6, 10895.6, 14.1>)[HP: 59.7531] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+17:55:52 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7128.0, 10896.3, 14.1>)[HP: 53.5781] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:57:20 | Player "Survivor" (id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA= pos=<7170.9, 10881.6, 13.1>) performed EmoteSitA
+17:57:35 | Player "Survivor"(id=FJhmHEXaJ6l-vfmumwJ0TPd95Br35scrdYacOVVOFbA=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-24 at 21:05:25
+23:44:13 | Player "L3vel"(id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE=) is connected
+23:47:53 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7561.3, 11351.4, 35.3>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:47:55 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7564.5, 11352.9, 35.3>)[HP: 93.825] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+23:48:04 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7566.7, 11352.9, 35.3>)[HP: 94.0954] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:48:59 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7589.9, 11329.1, 35.2>)[HP: 93.6999] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+23:49:37 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7561.9, 11315.2, 35.3>)[HP: 94.2547] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:49:38 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7561.4, 11315.2, 35.2>)[HP: 94.3449] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:50:35 | Player "L3vel" (id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE= pos=<7612.9, 11165.1, 36.9>) performed EmoteSitA
+23:50:50 | Player "L3vel"(id=Oa9OVk0EHIvHpmSAGb6PQcdvITb1MDiSsz8FvIVrLmE=) has been disconnected
+
+
+**********************************EOF****************************************

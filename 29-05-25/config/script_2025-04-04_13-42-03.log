@@ -1,0 +1,17 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\script_2025-04-04_13-42-03.log started at 04.04. 13:42:07
+
+SCRIPT       : Registered 308 temporary action enum(s), UAN==308
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 730 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Logout]: New player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= with instant logout
+SCRIPT       : [Logout]: Player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 967.132 (sec), end: 100 (sec), TempDrop: -5.46076 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 774 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 967.132
+SCRIPT       : ~DayZGame()

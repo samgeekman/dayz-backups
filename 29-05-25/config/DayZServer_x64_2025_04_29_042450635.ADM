@@ -1,0 +1,185 @@
+
+
+******************************************************************************
+AdminLog started on 2025-04-28 at 04:24:56
+07:18:49 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) is connected
+07:26:23 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1303.0, 11779.6, 4.1>) performed EmoteSitA
+07:26:38 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) has been disconnected
+08:50:43 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+09:11:17 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6318.2, 9503.1, 23.3>)[HP: 99] hit by Watchtower with BarbedWireHit
+10:17:04 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6310.6, 9523.3, 20.6>) performed EmoteSitA
+10:17:17 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+10:54:54 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+11:17:37 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+11:40:11 | Player "Mendoza" (DEAD) (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6999.9, 10891.5, 19.2>) died. Stats> Water: 1408.38 Energy: 4055.76 Bleed sources: 0
+11:41:53 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4879.4, 11267.3, 13.0>) performed EmoteSuicide with Pickaxe
+11:42:00 | Player "Mendoza" (DEAD) (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4879.4, 11267.3, 13.0>) died. Stats> Water: 871.362 Energy: 1056.62 Bleed sources: 1
+11:42:00 | Player "Mendoza" (DEAD) (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4879.4, 11267.3, 13.0>) committed suicide
+11:51:09 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7009.5, 11535.4, 15.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:53:07 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6995.8, 11486.2, 15.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:53:11 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6994.1, 11488.1, 15.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:53:13 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6992.3, 11489.7, 15.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:07:28 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6861.1, 11337.2, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+12:16:37 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6806.1, 11279.7, 15.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:16:38 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6803.9, 11280.2, 15.0>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+12:16:59 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6809.5, 11281.2, 15.0>)[HP: 95.58] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+12:35:18 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6819.7, 11208.1, 15.9>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+12:35:25 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6821.1, 11208.9, 15.9>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+12:41:51 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+12:41:51 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-28 at 12:43:42
+12:46:46 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+12:49:04 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6779.1, 11202, 14.9>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+12:49:07 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6782.3, 11206.6, 14.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:09:05 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+13:11:52 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6991.0, 10952.9, 15.0>) performed EmoteSitA
+13:12:07 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+13:17:50 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+13:17:51 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6292.5, 9522.0, 20.8>) is unconscious
+13:18:23 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6292.9, 9521.6, 20.8>) regained consciousness
+13:39:55 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6637.7, 11167.9, 15.1>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+13:39:57 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6635.5, 11167.9, 15.1>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:04:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6696.1, 10985.5, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:04:49 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6695.3, 10988, 15.2>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:04:52 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6694.5, 10987, 15.8>)[HP: 97.8388] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
+14:04:53 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6695.9, 10987.6, 16.2>)[HP: 96.3853] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+14:05:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6720.6, 11021.5, 15.1>)[HP: 96.2973] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
+14:05:47 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6721.2, 11022.3, 15.1>)[HP: 94.3638] hit by Infected into Torso(1) for 2.01875 damage (MeleeInfectedLong)
+14:08:26 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6634.1, 10995, 15.3>) performed EmoteSitA
+14:08:39 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+14:11:36 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+14:13:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6493.2, 11164.6, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:17:17 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6505.5, 11183.5, 16.0>) performed EmoteSitA with Heatpack
+14:17:33 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+14:24:55 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+14:30:34 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6614.1, 11394, 15.0>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+14:30:38 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6614.6, 11394.8, 15.0>)[HP: 98.8553] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+14:30:40 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6614.8, 11395.2, 15.0>)[HP: 98.3278] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:30:42 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6612.7, 11392.2, 15.0>)[HP: 97.7103] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:32:30 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6292.5, 9521.8, 20.8>) is unconscious
+14:33:01 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6292.9, 9521.3, 20.8>) regained consciousness
+14:37:30 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6794.4, 11283.3, 15.0>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:37:38 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6794.9, 11284.2, 15.1>)[HP: 98.8114] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:37:40 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6798.3, 11284.7, 15.1>)[HP: 97.2677] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:37:43 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6796.7, 11285.5, 15.1>)[HP: 95.7321] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
+14:37:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6793.5, 11284.5, 15.0>)[HP: 95.1217] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+14:37:47 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6794.8, 11284.3, 15.1>)[HP: 94.3094] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+14:37:49 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6795.0, 11279.1, 15.0>)[HP: 92.7656] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
+14:37:49 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6795.9, 11278.4, 15.0>)[HP: 92.1422] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+14:37:50 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6796.8, 11278.3, 15.0>)[HP: 90.5985] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:37:51 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6798.0, 11278.6, 15.0>)[HP: 89.791] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+14:37:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6800.7, 11294.3, 15.1>)[HP: 88.2402] hit by Infected into Torso(1) for 1.54375 damage (MeleeInfected)
+14:37:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6800.7, 11294.3, 15.1>)[HP: 87.6227] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+14:37:57 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792.7, 11304.2, 20.4>)[HP: 86.06] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:37:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792.3, 11304.2, 20.4>)[HP: 85.2324] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+14:37:59 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792.3, 11304.2, 20.4>) is unconscious
+14:37:59 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792.2, 11303.8, 20.4>)[HP: 83.2137] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+14:38:00 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6791.9, 11303.4, 20.4>)[HP: 81.6699] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:38:01 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792, 11303.1, 20.4>)[HP: 80.1262] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:38:52 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6792, 11303.1, 20.4>) regained consciousness
+14:41:45 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6793.9, 11298.1, 34.2>)[HP: 84.2041] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+14:41:51 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6788.5, 11297.7, 34.2>)[HP: 84.326] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:56:26 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6717.9, 11053.2, 15.8>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:56:27 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6719.6, 11055.4, 15.8>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+15:08:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6731.8, 10996, 15.1>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+15:08:50 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6730.5, 10997.1, 15.1>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+15:32:49 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7148.1, 10787.8, 15.6>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+15:48:27 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6811.3, 11223.3, 14.8>)[HP: 98.4563] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+15:48:31 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6803.6, 11228, 14.8>)[HP: 98.5463] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+15:48:34 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6800.1, 11231.2, 14.8>)[HP: 98.7267] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+15:48:43 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6797.1, 11231.6, 14.8>)[HP: 98.9072] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+16:56:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7323.2, 10547.6, 45.4>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+17:12:57 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<9043.3, 10138.8, 8.9>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+17:28:55 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+17:28:55 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+17:31:03 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+17:34:46 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+17:35:17 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+17:35:39 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+17:37:20 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+17:40:55 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+17:44:02 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+18:19:40 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+18:20:59 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<11928.1, 12049, 3.5>) performed EmoteSitA with M4A1
+18:21:11 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.0, 9520.5, 20.8>) performed EmoteSitA with dzn_detector
+18:21:18 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<11927.9, 12049.2, 3.6>) performed EmoteSitA with M4A1
+18:21:24 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+18:21:27 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+18:22:40 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+18:41:22 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+18:48:38 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<11932.8, 12052.2, 2.9>)[HP: 97.9812] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+18:53:41 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7944.3, 10109.7, 2.6>)[HP: 98.2188] hit by Fireplace with FireDamage
+18:55:41 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<11931.9, 12052.9, 2.9>) performed EmoteSitA with Torch
+18:56:01 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<11919.6, 12019.1, 3.0>) performed EmoteSitA with Torch
+18:56:03 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+19:04:45 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7944.6, 10110.6, 2.5>) performed EmoteSitA
+19:05:00 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+19:07:10 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+19:14:56 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+19:34:05 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8325.9, 10771.9, 15.0>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+19:35:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8237.0, 10791, 15.0>)[HP: 85.8538] hit by FallDamageHealth
+19:37:14 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8233.7, 10792, 15.0>)[HP: 73.3686] hit by FallDamageHealth
+20:26:54 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8361.3, 10742.8, 15.0>)[HP: 98.4563] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:26:59 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8367.6, 10740.1, 15.0>)[HP: 97.9289] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+20:27:03 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8376.2, 10734.3, 15.0>)[HP: 96.5655] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+20:29:59 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.9, 10541.1, 14.9>) performed EmoteHeart
+20:30:11 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.9, 10541.1, 14.9>)[HP: 97.15] hit by Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<8497.9, 10540.7, 14.9>) into Torso(24) for 2.85 damage (MeleeFist)
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 99.3708] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 98.7415] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 98.1123] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 97.4831] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 96.8532] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 96.2233] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 95.5933] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.2, 15.3>)[HP: 94.9634] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.3>)[HP: 94.3315] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.3>)[HP: 93.6996] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.3>)[HP: 93.0676] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.3>)[HP: 92.4357] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 91.8103] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 91.185] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 90.5683] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 89.9516] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 89.3378] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.1, 10540.3, 15.2>)[HP: 88.7239] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.2>)[HP: 88.1368] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.2>)[HP: 87.5496] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.2>)[HP: 86.9769] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.2>)[HP: 86.4042] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.1>)[HP: 85.9317] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.1>)[HP: 85.4591] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.1>)[HP: 84.9866] hit by Sedan_02 with TransportHit
+20:39:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.1>)[HP: 84.514] hit by Sedan_02 with TransportHit
+20:39:34 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.0>)[HP: 84.0771] hit by Sedan_02 with TransportHit
+20:39:34 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<8496.2, 10540.3, 15.0>)[HP: 83.6401] hit by Sedan_02 with TransportHit
+20:46:17 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6298.8, 9533.9, 20.7>) performed EmoteTaunt with CamoNet
+20:46:20 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6300.5, 9536.7, 20.6>) performed EmoteGreeting
+20:46:27 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6285.1, 9530.5, 20.7>) performed EmoteTaunt
+20:46:29 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6286.8, 9532.3, 20.7>) performed EmoteGreeting with BandageDressing
+20:46:36 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6284.7, 9514.6, 20.7>) performed EmoteTaunt with CZ75
+20:46:40 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6282.5, 9518.1, 20.7>) performed EmoteGreeting with VSS
+20:46:42 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6280.7, 9514.6, 20.7>) performed EmoteTaunt with CZ75
+20:59:13 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+20:59:13 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-28 at 21:01:10
+21:02:30 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+21:11:22 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+21:12:20 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) is connected
+21:24:10 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1285.4, 11763.6, 3.5>) performed EmoteSitA with MP5K
+21:24:25 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) has been disconnected
+22:11:12 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4004.9, 7800.5, 56.8>)[HP: 99.1925] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+22:37:04 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6292.6, 9519.8, 21.6>) performed EmoteSitA
+22:37:20 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+22:46:25 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6293.1, 9522.0, 20.8>) performed EmoteSitA
+22:46:37 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+04:23:52 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) is connected
+04:24:21 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) has been disconnected
+
+
+**********************************EOF****************************************
