@@ -1,0 +1,256 @@
+
+
+******************************************************************************
+AdminLog started on 2025-05-19 at 04:25:05
+
+
+******************************************************************************
+AdminLog started on 2025-05-19 at 12:43:44
+13:36:17 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+13:40:54 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6232.4, 11764.4, 16.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:41:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6233.1, 11771, 16.9>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+13:41:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6232.9, 11768.2, 16.9>)[HP: 99.4725] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+13:44:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6242.5, 11795.6, 16.9>)[HP: 99.1925] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+13:45:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6230.3, 11801.4, 16.9>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:45:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6229.7, 11802.3, 16.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:58:06 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+13:58:19 | Player "Survivor"(id=Unknown) has been disconnected
+13:59:24 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+14:00:17 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+18:00:09 | Player "hpretorius"(id=Unknown) has been disconnected
+18:00:21 | Player "hpretorius"(id=Unknown) has been disconnected
+19:43:07 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+19:50:00 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6503.3, 11186, 16.0>)[HP: 0] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+19:50:00 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6503.3, 11186, 16.0>) killed by ZmbM_ruSoldier_normal_Woodland1
+19:54:30 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8942.3, 10631.3, 4.6>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+19:54:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8945.0, 10633.1, 4.6>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+19:55:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8949.6, 10618, 5.5>)[HP: 95.3688] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+19:55:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8949.6, 10618, 5.5>)[HP: 93.35] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+19:55:42 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8948.9, 10618.5, 5.5>)[HP: 88.809] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+19:55:49 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8948.4, 10618.4, 5.5>)[HP: 88.9895] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+19:55:50 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8949.2, 10620.6, 5.5>)[HP: 88.9895] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+19:55:53 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8948.2, 10620, 5.5>)[HP: 87.5359] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:02:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8363.7, 10749.8, 15.0>)[HP: 99.5355] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:02:36 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8364.8, 10750.1, 15.0>)[HP: 99.6258] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:02:41 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8366.0, 10750, 15.0>)[HP: 99.1886] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+20:14:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.4, 10660.2, 25.3>)[HP: 9.70533] hit by FallDamageHealth
+20:14:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.7, 10659.5, 25.3>) is unconscious
+20:15:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.4, 10659.3, 25.3>) regained consciousness
+20:15:18 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.4, 10659.1, 21.8>) is unconscious
+20:15:45 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.5, 10659.7, 21.8>) regained consciousness
+20:16:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.1, 10660.6, 21.8>) is unconscious
+20:16:28 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.7, 10659.8, 21.8>) regained consciousness
+20:16:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.7, 10659.5, 22.0>) is unconscious
+20:17:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.5, 10659.4, 21.8>) regained consciousness
+20:17:28 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.7, 10659.6, 21.8>) is unconscious
+20:17:54 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8160.0, 10660, 21.8>) regained consciousness
+20:19:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.7, 10659.9, 20.7>) is unconscious
+20:20:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.5, 10660.5, 20.6>) regained consciousness
+20:20:11 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.9, 10660.3, 15.2>)[HP: 12.2918] hit by FallDamageHealth
+20:20:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.6, 10660.1, 15.2>) is unconscious
+20:20:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.4, 10660.1, 15.2>) regained consciousness
+20:20:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.3, 10659.5, 15.2>) is unconscious
+20:21:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8158.2, 10659.5, 15.2>) regained consciousness
+20:21:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8160.1, 10660, 15.2>) is unconscious
+20:21:53 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.6, 10660, 15.2>) is choosing to respawn
+20:21:53 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8159.6, 10660, 15.2>) died. Stats> Water: 554.112 Energy: 761.506 Bleed sources: 0
+20:24:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8116.4, 11219.4, 66.7>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:24:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8115.3, 11218.9, 67.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:24:46 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8117.3, 11219.7, 66.4>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:24:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8119.7, 11221.3, 65.6>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:24:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8122.3, 11223.5, 65.0>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:25:36 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8092.3, 11199.7, 70.7>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:25:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8093.7, 11200.6, 70.7>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:25:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8093.7, 11202.3, 70.7>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+20:25:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8092.9, 11205.8, 70.7>)[HP: 99.2828] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:25:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8091.0, 11212.9, 70.7>)[HP: 99.3731] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:25:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8090.9, 11213.7, 70.7>)[HP: 99.3731] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:25:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8090.3, 11214.1, 70.7>)[HP: 98.0098] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+20:25:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8091.3, 11211.2, 70.7>)[HP: 98.0098] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:25:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8092.5, 11208.8, 70.7>)[HP: 98.1001] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:25:58 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8096.6, 11204.5, 70.7>)[HP: 98.2803] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:26:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8044.9, 11212.9, 69.0>)[HP: 99.814] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:26:59 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8050.2, 11214.6, 70.5>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+20:35:11 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7010.6, 11540.6, 15.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:35:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7010.3, 11540.7, 15.0>)[HP: 99.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:35:18 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7011.6, 11539.3, 15.0>)[HP: 92.1427] hit by Infected into Torso(1) for 7.225 damage (MeleeSoldierInfected)
+20:35:46 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6997.1, 11522.6, 15.0>)[HP: 92.954] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:36:11 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7006.0, 11540.5, 15.0>) performed EmoteSitA with HuntingKnife
+20:36:24 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-19 at 21:02:06
+21:07:24 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+21:11:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6985.8, 11469.1, 15.2>)[HP: 99.2638] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+21:11:11 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6982.8, 11469.2, 15.2>)[HP: 99.354] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+21:11:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6979.7, 11470, 15.2>)[HP: 99.4443] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+21:11:20 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6983.7, 11469.7, 15.2>)[HP: 99.6248] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:19:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6888.7, 11367.6, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:19:53 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6888.9, 11370.1, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:20:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6888.5, 11369.1, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:20:05 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6890.8, 11373.6, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:20:09 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6891.3, 11379.8, 15.2>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+21:20:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6892.1, 11383.6, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:20:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6893.7, 11385.9, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:20:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6896.4, 11387.7, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:20:20 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6894.4, 11386.9, 15.2>)[HP: 94.475] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+21:20:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6896.1, 11390.6, 15.2>)[HP: 94.5651] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:21:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6862.7, 11367.2, 15.4>)[HP: 95.5455] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+21:21:17 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6864.5, 11367.9, 15.5>)[HP: 94.993] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+21:21:19 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6867.7, 11368.8, 15.6>)[HP: 94.5307] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+21:21:26 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6889.7, 11365.2, 15.8>)[HP: 93.4169] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+21:21:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6889.7, 11365.2, 16.7>)[HP: 92.0356] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+21:21:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6889.7, 11365.2, 16.8>)[HP: 91.4831] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+21:24:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6848.5, 11362.2, 15.3>)[HP: 95.2717] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:24:05 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6850.6, 11361.7, 15.3>)[HP: 94.7916] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+21:24:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6873.0, 11340.6, 15.2>)[HP: 94.5457] hit by Infected into LeftArm(18) for 6.8 damage (MeleePoliceInfected)
+21:24:25 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6875.4, 11338.4, 15.3>)[HP: 94.618] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:24:26 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6876.5, 11336.3, 15.3>)[HP: 87.818] hit by Infected into Torso(1) for 6.8 damage (MeleePoliceInfectedLong)
+21:24:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6875.7, 11341.2, 15.3>)[HP: 87.9629] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:24:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6875.7, 11341.4, 15.3>)[HP: 87.9629] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:25:25 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6839.1, 11342.1, 15.1>)[HP: 89.2689] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:33:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6818.9, 11228.5, 14.8>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+21:38:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6790.1, 11151.6, 14.9>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:38:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6791.6, 11152.3, 14.9>)[HP: 94.475] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+21:38:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6759.3, 11200.2, 14.4>)[HP: 94.9989] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:38:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6759.9, 11202.2, 14.4>)[HP: 94.3512] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+21:38:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6759.6, 11202.7, 14.4>)[HP: 92.97] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+21:38:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.4, 11209, 16.7>)[HP: 87.7383] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+21:38:59 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.2, 11208.9, 16.7>)[HP: 80.6537] hit by Infected into Torso(1) for 7.225 damage (MeleeInfectedLong)
+21:38:59 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.2, 11208.9, 16.7>)[HP: 79.9312] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+21:39:02 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.9, 11211.1, 16.7>)[HP: 74.4748] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+21:39:03 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6744.6, 11211.2, 16.7>)[HP: 67.3162] hit by Infected into Torso(1) for 7.225 damage (MeleeInfectedLong)
+21:39:03 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.0, 11211.2, 16.7>)[HP: 65.935] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+21:39:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.4, 11211.3, 16.7>)[HP: 60.41] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+21:39:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.4, 11211.3, 16.7>)[HP: 59.0287] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+21:39:05 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.2, 16.7>)[HP: 57.2225] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+21:39:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.1, 11211.2, 16.7>)[HP: 56.4368] hit by Infected into LeftArm(18) for 8.5 damage (MeleeInfectedLong)
+21:39:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.2, 16.7>)[HP: 55.7868] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+21:39:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.9, 11211.4, 16.7>) is unconscious
+21:39:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.7, 11211.5, 16.7>)[HP: 49.2868] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+21:39:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.4, 16.7>)[HP: 47.9055] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+21:39:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.4, 16.7>)[HP: 47.2555] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+21:39:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.1, 16.7>)[HP: 45.8743] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+21:40:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.1, 16.7>) regained consciousness
+21:40:08 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.7, 16.7>) died. Stats> Water: 1028.48 Energy: 1131.6 Bleed sources: 4
+21:40:08 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 11211.7, 16.7>) bled out
+21:45:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8950.0, 10646.3, 4.6>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+21:47:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8946.3, 10619.2, 8.3>) is unconscious
+21:48:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8946.4, 10619.2, 8.3>) regained consciousness
+22:13:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7377.4, 10548.2, 45.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:13:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7379.8, 10541.7, 45.1>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:14:42 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7335.3, 10487.7, 45.1>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:14:54 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7335, 10483.8, 44.8>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:14:58 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7334.9, 10483.7, 44.8>)[HP: 99.235] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+22:15:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7337.8, 10480.9, 44.7>)[HP: 99.4156] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:15:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7360.0, 10483.2, 45.9>)[HP: 91.9459] hit by Infected into Torso(1) for 7.65 damage (MeleeSoldierInfected)
+22:15:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7360.0, 10483, 46.2>)[HP: 91.1809] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+22:19:28 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7359.7, 10481.3, 50.1>) performed EmoteSitA with Colt1911
+22:19:43 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+22:21:22 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+22:23:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7443.4, 10505.8, 32.8>)[HP: 99.918] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:23:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7444.6, 10506.2, 32.4>)[HP: 99.918] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+22:23:29 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7451.2, 10504.5, 30.7>)[HP: 99.9181] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:23:29 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7452.7, 10504.2, 30.3>)[HP: 99.9181] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:23:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7454.8, 10504, 29.8>)[HP: 90.0181] hit by Infected into Torso(1) for 9.9 damage (MeleeSoldierInfectedLong)
+22:23:34 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7457.7, 10503.3, 29.3>)[HP: 88.0075] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+22:23:35 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7459.0, 10503.9, 29.1>)[HP: 88.0157] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:23:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7460.6, 10505.1, 29.0>)[HP: 87.2507] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+22:23:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7464.5, 10506.8, 29.0>)[HP: 87.2589] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:24:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7316.8, 10565.5, 45.3>)[HP: 88.442] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:24:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7315.8, 10563.6, 45.3>)[HP: 88.6221] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:24:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7315.8, 10563.6, 45.3>)[HP: 85.6521] hit by Infected into Torso(1) for 2.97 damage (MeleeSoldierInfectedLong)
+22:24:47 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7320.7, 10561.8, 45.3>)[HP: 85.8327] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:24:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7323.8, 10561, 45.9>)[HP: 83.5377] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+22:24:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7357.1, 10543, 45.1>)[HP: 83.7181] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:24:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7360.5, 10540.5, 45.1>)[HP: 83.8083] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:24:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7360.9, 10540, 45.1>)[HP: 83.8083] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:24:59 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7365.1, 10534.9, 45.1>)[HP: 81.6036] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+22:25:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7384.1, 10519.7, 45.1>)[HP: 81.1991] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+22:25:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7384.1, 10519.7, 45.1>)[HP: 79.1804] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+22:25:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7384.1, 10519.7, 45.1>)[HP: 77.1616] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+22:25:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7384.1, 10519.7, 45.1>)[HP: 76.3966] hit by Infected into LeftArm(18) for 7.65 damage (MeleeSoldierInfected)
+22:25:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7385.6, 10519.9, 45.1>)[HP: 73.4266] hit by Infected into Torso(1) for 2.97 damage (MeleeSoldierInfectedLong)
+22:28:03 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7395.5, 10545.5, 49.6>) performed EmoteSuicide with KitchenKnife
+22:28:12 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7395.5, 10545.5, 49.6>) died. Stats> Water: 999.518 Energy: 1016.82 Bleed sources: 2
+22:28:12 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7395.5, 10545.5, 49.6>) committed suicide
+22:37:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8192.8, 10707.2, 15.3>)[HP: 99.415] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+22:37:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8196.7, 10705, 15.1>)[HP: 99.5921] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:37:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8197.3, 10704.9, 15.1>)[HP: 99.7693] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:37:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8195.9, 10701.4, 15.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:37:56 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8196.7, 10698.9, 15.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:38:00 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8196.5, 10701.7, 15.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:38:24 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8189.3, 10721.5, 15.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:38:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8144.6, 10747.8, 15.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+22:38:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8145.2, 10747.8, 15.9>)[HP: 99.415] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+22:39:00 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8146.5, 10747.9, 15.9>)[HP: 98.9188] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+22:39:03 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8145, 10750.2, 15.9>)[HP: 99.0079] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:39:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8140.7, 10752.3, 15.9>)[HP: 99.1855] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:41:00 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8208.2, 10805.9, 15.0>)[HP: 28.9779] hit by FallDamageHealth
+22:41:02 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8207.6, 10806.2, 15.0>) is unconscious
+22:41:09 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8208.3, 10805.8, 15.0>) is choosing to respawn
+22:41:09 | Player "Survivor" (DEAD) (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8208.3, 10805.8, 15.0>) died. Stats> Water: 675.541 Energy: 615.745 Bleed sources: 1
+22:46:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8235.7, 10814.7, 15.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:46:41 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8237.1, 10816.1, 15.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:46:47 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8235.4, 10820.6, 15.2>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+22:54:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8143.3, 10808.7, 15.2>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:54:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8145.3, 10808.1, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:54:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8147.1, 10808, 15.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:55:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8150.6, 10809.4, 15.2>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:01:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8119.0, 10860.8, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+23:02:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8141.8, 10862.1, 16.0>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:02:34 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8141.3, 10860.4, 16.0>)[HP: 99.4725] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:02:35 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8142.1, 10860, 16.0>)[HP: 91.3975] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+23:02:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8142.1, 10860, 16.0>)[HP: 91.4877] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:23:04 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+23:24:48 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+23:27:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<8079.2, 11194.2, 70.0>)[HP: 98.5375] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+23:39:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7030.5, 11532.1, 15.0>)[HP: 94.5813] hit by Infected into Torso(1) for 5.41875 damage (MeleeSoldierInfected)
+23:39:20 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7040.6, 11530.3, 15.0>)[HP: 94.1291] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+23:39:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7046.5, 11532, 15.0>)[HP: 94.2193] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:39:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7047.4, 11532.5, 15.0>)[HP: 93.7671] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:39:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7051.3, 11534.3, 15.0>)[HP: 93.8571] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:45:02 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<7006.5, 11508.1, 15.0>) performed EmoteSitA with P1
+23:45:17 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+23:47:59 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+23:59:45 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6922.5, 11401, 15.4>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+23:59:46 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6923.9, 11403.2, 15.4>)[HP: 99.5375] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:59:49 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6922.0, 11403, 15.3>)[HP: 99.6265] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:59:50 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6920.9, 11401.1, 15.3>)[HP: 98.904] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+00:03:28 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6860.7, 11316.8, 15.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:03:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6860.9, 11318, 15.2>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+00:03:35 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6864.1, 11319.3, 15.2>)[HP: 98.6189] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:03:35 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6864.2, 11319.4, 15.2>)[HP: 98.6189] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+00:03:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6866.7, 11321.4, 15.2>)[HP: 98.7004] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:03:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6867.6, 11322.4, 15.2>)[HP: 98.7818] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+00:03:44 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6871.3, 11326.6, 15.2>)[HP: 98.8632] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+00:03:47 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6876.3, 11328.8, 15.3>)[HP: 98.9448] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+00:03:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6879.2, 11329.4, 15.3>)[HP: 97.4823] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+00:03:50 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6879.1, 11331.1, 15.3>)[HP: 97.5639] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:04:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6842.8, 11311.4, 15.6>)[HP: 98.2165] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:04:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6843.3, 11313.9, 15.5>)[HP: 96.754] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+00:04:19 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6842.3, 11311.4, 15.6>)[HP: 96.3647] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:04:22 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6839.1, 11313.9, 15.5>)[HP: 96.3647] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:04:23 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6838.3, 11315.8, 15.4>)[HP: 96.4463] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:04:30 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6835.7, 11310.6, 15.7>)[HP: 96.6095] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:04:36 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6839.2, 11314, 15.5>)[HP: 96.7729] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:04:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6841.1, 11315.7, 15.4>)[HP: 96.8547] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+00:04:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6844.1, 11319.3, 15.2>)[HP: 96.9365] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+00:04:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6844.2, 11321.1, 15.2>)[HP: 97.0183] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:04:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6841.8, 11323.3, 15.2>)[HP: 97.1] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+00:04:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6842.0, 11325.2, 15.2>)[HP: 96.4592] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+00:05:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6834.9, 11296.3, 15.3>)[HP: 96.1422] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+00:05:36 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6829.6, 11302.2, 15.5>)[HP: 96.2241] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:05:41 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6827.6, 11303.7, 15.4>)[HP: 96.388] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+00:05:44 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6823.9, 11306.1, 15.2>)[HP: 95.9173] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+00:05:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6824.6, 11309.1, 15.2>)[HP: 95.9993] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+00:05:53 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6824.0, 11309.5, 15.2>)[HP: 96.1633] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:05:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6826.5, 11310, 15.3>)[HP: 96.1633] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+00:06:02 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6828.4, 11308.8, 15.4>)[HP: 96.4093] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:20:41 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.2, 10991, 15.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+00:28:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6721.9, 11126, 15.0>) performed EmoteSitA with MKII
+00:28:53 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+
+
+**********************************EOF****************************************

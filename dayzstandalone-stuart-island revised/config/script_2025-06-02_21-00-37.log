@@ -1,0 +1,379 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\script_2025-06-02_21-00-37.log started at 02.06. 21:00:43
+
+SCRIPT       : Registered 308 temporary action enum(s), UAN==308
+SCRIPT    (W): @"CodeLock/scripts/3_game/dayzgame.c,13": FIX-ME: Method argument can't be strong reference
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"CodeLock/scripts/4_world/entities\codelock.c,308": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/pluginmanager\pluginbase\permissions\codelockpermissionmanager.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 613 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+$CurrentDir:mpmissions\regular.namalsk\init.c:7
+SCRIPT       : [wpnfsm] Warning! OnStoreLoad - cannot load curent weapon state, id=0
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=PeachesCan:12041 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 592 seconds
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1088.71
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:12706 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 591 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:13384 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 928 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 627 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1056.41
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:9186 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 605 seconds
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 976.266 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 895 seconds
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 976.266
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 712 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 950.923
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 981 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:4817 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:11414 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 1152.24 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 912 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:13765 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:12165 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:4893 parent=SurvivorF_Judy:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 1152.24
+SCRIPT    (E): [WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+SCRIPT       : [Logout]: New player qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= with logout time 15
+SCRIPT       : [Logout]: Player qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 841 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 674.688
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 900 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 861.318 (sec), end: 100 (sec), TempDrop: -5.50727 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 585 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 861.318
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 654 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 977.667
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 760 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 695 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1138.58
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 980 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 853.456 (sec), end: 100 (sec), TempDrop: -6.43592 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 550 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 853.456
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 842.357 (sec), end: 600 (sec), TempDrop: -3.84139 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 920 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 842.357
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 731 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 988.69
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 557 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 916 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 610.05
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 867 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 901.025
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 781 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 835 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1017.78
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Aurora because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 773 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1128.12 (sec), end: 100 (sec), TempDrop: -6.91896 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 716 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1128.12
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 943.03 (sec), end: 600 (sec), TempDrop: -5.5434 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 825 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 943.03
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Blizzard...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 994 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event HeavyFog
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 884 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 625.294
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 907 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 939.158
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start HeavyFog as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 588 seconds
+SCRIPT       : [Namalsk][NamEventManager]: HeavyFog: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event SnowfallE
+SCRIPT       : [Namalsk][SnowfallE]: init: 600 (sec), mid: 972.823 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 919 seconds
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 972.823
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 872 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 963.649
+SCRIPT       : [Namalsk][NamEventManager]: SnowfallE: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 629 seconds
+SCRIPT       : ~DayZGame()

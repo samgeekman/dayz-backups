@@ -1,0 +1,63 @@
+
+
+******************************************************************************
+AdminLog started on 2025-06-03 at 04:25:06
+12:00:53 | Player "Anjabro"(id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM=) is connected
+12:06:02 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7865.2, 7720.5, 9.7>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+12:06:03 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7865.2, 7720.6, 9.7>)[HP: 97.075] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+12:06:04 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7864.1, 7722.7, 9.7>)[HP: 91.295] hit by Infected into Torso(1) for 5.78 damage (MeleeInfectedLong)
+12:06:04 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7864.1, 7722.7, 9.7>)[HP: 89.3825] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+12:12:24 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7888.0, 7673.4, 9.6>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+12:12:25 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7888.6, 7672.4, 9.6>)[HP: 98.5375] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+12:13:10 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7883.0, 7694.0, 9.6>)[HP: 99.8904] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:13:13 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7881.0, 7694.6, 10.3>)[HP: 99.4281] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+12:13:14 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7881.9, 7694.1, 9.6>)[HP: 98.796] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+12:13:17 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7884.6, 7692.5, 9.6>)[HP: 94.376] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+12:13:19 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7881.8, 7693.5, 9.6>)[HP: 94.4662] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+12:14:03 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7897.3, 7637.6, 10.6>)[HP: 95.6871] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+12:39:26 | Player "Anjabro"(id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-06-03 at 12:41:44
+12:44:45 | Player "Anjabro"(id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM=) is connected
+13:06:12 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7097.2, 6252.5, 88.5>)[HP: 98.0875] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+13:06:16 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7093, 6257.8, 88.5>)[HP: 98.268] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:06:17 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7091.7, 6260, 88.5>)[HP: 97.7155] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:09:07 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7080.7, 6250.2, 88.4>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:13:51 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7053.8, 5793.1, 40.6>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:13:52 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7053.1, 5792.1, 41.6>)[HP: 98.895] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:13:52 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7053.2, 5792.0, 41.6>)[HP: 94.475] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+13:13:52 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7053.2, 5792, 41.6>)[HP: 93.0125] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+13:13:53 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7053.1, 5791.6, 41.6>)[HP: 88.5925] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+13:14:07 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7025.7, 5775.2, 40.2>)[HP: 84.6017] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+13:14:08 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7023.9, 5776.0, 40.2>)[HP: 84.0492] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:14:10 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7017.4, 5780.4, 40.2>)[HP: 83.5762] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:14:10 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7016.4, 5781.1, 40.2>)[HP: 82.1137] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+13:14:15 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.1, 5782.1, 41.4>)[HP: 81.7134] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:14:18 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.1, 5782.1, 41.4>)[HP: 81.2339] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:14:19 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.0, 5782, 41.4>)[HP: 79.7714] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+13:14:20 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.0, 5782, 41.4>)[HP: 78.3089] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+13:14:21 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.6, 5782.0, 41.4>)[HP: 76.9172] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+13:14:21 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.7, 5782.0, 41.4>)[HP: 75.4547] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+13:14:22 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.7, 5782.0, 41.4>)[HP: 74.9022] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:14:22 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.7, 5782.0, 41.4>)[HP: 74.3497] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:14:22 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7011.8, 5782.0, 41.4>) is unconscious
+13:15:00 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7012.5, 5781.7, 41.4>) regained consciousness
+13:15:14 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7012.7, 5782.2, 41.4>)[HP: 70.8334] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+13:15:16 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7012.7, 5782.2, 41.4>)[HP: 69.41] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+13:15:35 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7013.1, 5782.3, 41.4>)[HP: 69.1032] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:15:37 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7013.1, 5782.3, 41.4>)[HP: 68.5507] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:15:38 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7013.1, 5782.3, 41.4>)[HP: 64.1638] hit by Infected into Torso(1) for 4.42 damage (MeleeInfected)
+13:15:40 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7013.1, 5782.3, 41.4>)[HP: 63.6113] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:26:29 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7015.8, 5751.4, 40.2>)[HP: 63.9001] hit by FireplaceFireBarrel with FireDamage
+13:28:07 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7016.2, 5751.4, 40.2>)[HP: 57.6615] hit by FireplaceFireBarrel with FireDamage
+13:28:07 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7016.2, 5751.4, 40.2>)[HP: 56.8152] hit by FireplaceFireBarrel with FireDamage
+13:28:08 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7016.2, 5751.4, 40.2>)[HP: 48.7585] hit by FireplaceFireBarrel with FireDamage
+13:34:27 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7015.5, 5751.4, 40.2>)[HP: 53.1738] hit by FireplaceFireBarrel with FireDamage
+13:34:28 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<7015.5, 5751.4, 40.2>)[HP: 51.3511] hit by FireplaceFireBarrel with FireDamage
+13:52:21 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<6160.4, 5780.9, 8.0>)[HP: 58.9115] hit by Infected into Torso(1) for 5.525 damage (MeleeInfected)
+13:52:23 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<6163.7, 5785.3, 8.0>)[HP: 58.2316] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+13:52:24 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<6164.9, 5786.9, 8.0>)[HP: 57.6791] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+13:56:15 | Player "Anjabro" (id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM= pos=<6162.9, 5871.5, 8.9>) performed EmoteSitA with Crossbow_Autumn
+13:56:29 | Player "Anjabro"(id=qhsfBzIRWPqR7htNvCBTNpglkbHVhC3JD5BRv2qbBTM=) has been disconnected

@@ -1,0 +1,40 @@
+
+
+******************************************************************************
+AdminLog started on 2025-05-01 at 04:24:56
+
+
+******************************************************************************
+AdminLog started on 2025-05-01 at 12:42:06
+14:00:05 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) is connected
+14:01:05 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1380.2, 11835.1, 2.0>) performed EmoteSitA with AliceBag_Camo
+14:01:21 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) has been disconnected
+19:01:11 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+19:01:30 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+19:10:32 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6299.4, 9522.6, 20.6>) performed EmotePoint
+19:50:23 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4174.7, 8885.9, 189.5>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+19:50:27 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4172.2, 8886.6, 189.0>)[HP: 98.5651] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+19:50:31 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4168.8, 8887.9, 186.5>)[HP: 98.6552] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:00:02 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3753.8, 8243.9, 153.1>) performed EmoteHeart
+20:00:17 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3758.5, 8244.0, 153.1>) performed EmoteSOS
+20:00:19 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3759.8, 8244.0, 153.1>) performed EmoteHeart
+20:00:24 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3759.9, 8244.0, 153.1>) performed EmoteHeart
+20:02:14 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3775.3, 8244.2, 144.2>)[HP: 93.9357] hit by FallDamageHealth
+20:02:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3778.4, 8244.2, 144.6>)[HP: 91.4847] hit by FallDamageHealth
+20:13:19 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<1935.1, 11069.4, 2.0>) is unconscious
+20:13:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<1935.9, 11069, 2.0>) regained consciousness
+21:00:07 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+21:00:07 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-01 at 21:02:10
+21:05:42 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+21:08:01 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+21:23:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<3840.3, 9232.5, 7.3>) performed EmoteSitA with Saiga
+21:23:58 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+21:24:26 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<3838.8, 9234.2, 7.0>) performed EmoteSitA
+21:24:42 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+
+
+**********************************EOF****************************************

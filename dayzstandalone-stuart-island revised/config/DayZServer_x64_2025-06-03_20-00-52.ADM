@@ -1,0 +1,23 @@
+
+
+******************************************************************************
+AdminLog started on 2025-06-03 at 20:00:52
+20:04:34 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) is connected
+20:21:13 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4266.9, 1663.3, 7.4>)[HP: 97.2898] hit by Infected into LeftArm(18) for 8.5 damage (MeleeInfectedLong)
+20:21:15 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4266.0, 1664.8, 7.4>)[HP: 90.7793] hit by Infected into Torso(1) for 6.5 damage (MeleeInfected)
+20:21:20 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4274.1, 1658.2, 7.4>)[HP: 90.7082] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:22:17 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4192.9, 1660.9, 7.2>)[HP: 88.7065] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+20:22:20 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4192.8, 1666.9, 7.4>)[HP: 80.146] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+20:23:06 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4138.9, 1688.9, 6.7>)[HP: 79.252] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:23:19 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4134.0, 1695.8, 6.7>)[HP: 78.1084] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+20:23:39 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4051.7, 1704.9, 6.2>)[HP: 75.8205] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+20:23:42 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4043.1, 1709.9, 6.3>)[HP: 67.2599] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+20:23:45 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4033.6, 1710.1, 6.9>)[HP: 65.2854] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+20:23:49 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4032.2, 1706.5, 6.9>)[HP: 65.1703] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:23:50 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4032.2, 1706.5, 6.9>)[HP: 56.62] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+20:23:51 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4032.9, 1707.5, 6.9>)[HP: 55.5532] hit by Infected into RightArm(17) for 11 damage (MeleeSoldierInfectedLong)
+20:25:01 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<4033.9, 1725.7, 7.5>)[HP: 52.7277] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+20:31:00 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<3721.5, 1455.3, 3.5>)[HP: 28.2193] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:31:01 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<3721.4, 1454.6, 3.4>)[HP: 27.3236] hit by Infected into RightArm(17) for 6.5 damage (MeleeInfected)
+20:35:22 | Player "SamGeekMan" (DEAD) (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<3679.5, 1529.5, -0.2>) died. Stats> Water: 192.612 Energy: 0 Bleed sources: 0
+20:37:02 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) has been disconnected

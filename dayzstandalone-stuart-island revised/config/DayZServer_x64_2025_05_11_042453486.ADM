@@ -1,0 +1,54 @@
+
+
+******************************************************************************
+AdminLog started on 2025-05-10 at 04:25:01
+12:33:47 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+12:39:52 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6294.5, 9524.6, 20.8>) is unconscious
+12:40:24 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6294.3, 9524.7, 20.8>) regained consciousness
+12:41:38 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-10 at 12:43:42
+12:51:41 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+15:23:08 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+15:23:37 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+16:29:04 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6309.9, 9523.5, 20.6>) performed EmoteSitA
+16:29:06 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-10 at 21:02:48
+21:34:38 | Player "Survivor"(id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w=) is connected
+21:41:45 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6231.7, 11796.7, 16.9>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+21:41:48 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6231.6, 11796.1, 16.9>)[HP: 99.4726] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+21:41:49 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6231.2, 11793.7, 16.9>)[HP: 99.5627] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:41:56 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6231.3, 11793.4, 16.9>)[HP: 99.7429] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+21:42:04 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6233.7, 11790.5, 16.9>)[HP: 93.825] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+21:42:07 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6235.3, 11788.4, 16.9>)[HP: 93.9151] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:42:08 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6236.6, 11787.1, 16.9>)[HP: 93.9151] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+21:42:44 | Player "Survivor" (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6240.5, 11810.5, 16.9>) performed EmoteSuicide with WoodAxe
+21:42:52 | Player "Survivor" (DEAD) (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6240.5, 11810.5, 16.9>) died. Stats> Water: 742.135 Energy: 783.396 Bleed sources: 1
+21:42:52 | Player "Survivor" (DEAD) (id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w= pos=<6240.5, 11810.5, 16.9>) committed suicide
+21:42:54 | Player "Survivor"(id=c99m_533x_mk8Xm_oCqKHJKvwmFEtp_YpOKzblhuT9w=) has been disconnected
+22:05:44 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+22:14:02 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+22:30:10 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 98] hit by ReindeerSteakMeat with EnviroDmg
+22:30:11 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 96.0903] hit by ReindeerSteakMeat with EnviroDmg
+22:30:12 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 94.0903] hit by ReindeerSteakMeat with EnviroDmg
+22:30:13 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 92.0903] hit by ReindeerSteakMeat with EnviroDmg
+22:30:14 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 90.1805] hit by ReindeerSteakMeat with EnviroDmg
+22:30:15 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 88.1805] hit by ReindeerSteakMeat with EnviroDmg
+22:30:16 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 86.1805] hit by ReindeerSteakMeat with EnviroDmg
+22:30:17 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 84.2706] hit by ReindeerSteakMeat with EnviroDmg
+22:30:18 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 82.2706] hit by ReindeerSteakMeat with EnviroDmg
+22:30:19 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 80.2706] hit by ReindeerSteakMeat with EnviroDmg
+22:30:20 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 78.3607] hit by ReindeerSteakMeat with EnviroDmg
+22:30:21 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9520.4, 20.8>)[HP: 76.3607] hit by ReindeerSteakMeat with EnviroDmg
+22:41:45 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.3, 9519.8, 20.8>) performed EmoteSitA
+22:41:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6310.4, 9522.6, 20.6>) performed EmoteSitA with Aug
+22:42:00 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+22:42:13 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+**********************************EOF****************************************

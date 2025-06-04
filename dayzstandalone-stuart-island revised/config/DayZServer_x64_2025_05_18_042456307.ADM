@@ -1,0 +1,300 @@
+
+
+******************************************************************************
+AdminLog started on 2025-05-17 at 04:25:19
+11:25:23 | Player "SENSEI"(id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM=) is connected
+11:30:38 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<8949.0, 10617.9, 5.5>)[HP: 99.415] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+11:39:58 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<8123.5, 10819.3, 15.3>) is unconscious
+11:40:30 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<8123.7, 10819.5, 15.3>) regained consciousness
+12:04:56 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7579.7, 11345.3, 35.3>)[HP: 95.6125] hit by Infected into Torso(1) for 4.3875 damage (MeleeInfected)
+12:05:00 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7568.3, 11345, 35.3>)[HP: 95.7027] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+12:13:24 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7316.2, 10507, 45.5>)[HP: 98.0875] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+12:13:25 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7314.5, 10508.3, 45.5>)[HP: 95.6125] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+12:13:28 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7309.3, 10511.3, 45.5>)[HP: 93.7902] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+12:13:47 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7326.0, 10507.1, 46.7>)[HP: 92.5092] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+12:13:49 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7326.0, 10507.1, 46.7>)[HP: 90.5967] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+12:13:55 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7326.0, 10507.1, 46.7>)[HP: 90.012] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+12:13:57 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7326.0, 10507.4, 46.7>)[HP: 88.1897] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+12:13:58 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7326.1, 10507.6, 46.7>)[HP: 87.4247] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+12:16:06 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<7301.6, 10529, 45.4>)[HP: 91.3032] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:22:42 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<6855.5, 9926.9, 4.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+12:23:00 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<6822.8, 9887.0, 3.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+12:23:06 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<6821.9, 9891.0, 3.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:23:07 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<6820.5, 9893.7, 4.1>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+12:41:46 | Player "SENSEI"(id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-17 at 12:43:41
+12:44:40 | Player "SENSEI"(id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM=) is connected
+13:09:46 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5028.5, 6466.0, 38.6>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:09:50 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5031.3, 6462.7, 37.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:09:51 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5031.8, 6461.9, 36.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:09:54 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5033.9, 6459.8, 36.1>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+13:10:00 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5036.6, 6455.1, 34.7>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+13:10:06 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5037.2, 6454.4, 34.4>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:13:18 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<4833.8, 6186.5, 41.0>)[HP: 97.6375] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:34:43 | Player "SENSEI" (id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM= pos=<5009.8, 6073.3, 2.8>) performed EmoteSitA
+13:34:55 | Player "SENSEI"(id=2Ci3Ox8TjyjUR-A4t7Z-RtRcdi_076hTxh6ihVE1iAM=) has been disconnected
+16:18:06 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+16:20:37 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6297.8, 9526.2, 25.2>) is unconscious
+16:21:08 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6297.8, 9526.2, 25.2>) regained consciousness
+16:23:45 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6292.9, 9527.2, 20.7>) performed EmoteSitA with M16A2
+16:23:58 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+18:01:14 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+18:15:11 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+19:14:28 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+19:23:14 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4855.5, 10854.6, 14.2>)[HP: 79.2775] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+19:23:24 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4854.8, 10851.7, 13.4>)[HP: 77.7101] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+19:23:26 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4855.3, 10852.6, 13.6>)[HP: 75.3726] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+19:23:29 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4854.0, 10855.5, 14.2>)[HP: 73.7258] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+19:29:26 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4831.8, 10862.5, 13.8>)[HP: 79.0961] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+19:32:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4849.4, 10831.3, 13.6>)[HP: 77.8437] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+19:32:40 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4849.5, 10832.2, 13.6>)[HP: 76.1221] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+19:32:41 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4850.8, 10834.3, 13.6>)[HP: 73.7846] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+19:32:43 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4850.7, 10834.1, 13.6>)[HP: 72.063] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+20:14:30 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4505.8, 11117.7, 11.3>)[HP: 77.8691] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:14:32 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4505.7, 11117.1, 11.3>)[HP: 75.5316] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+20:21:59 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4571.1, 11018.3, 15.3>) performed EmoteSitA
+20:22:14 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+20:30:41 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+20:37:25 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4466.5, 11123.8, 13.0>)[HP: 77.8325] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:26 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4467.0, 11122.8, 13.0>)[HP: 75.495] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:29 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.3, 11124.9, 12.1>)[HP: 73.4176] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:30 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4462.0, 11126.2, 11.3>)[HP: 72.7853] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:37:31 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4462.1, 11127, 11.3>)[HP: 69.9803] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+20:37:34 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 67.9029] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:34 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.3, 11.3>)[HP: 65.7354] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.5, 11137.1, 11.3>)[HP: 65.0129] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:37:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.6, 11137.1, 11.3>)[HP: 62.8454] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.5, 11137.1, 11.3>)[HP: 60.5079] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.5, 11137.1, 11.3>)[HP: 57.7029] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+20:37:36 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 56.7679] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:36 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 56.0454] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:37:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 55.201] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.3, 11.3>)[HP: 53.0335] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.3, 11.3>)[HP: 52.311] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:37:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.3, 11.3>)[HP: 49.9735] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.3, 11.3>) is unconscious
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 49.251] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 48.316] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 46.5097] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 44.7035] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 42.536] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:37:38 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 41.8135] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:37:39 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 39.646] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:38:30 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>) regained consciousness
+20:38:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.4, 11137.4, 11.3>)[HP: 39.1915] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:38:36 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.2, 11137.3, 11.3>)[HP: 38.469] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:38:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.2, 11137.3, 11.3>)[HP: 36.2218] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+20:38:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.2, 11137.3, 11.3>)[HP: 34.0543] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:38:39 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4461.2, 11137.3, 11.3>)[HP: 32.248] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:38:43 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4456.3, 11135.5, 11.6>)[HP: 31.7051] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+20:38:44 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4456.4, 11135.4, 11.6>)[HP: 28.9001] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+20:38:44 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4456.5, 11135.5, 11.6>)[HP: 28.0501] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+20:38:44 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4456.4, 11136.1, 11.6>) is unconscious
+20:39:15 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4455.8, 11137, 11.7>) regained consciousness
+20:50:57 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4421.8, 11200.8, 2.6>)[HP: 43.334] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+20:50:58 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4421.5, 11201.3, 2.6>)[HP: 42.399] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+20:51:03 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4420.8, 11203, 2.7>)[HP: 40.7397] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:51:05 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4421.6, 11204.6, 2.8>)[HP: 38.9334] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+20:51:18 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4421.6, 11207.8, 2.8>)[HP: 38.5688] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:51:22 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4440.7, 11207.1, 3.0>)[HP: 37.9143] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+20:59:26 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4572.7, 11020.6, 17.2>) performed EmoteSitA with PP19
+20:59:34 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+21:00:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<4572.7, 11020.6, 17.2>) performed EmoteSitA with PP19
+21:00:49 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+21:01:30 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-05-17 at 21:03:24
+22:06:48 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) is connected
+22:08:51 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+22:12:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6622.4, 11444.3, 15.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:12:19 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6617.6, 11432.1, 15.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:12:26 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6617.4, 11432.1, 15.0>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:12:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6627.5, 11425.7, 15.0>)[HP: 99.7428] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:13:02 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6614.3, 11397.4, 15.0>)[HP: 97.9812] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+22:13:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6613.5, 11397.9, 15.0>)[HP: 91.8963] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+22:16:42 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6622.6, 11375.4, 15.0>)[HP: 98.3889] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:23:47 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6613.6, 11295.9, 15.0>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:23:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6613.6, 11296, 15.0>)[HP: 98.8552] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:23:49 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6613.6, 11296, 15.0>)[HP: 98.2377] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:23:50 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6613.6, 11296.1, 15.0>)[HP: 92.0627] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+22:23:54 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6611.3, 11290.1, 15.1>)[HP: 91.6258] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:23:55 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6611.0, 11287.7, 15.1>)[HP: 91.6258] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:23:59 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6608.1, 11285.7, 15.1>)[HP: 91.7161] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:24:00 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6608.0, 11284.3, 15.6>)[HP: 90.9988] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+22:33:14 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6449.0, 11187.2, 12.2>)[HP: 78.1939] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+22:33:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6649.4, 11285.1, 15.0>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+22:33:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6647.1, 11286.6, 15.0>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:33:42 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6642.6, 11285.4, 15.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:34:26 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6655.5, 11288.6, 15.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:36:01 | Player "Decalacs (2)"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+22:36:02 | Player "Decalacs (2)"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+22:36:03 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+22:36:12 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+22:42:42 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6739.8, 11248.8, 15.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:43:08 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6739.3, 11242.5, 15.1>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:44:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6692.8, 11194.5, 15.3>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:44:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6696.9, 11199, 15.0>)[HP: 99.4725] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:44:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6669.3, 11152.4, 15.1>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:50:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6651.1, 11115.8, 15.1>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:50:32 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6651.6, 11118, 15.1>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:50:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6653.7, 11117.9, 15.1>)[HP: 99.5628] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:50:39 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6655.8, 11121.2, 15.1>)[HP: 99.5628] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:51:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6688.5, 11003.1, 15.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+22:51:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6687.9, 11002.9, 15.2>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:52:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6697.4, 11008.7, 15.1>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:52:29 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6697.3, 11011.6, 15.1>)[HP: 98.8551] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:52:31 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6691.3, 11012.8, 15.1>)[HP: 98.9453] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:52:34 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6688.6, 11012.8, 15.1>)[HP: 98.418] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:52:36 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6687.4, 11012.5, 15.1>)[HP: 97.8005] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:52:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6687.6, 11013, 15.1>)[HP: 96.338] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+22:52:37 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6687.3, 11013, 15.1>)[HP: 95.8106] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:52:41 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6676.2, 11004.1, 15.1>)[HP: 91.2694] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+22:52:43 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6668.9, 11002, 15.1>)[HP: 90.742] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:52:45 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6664.0, 11000, 15.1>)[HP: 86.1108] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+22:52:50 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6645.0, 10997.5, 15.1>)[HP: 86.2911] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:52:51 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6641.4, 10998.1, 15.1>)[HP: 84.8286] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+22:52:52 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6642.1, 10997.8, 15.1>)[HP: 83.0062] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+22:52:53 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6641.6, 10998.9, 15.1>)[HP: 81.5437] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+22:52:54 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6642.0, 10998.2, 15.1>)[HP: 80.0812] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+22:52:56 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6641.3, 10997.7, 15.1>)[HP: 79.5541] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:52:56 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6640.4, 10997.5, 15.1>) is unconscious
+22:52:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6639.7, 10997, 15.1>)[HP: 78.9366] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+22:52:58 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6639.2, 10996.6, 15.3>)[HP: 78.4094] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:53:48 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6639.2, 10996.6, 15.3>) regained consciousness
+22:54:49 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6661.7, 11000.7, 15.1>)[HP: 81.6558] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+22:55:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6683.1, 11010.3, 15.1>)[HP: 82.3769] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+22:55:33 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6701.0, 10997.5, 15.1>)[HP: 83.008] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+22:55:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6699.7, 10999.6, 15.1>)[HP: 82.5708] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:55:57 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6694.3, 10991.5, 15.3>)[HP: 82.4945] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+22:55:58 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6694.2, 10992.6, 15.6>)[HP: 82.4945] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+22:56:01 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6698.5, 10992.4, 15.2>)[HP: 82.5847] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:03:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6733.7, 10967.5, 29.2>)[HP: 84.4812] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:03:46 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6761.1, 11007.3, 15.1>)[HP: 83.6322] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:04:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6753.8, 11044.6, 15.3>)[HP: 83.2071] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:04:08 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6752.5, 11046.2, 15.3>)[HP: 83.1568] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:04:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.4, 11039.8, 15.1>)[HP: 83.1463] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:04:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6745.1, 11037.6, 15.1>)[HP: 83.1358] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:04:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6740.7, 11037.5, 15.1>)[HP: 83.0352] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:04:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6737.9, 11037, 15.1>)[HP: 82.4075] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:04:17 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6738.2, 11035.7, 15.2>)[HP: 81.7397] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:04:19 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.8, 11037.9, 15.1>)[HP: 81.7294] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:04:20 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.0, 11037.6, 15.1>)[HP: 81.6791] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:04:25 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.4, 11037, 15.1>)[HP: 81.6085] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:04:26 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6749.0, 11039.7, 15.1>)[HP: 81.5584] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:04:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.2, 11041.7, 15.1>)[HP: 80.7906] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+23:04:28 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.5, 11042.7, 15.2>)[HP: 76.1092] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+23:04:29 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.9, 11045.3, 15.1>)[HP: 70.0931] hit by Infected into Torso(1) for 6.05625 damage (MeleeInfectedLong)
+23:04:34 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.0, 11045.4, 15.1>)[HP: 69.9318] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:05:18 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+23:05:47 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) is connected
+23:08:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6759.6, 11112.7, 15.0>)[HP: 73.6596] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:08:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6757.2, 11113.2, 15.0>)[HP: 72.2873] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+23:08:17 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6760.9, 11120.6, 15.0>)[HP: 72.3775] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:08:18 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6762.0, 11123, 15.0>)[HP: 72.3775] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:08:19 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6762.8, 11123.8, 15.0>)[HP: 70.5551] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+23:08:21 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6762.4, 11124, 15.0>)[HP: 69.1828] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+23:08:25 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6758.2, 11120.7, 15.0>)[HP: 69.2731] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:08:27 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6757.2, 11119, 15.0>)[HP: 64.732] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+23:08:29 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6756.4, 11117.4, 15.0>)[HP: 64.732] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:14:16 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6446.9, 11226.4, 14.4>)[HP: 78.1937] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+23:14:20 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6442.7, 11232.2, 14.6>)[HP: 77.3488] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+23:17:08 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6808.9, 11182.7, 15.7>)[HP: 80.3377] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:17:08 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6808.5, 11182, 15.7>)[HP: 80.3377] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:17:10 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6804.7, 11179.8, 15.7>)[HP: 80.428] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:17:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6799.3, 11177, 15.7>)[HP: 79.0557] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+23:17:25 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6774.1, 11152.9, 14.7>)[HP: 74.6954] hit by Infected into Torso(1) for 4.63125 damage (MeleeInfected)
+23:18:07 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6747.6, 11203.9, 20.1>)[HP: 74.4963] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+23:18:08 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.4, 11203.7, 20.1>)[HP: 74.5869] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:18:09 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6748.7, 11204.3, 20.1>)[HP: 73.9694] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:18:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.4, 11205.5, 20.1>)[HP: 73.2519] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+23:18:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.2, 11205.2, 20.1>)[HP: 72.6344] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:18:12 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.1, 11205.2, 20.1>)[HP: 71.1719] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+23:18:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.0, 11205.3, 20.1>)[HP: 70.5544] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:18:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.0, 11205.3, 20.1>)[HP: 69.0919] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+23:18:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.0, 11205.3, 20.1>)[HP: 68.3746] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+23:18:13 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.0, 11205.3, 20.1>)[HP: 62.3184] hit by Infected into Torso(1) for 6.05625 damage (MeleeInfectedLong)
+23:18:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6742.0, 11205.4, 20.1>) is unconscious
+23:18:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.9, 11205.4, 20.1>)[HP: 61.7009] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:18:14 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.9, 11205.6, 20.1>)[HP: 60.8934] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+23:18:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.9, 11205.8, 20.1>)[HP: 54.8371] hit by Infected into Torso(1) for 6.05625 damage (MeleeInfectedLong)
+23:18:15 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.9, 11205.9, 20.1>)[HP: 54.2196] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+23:19:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6741.9, 11206, 20.1>) regained consciousness
+23:23:40 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6740.2, 11207.5, 33.9>)[HP: 60.8335] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+23:25:46 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.4, 11204.8, 20.1>)[HP: 63.5772] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:26:16 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6743.0, 11208.3, 20.1>)[HP: 62.775] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+23:35:38 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6857.2, 11245.4, 15.3>)[HP: 75.6242] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:36:04 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6844.8, 11282, 15.5>)[HP: 76.2665] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+23:44:06 | Player "Survivor" (id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec= pos=<6874.7, 11298.1, 58.3>) performed EmoteSitA with CZ527
+23:44:21 | Player "Survivor"(id=vTTBmDkbHo3UtHkHJ06sTLglZM6HICb8QRm4WGpz0ec=) has been disconnected
+23:46:01 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6942.7, 11472.9, 15.5>)[HP: 78.2474] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+23:46:03 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6942.8, 11473.5, 15.5>)[HP: 75.5325] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+23:46:04 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6943.0, 11473.4, 15.5>)[HP: 73.7263] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+23:48:25 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6979.0, 11502.4, 15.0>)[HP: 77.2414] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:48:27 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6978.9, 11502.4, 15.0>)[HP: 74.5266] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+23:48:29 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6978.8, 11502, 15.6>)[HP: 73.5916] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+23:48:30 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6979.1, 11501.8, 15.9>)[HP: 71.5145] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+23:49:14 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7006.1, 11508.4, 15.0>)[HP: 70.6088] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+23:49:15 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7006.6, 11506.1, 15.0>)[HP: 67.8939] hit by Infected into Torso(1) for 2.805 damage (MeleeSoldierInfectedLong)
+23:54:54 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7031.3, 11061.9, 17.3>)[HP: 76.1882] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+23:54:55 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7032.9, 11061.7, 18.0>)[HP: 75.3436] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:06 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7032.7, 11061, 19.0>)[HP: 73.8077] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+23:55:09 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7029.1, 11059.3, 17.6>)[HP: 73.1753] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:55:11 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.0, 11058.8, 16.9>)[HP: 70.9281] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:13 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.1, 11059, 17.0>)[HP: 68.6808] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:15 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.1, 11059, 17.0>)[HP: 67.7458] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:16 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.1, 11059, 17.0>)[HP: 66.9009] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:18 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.1, 11059, 17.0>)[HP: 66.1784] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:55:19 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7028.9, 11058.4, 17.7>)[HP: 65.3336] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+23:55:21 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7029.5, 11058.7, 17.8>)[HP: 63.5273] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+23:55:22 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7031.4, 11058.9, 18.6>)[HP: 62.8949] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+23:55:23 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7031.8, 11058.2, 19.5>) is unconscious
+23:55:57 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<7032.4, 11059.2, 19.4>) regained consciousness
+23:57:22 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6996.3, 10992.3, 15.1>)[HP: 65.7786] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:57:25 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6996.1, 10984.9, 15.1>)[HP: 65.1464] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:57:27 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6996.5, 10983.8, 15.3>)[HP: 64.4239] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+00:27:39 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6882.7, 9978.2, 4.7>)[HP: 79.3032] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+00:27:41 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6882.9, 9975.9, 4.7>)[HP: 77.5872] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+00:29:54 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6862.8, 9941.0, 12.9>)[HP: 79.0864] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+00:30:07 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6857.6, 9934.1, 7.8>)[HP: 77.6408] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+00:36:32 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6500.5, 9296.7, 16.0>)[HP: 78.4176] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:43:16 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6325.0, 9362.3, 21.4>)[HP: 79.4871] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+00:44:46 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6394.7, 9346.3, 21.8>)[HP: 79.4759] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:44:48 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6395.5, 9348.3, 22.0>)[HP: 78.0947] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+00:44:50 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6396.0, 9347.5, 21.8>)[HP: 77.6325] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:45:35 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6352.0, 9313.0, 18.1>)[HP: 77.3274] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:45:37 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6353.8, 9311, 17.7>)[HP: 75.76] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:45:39 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<6353.8, 9310.1, 17.6>)[HP: 74.3788] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+00:50:58 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5876.6, 8710.9, 50.6>)[HP: 79.3382] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+00:52:15 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5824.5, 8739.3, 51.9>)[HP: 79.3369] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+00:52:22 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5823.3, 8741.5, 50.7>)[HP: 78.9648] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+00:52:23 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5824.4, 8739.8, 50.7>)[HP: 77.2488] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+00:52:39 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5810.1, 8728.5, 51.1>)[HP: 76.3181] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+00:52:40 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5811.0, 8726.7, 51.2>)[HP: 74.5118] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+00:52:51 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5815.9, 8735.2, 51.8>)[HP: 74.32] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:52:56 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5812.1, 8736.2, 50.5>)[HP: 73.8578] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:52:59 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5817.7, 8735.5, 52.0>)[HP: 73.4857] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+00:53:06 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5823.7, 8740.9, 50.6>)[HP: 72.0085] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:53:06 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5824.2, 8740.9, 50.6>)[HP: 70.6272] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+00:53:08 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5826.2, 8741.6, 50.6>)[HP: 68.821] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+00:53:08 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5826.6, 8741.7, 50.6>)[HP: 68.3585] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+00:53:09 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5828.6, 8741.7, 50.6>)[HP: 67.636] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+00:53:11 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5830.7, 8742.1, 50.5>)[HP: 66.3448] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+00:53:12 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5830.8, 8741.8, 50.6>)[HP: 64.9636] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+00:53:12 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5831.0, 8742.0, 50.6>)[HP: 63.3061] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:53:12 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5831.1, 8742.5, 50.5>)[HP: 62.7536] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+00:53:13 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5831.1, 8742.1, 50.6>)[HP: 60.9473] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+00:53:14 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5831.0, 8739.7, 50.7>) is unconscious
+00:53:14 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5831.2, 8739.2, 50.6>)[HP: 59.38] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:53:15 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5832.5, 8738.9, 50.6>)[HP: 57.7225] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+00:53:52 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5832.5, 8738.5, 50.6>) regained consciousness
+00:56:18 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5789.0, 8719.3, 53.1>)[HP: 60.4332] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+01:01:08 | Player "Decalacs" (id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo= pos=<5361.4, 8779.0, 35.4>) performed EmoteSitA
+01:01:23 | Player "Decalacs"(id=DjwZqw2KuPoXgvsXA217ti6PB_NDTF4ydk54N7JPWNo=) has been disconnected
+
+
+**********************************EOF****************************************

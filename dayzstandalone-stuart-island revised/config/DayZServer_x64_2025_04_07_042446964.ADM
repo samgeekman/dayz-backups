@@ -1,0 +1,480 @@
+
+
+******************************************************************************
+AdminLog started on 2025-04-06 at 02:00:40
+
+
+******************************************************************************
+AdminLog started on 2025-04-06 at 04:24:47
+08:37:17 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) is connected
+08:51:32 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+08:51:47 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+08:52:22 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6292.6, 9522.5, 20.8>) performed EmoteTaunt
+08:52:24 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6292.6, 9522.5, 20.8>) performed EmoteGreeting
+08:54:17 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6303.4, 9512.2, 20.6>) performed EmoteHeart
+08:54:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6300.7, 9516.6, 23.4>)[HP: 99.1925] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+08:57:10 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.2, 9386.0, 24.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+08:57:12 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.1, 9386.2, 24.2>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+08:57:13 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.1, 9386.2, 24.2>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+08:57:15 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.1, 9386.2, 24.2>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:08:29 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6808.3, 9884.1, 4.8>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:08:36 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6807.6, 9883.7, 4.9>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+09:18:12 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6307.1, 9382.6, 20.9>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:18:19 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6302.1, 9387.1, 20.9>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+09:18:22 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) is connected
+09:18:23 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6298.1, 9383.2, 20.9>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:18:25 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6298.5, 9382.1, 21.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+09:21:38 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6298.6, 9381.9, 21.0>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+09:21:45 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6294.7, 9370.7, 21.1>)[HP: 92.543] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+09:31:31 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6487.7, 9285.0, 16.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:32:06 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6447.3, 9307.9, 16.0>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+09:32:11 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6446.8, 9310.9, 16.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:32:19 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6444.6, 9314.3, 16.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+09:38:45 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6299.9, 9391.1, 20.9>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+09:38:49 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6299.5, 9393.2, 20.9>)[HP: 98.1475] hit by Infected into Torso(1) for 1.8525 damage (MeleeInfected)
+09:38:50 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6300.3, 9393.4, 20.9>)[HP: 98.1475] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+09:38:50 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6301.8, 9394.4, 20.9>)[HP: 96.1287] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+09:38:52 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6304.1, 9395.9, 20.9>)[HP: 94.6752] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+09:38:53 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6305.9, 9395.9, 20.9>)[HP: 94.6752] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+09:38:53 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6306.0, 9396.0, 20.9>)[HP: 92.2527] hit by Infected into Torso(1) for 2.4225 damage (MeleeInfectedLong)
+09:39:00 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6308.2, 9401.6, 20.9>)[HP: 92.5231] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:39:46 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6314.2, 9374.6, 21.4>)[HP: 93.8763] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+09:39:47 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.0, 9374.8, 21.4>)[HP: 93.8763] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+09:39:48 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.0, 9374.8, 21.4>)[HP: 93.9664] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+09:39:50 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.0, 9374.8, 21.4>)[HP: 93.9664] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:39:55 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6312.1, 9368.9, 21.4>)[HP: 94.1466] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+09:40:00 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6313.3, 9367.1, 21.4>)[HP: 94.327] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:40:02 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6314.6, 9366.5, 21.4>)[HP: 94.327] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+09:40:04 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.5, 9367.3, 21.4>)[HP: 94.4174] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+09:40:07 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.3, 9371.8, 21.4>)[HP: 93.8902] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+09:40:08 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.7, 9372.3, 21.4>)[HP: 93.8902] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+10:01:14 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6317.1, 9514.9, 20.6>) performed EmoteTaunt with AKM
+10:04:02 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6315.9, 9521.4, 20.6>)[HP: 84.2232] hit by explosion (FlashGrenade_Ammo)
+10:05:37 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6311.3, 9372.4, 21.4>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+10:05:39 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6313.3, 9369.7, 21.4>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+10:05:40 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6313.8, 9368.1, 21.4>)[HP: 98.4563] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+10:05:41 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6313.8, 9368.1, 21.4>)[HP: 96.0338] hit by Infected into Torso(1) for 2.4225 damage (MeleeInfectedLong)
+10:05:45 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6314.1, 9367.4, 21.4>)[HP: 96.2141] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+10:05:47 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.0, 9366.6, 21.4>)[HP: 96.2141] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+10:12:50 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6352.1, 9403.4, 20.9>) performed EmoteSitA
+10:13:06 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) has been disconnected
+10:14:18 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.3, 9392.3, 20.9>)[HP: 98.1475] hit by Infected into Torso(1) for 1.8525 damage (MeleeInfected)
+10:27:09 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) is connected
+10:27:17 | Player "Vygeta (2)"(id=Unknown) has been disconnected
+10:30:06 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4117.9, 6689.3, 376.9>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+10:30:07 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4117.8, 6688.4, 376.9>)[HP: 97.3862] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+10:31:48 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.6, 9398.0, 20.9>)[HP: 99.4885] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:31:52 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6310.7, 9399.1, 20.9>)[HP: 99.5786] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+10:31:57 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6309.2, 9398.8, 20.9>)[HP: 99.7589] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+10:32:00 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6305.4, 9398.4, 20.9>)[HP: 99.8492] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:32:02 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6306.1, 9401.8, 20.9>)[HP: 99.9395] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+10:32:04 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6308.4, 9405.5, 20.9>)[HP: 99.9395] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+10:32:11 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6308.8, 9413.3, 20.8>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+10:32:11 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6308.8, 9413.9, 20.8>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:32:15 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6309, 9417.8, 20.8>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+10:32:18 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6309.2, 9419.8, 20.8>)[HP: 98.8553] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+10:32:20 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6306.9, 9421.9, 20.8>)[HP: 98.9454] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+10:32:24 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6309.6, 9427.3, 20.8>)[HP: 99.0356] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:32:25 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6310.7, 9428.5, 20.8>)[HP: 99.0356] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:32:25 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6311.3, 9428.9, 20.8>)[HP: 99.0356] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+10:32:29 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6314.8, 9432.4, 20.8>)[HP: 98.5082] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+10:32:31 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6315.9, 9433.7, 20.8>)[HP: 97.981] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+10:32:33 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.2, 9433.0, 20.8>)[HP: 96.2186] hit by Infected into Torso(1) for 1.8525 damage (MeleeInfected)
+10:32:34 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.3, 9432.9, 20.8>)[HP: 93.7961] hit by Infected into Torso(1) for 2.4225 damage (MeleeInfectedLong)
+10:32:35 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.5, 9432.8, 20.8>)[HP: 91.9436] hit by Infected into Torso(1) for 1.8525 damage (MeleeInfected)
+10:32:39 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6313.2, 9443.3, 20.8>)[HP: 90.2717] hit by Infected into Torso(1) for 1.8525 damage (MeleeInfected)
+10:33:04 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6324.5, 9389.7, 21.4>)[HP: 90.376] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+10:36:44 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6363.9, 9385.7, 22.6>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+10:37:57 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6356.1, 9330.6, 20.9>)[HP: 93.825] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+10:37:59 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6354.5, 9329.2, 20.8>)[HP: 87.65] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+10:38:04 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6360.4, 9395.2, 21.8>)[HP: 98.245] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+10:38:11 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6354.7, 9400.1, 20.8>)[HP: 98.4254] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+10:38:12 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6353.3, 9399.0, 20.8>)[HP: 98.5154] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+10:38:17 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6356.0, 9402.1, 20.8>)[HP: 98.6056] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+10:38:18 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6347.8, 9336.7, 20.9>)[HP: 88.2814] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+10:38:19 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6348.0, 9336.9, 20.9>)[HP: 86.3689] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+10:38:22 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6348.1, 9337.1, 20.9>)[HP: 78.3839] hit by Infected into Torso(1) for 8.075 damage (MeleeInfectedLong)
+10:38:22 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6348.2, 9337.1, 20.9>)[HP: 77.7664] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+10:38:23 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6348.4, 9337.4, 20.9>)[HP: 77.1489] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+10:46:28 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.7, 9378.4, 22.0>) performed EmoteCampfireSit
+10:47:24 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6318.6, 9380.2, 21.4>) is unconscious
+10:47:24 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.6, 9378.4, 22.0>) is unconscious
+10:47:24 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6318.4, 9383.9, 21.4>) is unconscious
+10:47:24 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4222.8, 6613.3, 390.8>) is unconscious
+10:47:56 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<4222.3, 6612.6, 390.8>) regained consciousness
+10:47:57 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6318.6, 9380.5, 21.4>) regained consciousness
+10:47:57 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6317.8, 9384.0, 21.4>) regained consciousness
+10:48:02 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.2, 9378.9, 21.4>) regained consciousness
+10:58:29 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5820.9, 8676.8, 50.8>)[HP: 59.1657] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+10:58:38 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5819.7, 8665.8, 54.2>)[HP: 58.8187] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+10:58:39 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5819.7, 8665.8, 55.5>)[HP: 58.2915] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+10:59:19 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5819.1, 8665.4, 53.8>)[HP: 29.7544] hit by FallDamageHealth
+10:59:34 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6323.0, 9371.5, 21.4>) performed EmoteSitA
+10:59:47 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) has been disconnected
+11:00:24 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5740.3, 8734.8, 51.8>)[HP: 30.0663] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+11:00:28 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5738.7, 8734.9, 51.8>)[HP: 29.5335] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+11:00:36 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5743.4, 8736.0, 51.8>)[HP: 29.7875] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+11:00:41 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5748.7, 8735.7, 51.9>)[HP: 28.3285] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+11:06:08 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.4, 9398.3, 20.9>)[HP: 37.111] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+11:08:40 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6323.7, 9378.6, 21.4>)[HP: 41.6223] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+11:08:41 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6324.1, 9376.8, 21.4>)[HP: 41.6223] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:08:46 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6325.7, 9373.0, 21.4>)[HP: 41.8005] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+11:08:48 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6326.0, 9371.3, 21.4>)[HP: 39.378] hit by Infected into Torso(1) for 2.4225 damage (MeleeInfectedLong)
+11:11:03 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<3439.8, 6730.8, 216.0>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+11:12:42 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6321.7, 9389.1, 21.4>)[HP: 45.6042] hit by Infected into LeftArm(18) for 8.075 damage (MeleeInfectedLong)
+11:12:47 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6321.8, 9386.9, 21.4>)[HP: 45.7848] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+11:15:18 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6054.2, 9014.2, 28.0>)[HP: 50.2943] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:15:20 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6052.8, 9013.1, 28.2>)[HP: 47.2495] hit by Infected into Torso(1) for 3.135 damage (MeleeSoldierInfectedLong)
+11:15:22 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6052.8, 9013.1, 28.2>)[HP: 44.1145] hit by Infected into Torso(1) for 3.135 damage (MeleeSoldierInfectedLong)
+11:15:26 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6051.8, 9012.1, 28.3>)[HP: 43.3973] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+11:38:15 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.9, 9521.5, 20.8>) performed EmoteTaunt
+11:51:19 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6348.2, 9356.0, 20.9>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+11:51:21 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6346.7, 9356.3, 20.9>)[HP: 99.5376] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+11:51:22 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6345.6, 9356.1, 20.9>)[HP: 99.5376] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+11:51:27 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6346.6, 9350.8, 20.9>)[HP: 99.7181] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+11:51:30 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6343.5, 9348.1, 20.9>)[HP: 98.1508] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+11:51:34 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6338.1, 9346.3, 20.9>)[HP: 96.7785] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+12:05:12 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6304.2, 9521.9, 20.6>) built ShelterFabric with Hands 
+12:05:20 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6329.0, 9367.6, 22.1>) performed EmoteSitA
+12:05:36 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) has been disconnected
+12:12:16 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6519.7, 9311.7, 16.0>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+12:12:17 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6522.1, 9311.8, 16.0>)[HP: 98.0013] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+12:12:22 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6520.6, 9311.8, 16.0>)[HP: 98.1815] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:18:13 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6524.3, 9292.6, 16.0>)[HP: 85.4694] hit by FallDamageHealth
+12:24:29 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6300.3, 9519.8, 20.6>)[HP: 97.625] hit by Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6301.0, 9518.2, 20.6>) into LeftLeg(10) for 9.5 damage (MeleeFist)
+12:24:32 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6302.7, 9518.4, 22.9>)[HP: 94.7084] hit by Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6302, 9516.7, 20.6>) into RightLeg(3) for 8.5 damage (MeleeFist)
+12:25:16 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6302.2, 9539.4, 20.7>)[HP: 99.0681] hit by Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6301.3, 9537.3, 20.6>) into RightHand(47) for 0 damage (Dummy_Light)
+12:25:24 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6308.3, 9553.9, 20.5>)[HP: 88.1322] hit by Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6297.7, 9540.8, 20.7>) into RightLeg(3) for 44.8257 damage (Bullet_9x19) with CR-75 from 16.8209 meters 
+12:31:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6308.2, 9521.7, 20.6>) built ShelterFabric with Hands 
+12:33:23 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6363.9, 9437.2, 23.4>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+12:33:26 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6364.0, 9439.0, 23.4>)[HP: 97.9812] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+12:33:28 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6363.9, 9441.2, 23.4>)[HP: 96.4375] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+12:33:29 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6364.2, 9443.8, 23.5>)[HP: 96.5276] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+12:33:31 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6364.4, 9444.9, 23.5>)[HP: 96.6179] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+12:33:35 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6365.0, 9448.5, 23.5>)[HP: 96.7081] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+12:33:37 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6365.2, 9449.5, 23.5>)[HP: 96.1231] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+12:34:18 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6301.5, 9524.3, 20.6>)[HP: 96.4031] hit by Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6300.7, 9523.7, 20.6>) into LeftHand(46) for 8.5 damage (MeleeFist)
+12:35:25 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6244.1, 9367.4, 21.0>)[HP: 98.3928] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+12:35:30 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6244.2, 9374.1, 21.0>)[HP: 98.4797] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+12:35:34 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6244.1, 9377.3, 21.0>)[HP: 97.0229] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+12:39:20 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+12:39:20 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-06 at 12:41:28
+13:42:48 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) is connected
+13:44:36 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6245.7, 9406.1, 21.0>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+13:44:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6248.0, 9404.4, 21.0>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:44:54 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+13:45:36 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6182.5, 9180.9, 18.6>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:45:55 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6135.3, 9149.3, 20.4>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+13:48:22 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5759.4, 8711.1, 51.0>)[HP: 100] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+13:48:22 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5758.7, 8711.3, 51.1>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+13:48:27 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5757.2, 8711.3, 51.2>)[HP: 98.245] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+13:48:28 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5754.6, 8709.4, 51.1>)[HP: 97.66] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+13:48:34 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5753.9, 8705.6, 51.0>)[HP: 97.2542] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+13:48:35 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5756.3, 8706.8, 50.9>)[HP: 97.3422] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+13:49:25 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5775.2, 8713.2, 51.1>)[HP: 97.2421] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+13:49:28 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5775.4, 8713.1, 51.1>)[HP: 96.5537] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:02:50 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6548.9, 8489.8, 1.8>)[HP: 97.6625] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+14:03:00 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6560.5, 8479.5, 1.5>)[HP: 97.1295] hit by Infected into LeftArm(18) for 7.65 damage (MeleeSoldierInfected)
+14:03:05 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6562.4, 8479.6, 1.2>)[HP: 94.9468] hit by Infected into LeftLeg(8) for 9.35 damage (MeleeSoldierInfectedLong)
+14:03:08 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6558.8, 8482.0, 1.3>)[HP: 97.705] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+14:03:09 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6560.2, 8481.4, 1.2>)[HP: 95.0925] hit by Infected into LeftLeg(8) for 10.45 damage (MeleeSoldierInfectedLong)
+14:03:09 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6560.5, 8481.7, 1.1>)[HP: 93.0737] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+14:03:10 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6559.9, 8482.6, 1.0>)[HP: 90.5516] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+14:03:11 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.7, 8480.2, 1.2>)[HP: 93.2953] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+14:03:12 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.6, 8480.5, 1.1>)[HP: 93.2953] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:03:13 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6560.0, 8482.9, 0.9>)[HP: 89.8768] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+14:03:13 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.7, 8480.4, 1.2>)[HP: 91.5667] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+14:03:14 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.7, 8480.2, 1.2>)[HP: 88.5966] hit by Infected into Torso(1) for 2.97 damage (MeleeSoldierInfectedLong)
+14:03:14 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6560.0, 8482.9, 0.9>)[HP: 86.9068] hit by Infected into Torso(1) for 2.97 damage (MeleeSoldierInfectedLong)
+14:03:14 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.7, 8480.3, 1.2>)[HP: 86.3017] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+14:03:16 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6561.8, 8480.1, 1.2>)[HP: 84.0416] hit by Infected into RightLeg(3) for 9.35 damage (MeleeSoldierInfectedLong)
+14:03:16 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6560.0, 8482.8, 1.0>)[HP: 84.3843] hit by Infected into LeftLeg(8) for 10.45 damage (MeleeSoldierInfectedLong)
+14:03:18 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6567.8, 8475.6, 1.3>)[HP: 83.2766] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+14:03:22 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6572.2, 8472.6, 1.5>)[HP: 83.4317] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+14:03:26 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6571.3, 8472.3, 1.6>)[HP: 83.7198] hit by Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6572.8, 8472.8, 1.4>) into LeftHand(46) for 8.5 damage (MeleeFist)
+14:08:25 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7256.1, 7986.8, 84.6>)[HP: 90.0273] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:08:28 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7254.5, 7988.0, 84.6>)[HP: 88.646] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:08:30 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7259.6, 7991.4, 84.6>)[HP: 88.7263] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:08:31 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.8, 7991.4, 84.6>)[HP: 88.7263] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+14:08:31 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7262.5, 7991.5, 85.0>)[HP: 88.8065] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:08:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7993.2, 84.6>)[HP: 88.8871] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:08:39 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 88.9674] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:08:40 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 88.2024] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:08:41 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 85.9879] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:08:42 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 84.6066] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:08:42 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 83.2254] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:08:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 80.9304] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:08:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 80.246] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:08:45 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 78.491] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:08:45 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 76.6848] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeInfectedLong)
+14:08:46 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 75.9198] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:08:46 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>) is unconscious
+14:08:47 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 74.1942] hit by Infected into RightLeg(3) for 7.225 damage (MeleeInfectedLong)
+14:08:47 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.9, 84.7>)[HP: 72.8129] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:09:19 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7279.8, 7999.2, 95.2>)[HP: 94.2697] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:09:20 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7280.8, 7998.6, 95.7>)[HP: 92.0648] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:09:24 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7279.8, 8004.8, 95.2>)[HP: 92.1549] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:09:27 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7278.0, 8004.5, 95.4>)[HP: 90.2263] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+14:09:29 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7277.3, 8004.0, 95.2>)[HP: 88.2978] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+14:09:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7260.5, 7994.8, 84.7>) regained consciousness
+14:09:57 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7274.5, 8015.9, 84.3>)[HP: 74.6722] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:10:04 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7270.9, 8013.5, 84.3>)[HP: 74.8344] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:10:10 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7270.5, 8011.8, 84.3>)[HP: 73.6157] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:10:15 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7270.3, 8011.0, 84.3>)[HP: 73.778] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:11:22 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7279.1, 7991.7, 84.6>)[HP: 89.9888] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:11:30 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7277.7, 7990.3, 85.0>)[HP: 88.4963] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:11:31 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7277.8, 7990.4, 84.8>)[HP: 87.7313] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+14:13:34 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7271.8, 8001.4, 95.2>)[HP: 91.3385] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:13:35 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7270.9, 8003.0, 95.2>)[HP: 90.5735] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:13:41 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7270.5, 7999.9, 95.2>)[HP: 88.9952] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:13:43 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7270.4, 8003.5, 95.2>)[HP: 88.3186] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+14:13:46 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7271.7, 8002.8, 95.2>)[HP: 86.8632] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:13:47 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7271.6, 8003.7, 95.2>)[HP: 84.6566] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:13:49 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7271.4, 8002.2, 95.2>)[HP: 84.0716] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+14:13:49 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7271.4, 8001.0, 95.2>)[HP: 82.3166] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:13:54 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7257.3, 7983.7, 95.3>)[HP: 80.9497] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+14:13:58 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7252.6, 7979.3, 95.3>)[HP: 81.0383] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:13:59 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7252.4, 7979.5, 95.3>)[HP: 81.1267] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:14:01 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7252.4, 7979.5, 95.3>)[HP: 80.3617] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+14:14:02 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7252.4, 7979.5, 95.3>)[HP: 78.1552] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:14:05 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7323.2, 7994.2, 84.3>)[HP: 78.3658] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:14:12 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7325.3, 7992.1, 84.3>)[HP: 77.9477] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+14:14:16 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7327.6, 7995.5, 84.3>)[HP: 76.65] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:14:41 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7268.6, 7991.7, 89.1>)[HP: 77.6749] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+14:14:42 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7332.6, 7959.9, 84.6>)[HP: 77.4023] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:14:42 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7268.6, 7991.7, 89.3>)[HP: 75.7447] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeInfectedLong)
+14:14:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7332.7, 7959.1, 84.6>)[HP: 76.8173] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+14:14:45 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.9, 7990.9, 89.1>)[HP: 74.0784] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:14:46 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.7, 7990.7, 89.2>)[HP: 73.4934] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+14:14:46 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.6, 7990.6, 89.2>)[HP: 71.9497] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+14:14:47 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.6, 7990.7, 89.3>)[HP: 70.0196] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+14:14:48 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.5, 7990.6, 89.1>)[HP: 67.7246] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:14:48 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7331.7, 7959.5, 84.6>)[HP: 76.9848] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:14:49 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.5, 7990.6, 89.3>)[HP: 66.9596] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+14:14:51 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.5, 7990.6, 89.3>)[HP: 66.4634] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+14:14:53 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.5, 7990.6, 89.3>)[HP: 64.1684] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:14:54 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.3, 7990.8, 89.3>)[HP: 62.2372] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+14:14:55 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7267.3, 7990.8, 89.3>) is unconscious
+14:15:26 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7266.9, 7990.6, 88.7>) regained consciousness
+14:15:52 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7314.9, 7941.1, 84.8>)[HP: 77.3693] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+14:17:08 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7294.3, 7928.4, 84.9>)[HP: 78.7222] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+14:17:18 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7280.3, 7945.2, 84.7>)[HP: 77.6813] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:17:22 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7284.2, 7944.3, 84.7>)[HP: 77.1814] hit by Infected into RightArm(17) for 5.85 damage (MeleeInfected)
+14:17:23 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7285.9, 7943.8, 84.7>)[HP: 75.8001] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:17:24 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7286.3, 7943.8, 85.3>)[HP: 74.504] hit by Infected into RightLeg(3) for 5.525 damage (MeleeInfected)
+14:17:28 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7275.6, 7936.6, 84.8>)[HP: 72.9643] hit by Infected into RightLeg(3) for 6.5 damage (MeleeInfected)
+14:17:28 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7275.3, 7935.5, 84.8>)[HP: 72.3143] hit by Infected into LeftArm(18) for 6.5 damage (MeleeInfected)
+14:17:39 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<7273.7, 7945.9, 84.7>)[HP: 70.7057] hit by Infected into Torso(1) for 1.95 damage (MeleeInfected)
+14:27:33 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6541.5, 8496.9, 2.2>)[HP: 85.6047] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+14:27:34 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6542.5, 8496.6, 2.2>)[HP: 83.5675] hit by Infected into RightLeg(3) for 8.5 damage (MeleeSoldierInfected)
+14:27:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6547.7, 8495.4, 1.4>)[HP: 81.4879] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+14:27:37 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6547.2, 8499.7, 1.7>)[HP: 76.3873] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+14:27:41 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6547.8, 8502.7, 2.3>)[HP: 73.896] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
+14:27:42 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6546.7, 8503.8, 2.5>)[HP: 73.046] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+14:27:44 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6543.4, 8506.5, 0.9>)[HP: 70.5546] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
+14:27:48 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6537.4, 8506.7, 0.7>)[HP: 68.0622] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
+14:27:49 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6545.7, 8487.2, 2.3>)[HP: 79.7141] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeSoldierInfected)
+14:27:49 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6537.4, 8508.5, 0.4>)[HP: 67.2687] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+14:27:56 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6528.4, 8505.7, 2.2>)[HP: 64.829] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
+14:27:59 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6539.4, 8479.6, 1.8>)[HP: 77.8526] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeSoldierInfected)
+14:28:00 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6540.9, 8477.7, 1.7>)[HP: 77.1301] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+14:28:03 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6543.7, 8471.5, 1.7>)[HP: 75.0505] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+14:28:11 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6558.1, 8464.8, 2.3>)[HP: 73.1465] hit by Infected into Torso(1) for 2.1675 damage (MeleeSoldierInfected)
+14:50:41 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6516.3, 9319.5, 16.0>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+14:51:03 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6531.0, 9302.1, 16.0>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:51:04 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6530.5, 9301.6, 16.0>)[HP: 98.375] hit by Infected into LeftLeg(8) for 6.5 damage (MeleeInfected)
+14:52:04 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6522.8, 9292.4, 16.0>)[HP: 87.4819] hit by FallDamageHealth
+14:52:40 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6500.1, 9276.8, 16.1>)[HP: 88.011] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+14:52:41 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6500.1, 9276.8, 16.1>)[HP: 87.2885] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+14:52:42 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6500.1, 9276.7, 16.1>)[HP: 85.1635] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeInfectedLong)
+14:52:45 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6506.6, 9276.0, 16.1>)[HP: 85.2537] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:52:50 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6509.5, 9275.5, 16.1>)[HP: 85.434] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:52:56 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6511.9, 9274.9, 16.0>)[HP: 83.4892] hit by Infected into RightLeg(3) for 8.5 damage (MeleeInfectedLong)
+14:52:56 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6512.1, 9275.0, 16.0>)[HP: 81.8317] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+14:52:57 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6501.5, 9285.0, 17.0>)[HP: 62.2234] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+14:53:00 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6516.1, 9274.6, 16.0>)[HP: 81.3694] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+14:53:04 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6519.6, 9273.9, 16.0>)[HP: 80.907] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+14:53:04 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6499.9, 9284.8, 16.0>)[HP: 62.3323] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:53:07 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6500.1, 9288.1, 16.0>)[HP: 62.4416] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+14:53:09 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6499.7, 9289.2, 16.0>)[HP: 61.8566] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+14:53:10 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6498.8, 9292.3, 16.0>)[HP: 61.1462] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+14:54:17 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6469.7, 9290.1, 16.0>)[HP: 81.5369] hit by Infected into RightLeg(3) for 6.5 damage (MeleeInfected)
+14:54:34 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6464.9, 9323, 16.0>)[HP: 80.4204] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+14:54:35 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6463.0, 9322.6, 16.1>)[HP: 79.6979] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+14:54:38 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6460.3, 9322.0, 16.0>)[HP: 79.7879] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+14:54:53 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6459.9, 9331.9, 16.0>)[HP: 63.019] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:54:54 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6459.3, 9333.7, 16.1>)[HP: 63.019] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:54:56 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6456.6, 9334.0, 16.1>)[HP: 62.4897] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+14:54:59 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6452.9, 9334.4, 16.1>)[HP: 60.7902] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+14:55:05 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6449.8, 9334.7, 16.1>)[HP: 58.6066] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+14:55:07 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6450.6, 9334.6, 16.1>)[HP: 58.6066] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+14:57:37 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6376.2, 9433.1, 25.1>)[HP: 83.0316] hit by Infected into Torso(1) for 2.1675 damage (MeleeInfectedLong)
+15:01:32 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6314.3, 9522.4, 20.6>) built ShelterFabric with Hands 
+15:02:21 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6300.9, 9519.3, 20.6>) performed EmoteSitA
+15:02:37 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) has been disconnected
+15:02:42 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6295.5, 9521.4, 20.8>) performed EmoteSitA with LongWoodenStick
+15:02:57 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+15:50:01 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) is connected
+15:54:16 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6321.1, 9387.5, 21.4>)[HP: 98.3425] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+15:56:14 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6340.0, 9415.6, 20.9>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+15:56:15 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6339.3, 9416.3, 20.9>)[HP: 97.535] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+15:56:18 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6338.8, 9419.1, 20.9>)[HP: 97.0727] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+15:56:19 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6337.1, 9419.6, 20.9>)[HP: 97.1629] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+15:56:22 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6332.5, 9417.8, 20.9>)[HP: 97.253] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+15:56:26 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6331.3, 9409.1, 20.9>)[HP: 96.6205] hit by Infected into LeftArm(18) for 7.225 damage (MeleeInfectedLong)
+15:56:29 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6334.5, 9406.7, 20.9>)[HP: 94.7982] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+15:56:32 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6328.6, 9405.3, 20.9>)[HP: 93.4258] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+15:56:33 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6327.4, 9405.2, 20.9>)[HP: 91.9633] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+15:56:33 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6327.2, 9405.3, 20.9>)[HP: 91.33] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+15:56:42 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6325.1, 9402.7, 20.9>)[HP: 89.9337] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+15:56:43 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6326.6, 9401.4, 20.9>)[HP: 89.2112] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+15:56:51 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6316.3, 9403.9, 20.8>)[HP: 88.0003] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+15:56:52 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6314.9, 9402.5, 20.8>)[HP: 86.5378] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+16:00:01 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6293.9, 9524.5, 20.8>)[HP: 89.5007] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+16:06:40 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6061.6, 8997.8, 27.8>)[HP: 94.0567] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+16:06:43 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6066.8, 9004.6, 26.9>)[HP: 92.1806] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+16:11:37 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6323.1, 9413.4, 20.8>)[HP: 95.8712] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+16:11:40 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6323.3, 9422.1, 20.8>)[HP: 95.3577] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+16:27:04 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5855.1, 8654.6, 50.8>)[HP: 98.5375] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+16:39:00 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+16:40:15 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) is connected
+16:43:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5855.4, 8652.6, 50.8>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+16:43:50 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5855.5, 8647.5, 50.8>)[HP: 99.563] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+16:43:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5855.1, 8640.8, 50.8>)[HP: 99.6531] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+16:50:02 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6326.4, 9423.5, 23.5>)[HP: 77.7457] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+16:50:04 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6327.9, 9421.6, 23.5>)[HP: 77.1607] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+17:21:18 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) has been disconnected
+17:21:24 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) is connected
+17:21:50 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5817.1, 8717.5, 50.8>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+17:21:51 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5817.6, 8718.3, 50.6>)[HP: 97.79] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+17:21:52 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5818.9, 8718.5, 50.6>)[HP: 95.9436] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+17:22:12 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) has been disconnected
+17:28:36 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) is connected
+17:29:30 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6327.4, 9412.3, 20.9>)[HP: 98.5375] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+17:29:31 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6327.0, 9412.7, 20.9>)[HP: 97.8202] hit by Infected into RightArm(17) for 8.075 damage (MeleeInfectedLong)
+17:29:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6103.7, 9956.7, 17.7>)[HP: 97.5775] hit by Infected into Torso(1) for 2.4225 damage (MeleeSoldierInfected)
+17:30:00 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) is connected
+17:32:07 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5817.0, 8718.9, 50.6>)[HP: 98.1233] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+17:32:08 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<5817.1, 8719.2, 50.6>)[HP: 97.4008] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+17:38:35 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6331.7, 9402.4, 20.9>)[HP: 98.3425] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+17:39:52 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6314.8, 9408.7, 20.8>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+17:39:53 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6315.8, 9408.6, 20.8>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+17:45:15 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6313.7, 9386.3, 21.4>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+17:45:17 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6312.0, 9385.2, 21.4>)[HP: 93.825] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:45:21 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6311.9, 9385.2, 21.4>)[HP: 92.0929] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+17:45:22 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6311.6, 9385.0, 21.4>)[HP: 85.9179] hit by Infected into Torso(1) for 6.175 damage (MeleeInfected)
+17:47:50 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6322.4, 9370.7, 21.4>)[HP: 98.245] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+17:47:51 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6323.5, 9370.5, 21.4>)[HP: 98.3352] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+17:47:52 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6323.5, 9370.5, 21.4>)[HP: 98.3352] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+17:47:57 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6323.5, 9369.9, 21.4>)[HP: 97.7507] hit by Infected into RightArm(17) for 7.65 damage (MeleeInfectedLong)
+17:48:13 | Player "Vygeta" (id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY= pos=<6293.0, 9519.8, 24.6>) performed EmoteSitA
+17:48:28 | Player "Vygeta"(id=k5j-fRseWfOdKHSE5m04nHamKEoA3g9YZod9BesiOMY=) has been disconnected
+17:56:57 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6304.0, 9505.7, 20.7>) performed EmoteLyingDown
+18:11:58 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6312.8, 9392.4, 20.9>)[HP: 99.4475] hit by Infected into RightArm(17) for 5.525 damage (MeleeInfected)
+18:11:59 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6312.0, 9392.0, 20.9>)[HP: 97.28] hit by Infected into Torso(1) for 2.1675 damage (MeleeInfectedLong)
+18:14:37 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7181.1, 6290.9, 92.2>) is unconscious
+18:14:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7180.8, 6291.7, 92.3>) regained consciousness
+18:20:22 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7090.3, 6244.3, 88.6>) is unconscious
+18:20:22 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7084.5, 6245.7, 88.6>) is unconscious
+18:20:22 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.6, 9379.1, 21.4>) is unconscious
+18:20:50 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.1, 9379.6, 21.4>) regained consciousness
+18:20:51 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7084.4, 6245.8, 88.6>) regained consciousness
+18:20:53 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7090.3, 6244.4, 88.6>) regained consciousness
+18:27:23 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7090.1, 6242.2, 88.7>)[HP: 99.2575] hit by Fireplace with FireDamage
+18:27:24 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7090.1, 6242.2, 88.7>)[HP: 98.3544] hit by Fireplace with FireDamage
+18:27:25 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7090.1, 6242.2, 88.7>)[HP: 95.5551] hit by Fireplace with FireDamage
+18:32:53 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.7, 9364.8, 21.4>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+18:32:54 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.5, 9364.0, 21.4>)[HP: 97.28] hit by Infected into Torso(1) for 2.1675 damage (MeleeInfectedLong)
+18:33:21 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7075.4, 5830.7, 41.4>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+18:33:22 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7077.6, 5830.6, 41.4>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+18:33:27 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7078.9, 5830.3, 41.4>)[HP: 98.4563] hit by Infected into RightLeg(3) for 6.175 damage (MeleeInfected)
+18:33:31 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7084.9, 5829.4, 41.4>)[HP: 98.5464] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+18:42:57 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7075.6, 5829.1, 41.5>)[HP: 99.1563] hit by FireplaceFireBarrel with FireDamage
+18:42:57 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7075.6, 5829.1, 41.5>)[HP: 96.3364] hit by FireplaceFireBarrel with FireDamage
+18:51:52 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6442.5, 5855.0, 40.1>) performed EmoteClap
+18:55:00 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6177.2, 5743.8, 8.0>)[HP: 98.6188] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+18:55:03 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6169.8, 5734.2, 7.9>)[HP: 97.3277] hit by Infected into LeftLeg(8) for 5.525 damage (MeleeInfected)
+18:58:38 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6168.7, 5723.7, 7.8>)[HP: 98.9923] hit by explosion (Fireworks_Ammo)
+19:00:25 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.7, 9373.6, 21.4>) performed EmoteSitA
+19:00:34 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.9, 9374.6, 21.4>) performed EmoteSitB
+19:13:56 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5972.5, 6619.0, 20.2>)[HP: 98.1937] hit by Infected into LeftLeg(8) for 7.225 damage (MeleeSoldierInfected)
+19:14:21 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<5991.4, 6601.0, 20.2>)[HP: 97.705] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+19:14:23 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<5987.5, 6603.6, 20.2>)[HP: 95.41] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+19:24:08 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7212.4, 10904.9, 12.4>)[HP: 99.8935] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+19:24:10 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7214.5, 10904.8, 12.4>)[HP: 97.981] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeInfectedLong)
+19:24:13 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7217.0, 10906.1, 12.4>)[HP: 97.9427] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+19:25:22 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7233.2, 10824.9, 16.3>)[HP: 96.5052] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+19:25:33 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5989.1, 6621.7, 20.1>)[HP: 99.1925] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+19:26:18 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<5957.8, 6671.9, 16.0>)[HP: 97.705] hit by Infected into Torso(1) for 2.295 damage (MeleeSoldierInfected)
+19:26:22 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5955.7, 6671.1, 16.0>)[HP: 99.1925] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+19:27:45 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7205.8, 10832.4, 16.2>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+19:27:49 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7206.0, 10833.8, 16.2>)[HP: 99.5377] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+19:27:56 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<7207.2, 10834.7, 16.1>)[HP: 99.0857] hit by Infected into RightArm(17) for 7.225 damage (MeleeInfectedLong)
+19:38:53 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6322.5, 9406.0, 20.8>)[HP: 99.4475] hit by Infected into LeftArm(18) for 5.525 damage (MeleeInfected)
+19:38:54 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6321.8, 9406.7, 20.8>)[HP: 97.28] hit by Infected into Torso(1) for 2.1675 damage (MeleeInfectedLong)
+19:38:56 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6317.9, 9409.4, 20.8>)[HP: 97.3701] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+19:38:59 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6311.2, 9414.1, 20.8>)[HP: 95.6518] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+19:39:20 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6318.4, 9404.7, 20.8>)[HP: 93.5711] hit by Infected into Torso(1) for 1.6575 damage (MeleeInfected)
+19:40:09 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6321.4, 9373.1, 21.4>)[HP: 91.141] hit by Infected into RightLeg(3) for 5.85 damage (MeleeInfected)
+19:40:10 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6319.5, 9372.5, 21.4>)[HP: 89.218] hit by Infected into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+19:42:20 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<5959.1, 6640.1, 18.0>)[HP: 99.235] hit by Infected into RightArm(17) for 7.65 damage (MeleeSoldierInfected)
+19:42:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5984.5, 6657.9, 17.5>)[HP: 98.1937] hit by Infected into RightLeg(3) for 7.225 damage (MeleeSoldierInfected)
+20:06:30 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6995.8, 5797.8, 40.1>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:06:33 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6993.5, 5795.2, 40.1>)[HP: 98.245] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+20:06:36 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6992.6, 5793.0, 40.1>)[HP: 96.0402] hit by Infected into Torso(1) for 2.295 damage (MeleeInfectedLong)
+20:10:50 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7092.2, 6252.2, 88.5>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:10:55 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7095.6, 6254.5, 88.5>)[HP: 98.4563] hit by Infected into LeftLeg(8) for 6.175 damage (MeleeInfected)
+20:10:58 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7097.9, 6255.5, 88.5>)[HP: 97.9614] hit by Infected into LeftArm(18) for 5.85 damage (MeleeInfected)
+20:11:01 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7097.8, 6255.4, 88.5>)[HP: 96.2966] hit by Infected into Torso(1) for 1.755 damage (MeleeInfected)
+20:11:03 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7097.4, 6255.3, 88.5>)[HP: 95.6216] hit by Infected into LeftArm(18) for 7.65 damage (MeleeInfectedLong)
+20:11:04 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7097.5, 6254.8, 88.5>)[HP: 93.6029] hit by Infected into RightLeg(3) for 8.075 damage (MeleeInfectedLong)
+20:11:53 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7069.5, 6253.2, 88.4>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+20:11:54 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7070.5, 6251.8, 88.4>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+20:11:56 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7069.9, 6251.6, 88.4>)[HP: 100] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+20:11:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7069.8, 6250.2, 88.4>)[HP: 100] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+20:12:02 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7069.9, 6247.2, 88.4>)[HP: 99.3825] hit by Infected into LeftArm(18) for 6.175 damage (MeleeInfected)
+20:27:50 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<7816.5, 9411.5, 3.3>) performed EmoteSitA
+20:28:02 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+20:34:01 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7817.6, 9410.2, 2.7>)[HP: 97.975] hit by Fireplace with FireDamage
+20:34:02 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7817.6, 9410.2, 2.7>)[HP: 95.2064] hit by Fireplace with FireDamage
+20:34:02 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<7817.7, 9410.3, 2.7>)[HP: 94.499] hit by Fireplace with FireDamage
+20:55:31 | Player "Burli" (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg= pos=<6294.4, 9519.8, 20.8>) performed EmoteSitA
+20:55:46 | Player "Burli"(id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has been disconnected
+20:56:56 | Player "Delta" (id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY= pos=<6337.5, 9393.9, 21.0>) performed EmoteSitA
+20:57:10 | Player "Delta"(id=F1NLg7ABLydoloSHz8o0ZXw77dM1ydZvfk1T-5U8FmY=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-06 at 20:59:22
+23:07:20 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) is connected
+23:21:20 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5425.1, 9342.4, 68.3>)[HP: 96.9636] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+23:21:22 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5422.7, 9347.2, 68.6>)[HP: 94.7157] hit by Infected into RightLeg(3) for 8.5 damage (MeleeSoldierInfected)
+23:21:23 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5422.2, 9348.1, 68.6>)[HP: 93.9932] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+23:21:24 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5420.8, 9350.7, 68.8>)[HP: 93.0582] hit by Infected into RightArm(17) for 9.35 damage (MeleeSoldierInfectedLong)
+23:31:44 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5701.0, 10087.5, 25.0>)[HP: 50.4559] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+23:31:51 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5700.3, 10090.3, 25.3>)[HP: 50.2715] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+23:46:31 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5691.7, 10097.1, 25.9>) is unconscious
+23:47:01 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5691.1, 10097, 25.9>) regained consciousness
+00:22:52 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5038.7, 6557.4, 47.2>)[HP: 97.525] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+00:22:52 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5038.7, 6557.4, 47.2>)[HP: 95.05] hit by Infected into LeftLeg(8) for 9.9 damage (MeleeSoldierInfectedLong)
+00:23:00 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5048.1, 6560.9, 47.2>)[HP: 94.598] hit by Infected into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+00:23:03 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5048.6, 6556.4, 47.2>)[HP: 92.7756] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+00:23:14 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5048.3, 6558.1, 47.2>)[HP: 92.3173] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+00:23:15 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5048.0, 6557.6, 47.2>)[HP: 85.1782] hit by Infected into Torso(1) for 7.225 damage (MeleeSoldierInfected)
+00:23:17 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5047.7, 6556.2, 47.2>)[HP: 78.037] hit by Infected into Torso(1) for 7.225 damage (MeleeSoldierInfected)
+00:23:19 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5048.8, 6556.8, 47.2>)[HP: 68.687] hit by Infected into Torso(1) for 9.35 damage (MeleeSoldierInfectedLong)
+00:24:23 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.4, 6561.3, 47.2>)[HP: 69.3544] hit by Infected into RightArm(17) for 7.225 damage (MeleeSoldierInfected)
+00:24:24 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.6, 6561.7, 47.2>)[HP: 69.3544] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+00:24:26 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.6, 6561.7, 47.2>)[HP: 68.4194] hit by Infected into LeftArm(18) for 9.35 damage (MeleeSoldierInfectedLong)
+00:24:27 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.6, 6561.7, 47.2>)[HP: 68.4796] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+00:24:29 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.6, 6561.7, 47.2>)[HP: 68.4796] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+00:24:40 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<5037.4, 6561.6, 47.2>)[HP: 66.8082] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+00:39:43 | Player "SamGeekMan" (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= pos=<6368.1, 8612.9, 6.4>) performed EmoteSitA
+00:39:58 | Player "SamGeekMan"(id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) has been disconnected
+
+
+**********************************EOF****************************************

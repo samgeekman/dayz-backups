@@ -1,0 +1,598 @@
+=====================================================================
+== C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=85.190.162.236 -port=11200 -cpuCount=4 -limitFPS=100 -config=serverDZ.cfg "-mod=@Stuart Island;@Stuart Island Props" -profiles=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -adminlog -freezecheck
+=====================================================================
+Exe timestamp: 2025/06/03 20:37:22
+Current time:  2025/06/04 01:19:48
+Version 1.28.160049
+=====================================================================
+
+ 1:19:48.830 [Inputs] Loading inputs default "bin/constants.xml"
+ 1:19:48.841 [Inputs] Loading inputs default "bin/specific.xml"
+ 1:19:48.844 [Inputs] Loading inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 1:19:48.859 [Inputs] Exporting inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 1:20:13.548 Hostname of server: "Return to Stuart Island - Playtest | New POIs | PvP"
+ 1:20:18.48 [CE][Hive] :: Initializing OFFLINE
+ 1:20:18.49 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\
+ 1:20:18.54 [CE][Hive] :: Loading core data ... 
+ 1:20:18.58 [CE][CoreData] :: 8 root classes, 5 defaults, 0 updaters...
+ 1:20:26.802 [CE][TypeSetup] :: 563 classes setuped...
+ 1:20:27.507 [CE][RegisterBind] :: 0 classes binded...
+ 1:20:27.507 [CE][RegisterConfig] :: 5509 config classes registered, 0 sub-counters...
+ 1:20:27.507 [CE][Hive] :: Loading map data ... 
+ 1:20:27.570 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.570 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:27.570 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:27.570 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:27.571 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.571 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.574 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.575 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.576 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.577 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.577 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.577 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.581 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.581 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.581 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.583 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.583 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.583 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.584 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.585 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.585 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.585 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.585 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.586 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.587 !!! [CE] :: Unknown tag: 'ground'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.588 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 1:20:27.589 [CE][LoadPrototype] :: loaded 335 prototypes
+ 1:20:27.589   711 containers, 9321 points
+ 1:20:27.589   24 dispatches, 90 proxies
+ 1:20:27.589 !!! [CE][LoadPrototype] 12 groups have no points...
+ 1:20:27.589 !!! [CE][LoadPrototype] 4 groups have wrong points...
+ 1:20:27.589 [CE][LoadPrototype] :: last group name: Land_Lunapark_Autodrome...
+ 1:20:27.602 [CE][LoadPrototype] :: loaded 0 prototypes
+ 1:20:27.602   55 containers, 232 points
+ 1:20:27.602   0 dispatches, 0 proxies
+ 1:20:27.602 [CE][LoadPrototype] :: last group name: Rail9...
+ 1:20:28.672 [CE][LoadMap] "Group" :: loaded 2538 groups, groups failed: 1573, largest group range: 24.9
+ 1:20:28.676 !!! File "stuartisland\ce\mapgroupdirt.xml" does not exist...
+ 1:20:28.676 !!! [ERROR][XML] :: load [stuartisland\ce\mapgroupdirt.xml] failed
+ 1:20:28.676 !!! [ERROR][XML] :: Failed to open file
+ 1:20:28.676 !!! [CE][LoadMap] "Dirt" :: Failed to read group instances (stuartisland\ce\mapgroupdirt.xml)
+ 1:20:28.678 [CE][Links] found 492 total links between groups, of 965
+ 1:20:28.678 [CE][LoadClusters] "Cluster" :: Loading files...
+ 1:20:28.720 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 7 types, 7243 instances
+ 1:20:28.724 [CE][Storage] ver:21 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\types.bin"
+ 1:20:28.726 [CE][Storage] ver:21 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\types.001"
+ 1:20:28.728 [CE][Storage] ver:21 stamp:400, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\types.002"
+ 1:20:28.728 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\types.bin".
+ 1:20:28.771 !!! File "stuartisland\ce\db/messages.xml" does not exist...
+ 1:20:28.771 !!! [ERROR][XML] :: load [stuartisland\ce\db/messages.xml] failed
+ 1:20:28.771 !!! [ERROR][XML] :: Failed to open file
+ 1:20:28.771 !!! [CE][offlineDB] :: Failed to read messages file 'db/messages.xml'.
+ 1:20:28.771 !!! [CE][offlineDB] :: No Shutdown message present.
+ 1:20:28.782 [CE][offlineDB] :: Loaded 35 dynamic events 208 total types.
+ 1:20:28.820 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.820 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.821 !!! [CE] :: Unknown user defined value: 'Tier4'.
+ 1:20:28.821 !!! [CE] :: Unknown tag: 'Town'.
+ 1:20:28.821 !!! [CE] :: Unknown tag: 'Hunting'.
+ 1:20:28.821 !!! [CE] :: Unknown usage: 'ContaminatedArea'.
+ 1:20:28.821 !!! [CE] :: Unknown value: 'Unique'.
+ 1:20:28.821 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.821 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.821 !!! [CE] :: Unknown user defined value: 'Tier4'.
+ 1:20:28.821 !!! [CE] :: Unknown user defined value: 'Tier3'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown user defined value: 'Tier3'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.822 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'ContaminatedArea'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown value: 'Unique'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'ContaminatedArea'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.823 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Underground'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'ContaminatedArea'.
+ 1:20:28.824 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.824 !!! [CE] :: Unknown usage: 'Historical'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'SeasonalEvent'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.825 !!! [CE] :: Unknown usage: 'Lunapark'.
+ 1:20:28.830 !!! [ERROR][XML] :: load [stuartisland\ce\cfgeventgroups.xml] failed
+ 1:20:28.830 !!! [ERROR][XML] :: Failed to open file
+ 1:20:28.834 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleSedan02'.
+ 1:20:28.834 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleHatchback02'.
+ 1:20:28.834 [CE][DE][SPAWNS] :: Total positions: 86
+ 1:20:28.834 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 1:20:28.836 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\events.bin"
+ 1:20:28.837 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\events.001"
+ 1:20:28.839 [CE][Storage] ver:25 stamp:400, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\events.002"
+ 1:20:28.839 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\events.bin".
+ 1:20:28.839 [CE][DynamicEvent] Load  Events:[35] Primary spawners: 35 Secondary spawners: 1
+ 1:20:28.841 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_000.bin"
+ 1:20:28.842 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_000.001"
+ 1:20:28.844 [CE][Storage] ver:25 stamp:400, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_000.002"
+ 1:20:28.844 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_000.bin" 36 items.
+ 1:20:28.908   36 items loaded. (0 failed)
+ 1:20:28.909 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_001.bin"
+ 1:20:28.911 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_001.001"
+ 1:20:28.912 !!! [CE][Storage] Failed to read [Storage] data file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_001.002".
+ 1:20:28.912   File not closed...
+ 1:20:28.912 [CE][Storage] ver:25 stamp:403, valid:NO, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_001.002"
+ 1:20:28.913 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_001.bin" 37 items.
+ 1:20:28.972   37 items loaded. (0 failed)
+ 1:20:28.973 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_002.bin"
+ 1:20:28.975 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_002.001"
+ 1:20:28.977 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_002.002"
+ 1:20:28.977 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_002.bin" 213 items.
+ 1:20:29.262   213 items loaded. (0 failed)
+ 1:20:29.265 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_003.bin"
+ 1:20:29.269 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_003.001"
+ 1:20:29.271 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_003.002"
+ 1:20:29.271 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_003.bin" 193 items.
+ 1:20:29.557   193 items loaded. (0 failed)
+ 1:20:29.560 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_004.bin"
+ 1:20:29.562 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_004.001"
+ 1:20:29.563 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_004.002"
+ 1:20:29.564 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_004.bin" 189 items.
+ 1:20:29.902   189 items loaded. (0 failed)
+ 1:20:29.904 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_005.bin"
+ 1:20:29.906 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_005.001"
+ 1:20:29.908 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_005.002"
+ 1:20:29.908 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_005.bin" 60 items.
+ 1:20:29.976   60 items loaded. (0 failed)
+ 1:20:29.978 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_006.bin"
+ 1:20:29.980 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_006.001"
+ 1:20:29.983 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_006.002"
+ 1:20:29.983 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_006.bin" 368 items.
+ 1:20:30.368   368 items loaded. (0 failed)
+ 1:20:30.370 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_007.bin"
+ 1:20:30.372 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_007.001"
+ 1:20:30.374 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_007.002"
+ 1:20:30.374 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_007.bin" 323 items.
+ 1:20:30.655   323 items loaded. (0 failed)
+ 1:20:30.657 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_008.bin"
+ 1:20:30.659 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_008.001"
+ 1:20:30.661 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_008.002"
+ 1:20:30.661 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_008.bin" 245 items.
+ 1:20:30.846   245 items loaded. (0 failed)
+ 1:20:30.848 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_009.bin"
+ 1:20:30.850 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_009.001"
+ 1:20:30.852 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_009.002"
+ 1:20:30.853 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_009.bin" 156 items.
+ 1:20:31.07   156 items loaded. (0 failed)
+ 1:20:31.09 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_010.bin"
+ 1:20:31.10 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_010.001"
+ 1:20:31.12 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_010.002"
+ 1:20:31.13 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_010.bin" 52 items.
+ 1:20:31.60   52 items loaded. (0 failed)
+ 1:20:31.62 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_011.bin"
+ 1:20:31.64 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_011.001"
+ 1:20:31.66 [CE][Storage] ver:25 stamp:403, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_011.002"
+ 1:20:31.66 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\dynamic_011.bin" 164 items.
+ 1:20:31.209   164 items loaded. (0 failed)
+ 1:20:31.212 [CE][Storage] ver:25 stamp:536, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\vehicles.bin"
+ 1:20:31.214 [CE][Storage] ver:25 stamp:402, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\vehicles.001"
+ 1:20:31.215 [CE][Storage] ver:25 stamp:400, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\vehicles.002"
+ 1:20:31.216 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\dayzOffline.stuartisland\storage_1\data\vehicles.bin" 10 items.
+ 1:20:31.250   10 items loaded. (0 failed)
+ 1:20:31.254 [CE][Hive] :: Storage load took:2.42 seconds, recovery stamp:536
+ 1:20:31.254   entity: 2191, building: 0
+ 1:20:31.254   no lifetime: 3
+ 1:20:31.254   pathgraph's: 174
+ 1:20:31.259 [CE][Hive] :: Initializing ... 
+ 1:20:31.290 [CE][InitializeMap] :: initialized: 19
+ 1:20:31.290 [CE][Hive] :: Initializing spawners ... 
+ 1:20:33.929 !!! [CE][DE] DynamicEvent "ItemPlanks" has <limit> 'parent' or 'mixed', but event <max> is set to 0.
+ 1:20:33.929 !!!!!! [CE][DE] DynamicEvent "ItemPlanks" setup is invalid, event will be disabled.
+ 1:20:33.930 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:2202, Total in Map: 2067 at 0 (sec)
+ 1:20:33.930   tests:0, repeats:0 fails:0, overtime:0
+ 1:20:33.931 !!! [CE][DE] DynamicEvent "VehicleCivilianSedan" does not have position 'player', so it needs configured positions.
+ 1:20:33.931 !!!!!! [CE][DE] DynamicEvent "VehicleCivilianSedan" setup is invalid, event will be disabled.
+ 1:20:33.931 !!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" does not have position 'player', so it needs configured positions.
+ 1:20:33.931 !!!!!! [CE][DE] DynamicEvent "VehicleOffroadHatchback" setup is invalid, event will be disabled.
+ 1:20:33.931 [CE][DynEvent] :: 35 types
+ 1:20:33.931 [00] AmbientHen
+ 1:20:33.931   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 1:20:33.931 [01] AnimalCow
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [02] AnimalDeer
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [03] AnimalGoat
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [04] AnimalPig
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [05] AnimalRoeDeer
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [06] AnimalSheep
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [07] AnimalWildBoar
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [08] AnimalWolf
+ 1:20:33.931   Primary Spawner: "Animal", active: yes, repeat: 1
+ 1:20:33.931 [09] InfectedArmy
+ 1:20:33.931   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [10] InfectedCity
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [11] InfectedFirefighter
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [12] InfectedIndustrial
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [13] InfectedMedic
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [14] InfectedPolice
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [15] InfectedPrisoner
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [16] InfectedReligious
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [17] InfectedSolitude
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [18] InfectedVillage
+ 1:20:33.932   Primary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [19] ItemPlanks
+ 1:20:33.932   Primary Spawner: "Item", active: no, repeat: 1
+ 1:20:33.932 [20] Loot
+ 1:20:33.932   Primary Spawner: "Loot", active: yes, repeat: 2
+ 1:20:33.932 [21] StaticHeliCrash
+ 1:20:33.932   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:20:33.932   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 1:20:33.932 [22] StaticPoliceCar
+ 1:20:33.932   Primary Spawner: "Static", active: yes, repeat: 1
+ 1:20:33.932 [23] TrajectoryApple
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [24] TrajectoryCanina
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [25] TrajectoryConiferous
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [26] TrajectoryDeciduous
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [27] TrajectoryHumus
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [28] TrajectoryPear
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [29] TrajectoryPlum
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [30] TrajectorySambucus
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [31] TrajectoryStones
+ 1:20:33.932   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 1:20:33.932 [32] VehicleBoat
+ 1:20:33.932   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 1:20:33.932 [33] VehicleCivilianSedan
+ 1:20:33.932   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 1:20:33.932 [34] VehicleOffroadHatchback
+ 1:20:33.932   Primary Spawner: "Vehicle", active: no, repeat: 1
+ 1:20:33.932 [CE][Hive] :: Initializing of spawners done.
+ 1:20:33.936 [CE][Hive] :: Init sequence finished.
+ 1:20:33.936 Player connect enabled
+ 1:20:35.30 [IdleMode] Entering IN - save processed
+ 1:21:06.102 [Login]: Adding player SamGeekMan (16048433) to login queue at position 0
+ 1:21:06.105 [LoginMachine]: Add player SamGeekMan (16048433 81.79.235.241:58193)
+ 1:21:06.105 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid ) Entering AuthPlayerLoginState
+ 1:21:06.463 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid ) Entering WaitAuthPlayerLoginState
+ 1:21:06.689 [IdleMode] Leaving OUT
+ 1:21:08.946 Player SamGeekMan (id=EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) has connected.
+ 1:21:08.947 Player "SamGeekMan"(steamID=76561198025089838) is connected
+ 1:21:08.956 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid ) Entering WaitPlayerAssignedLoginState
+ 1:21:09.923 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid ) Entering PlayerAssignedLoginState
+ 1:21:09.934 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering DBGetLoginTimeLoginState
+ 1:21:09.994 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering DBWaitLoginTimeLoginState
+ 1:21:14.996 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering DBGetCharacterLoginState
+ 1:21:15.16 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering CreateNetObjectsLoginState
+ 1:21:15.32 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering PreloadCamLoginState
+ 1:21:15.36 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering WaitPreloadCamLoginState
+ 1:21:31.91 [StateMachine]: Player SamGeekMan (dpnid 16048433 uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=) Entering GetLoadedCharLoginState
+ 1:21:36.320 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 16048433
+    uid EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=
+ 1:21:58.68 [Disconnect]: Start script disconnect 16048433 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 1:21:59.669 [Disconnect]: Client 16048433 disconnecting
+ 1:21:59.669 [Disconnect]: Client 16048433 early disconnect
+ 1:21:59.677 [Disconnect]: Start script disconnect 16048433 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+ 1:22:00.433 [Disconnect]: Remove player info 16048433
+ 1:22:00.444 [Disconnect]: Player destroy 16048433 
+ 1:22:04.371 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 1:22:04.686 [CE][Links] found 0 total links between groups, of 1
+ 1:22:04.686 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+ 1:22:04.689 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.691 [CE][Links] found 0 total links between groups, of 2
+ 1:22:04.691 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+ 1:22:04.692 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.729 [CE][Links] found 0 total links between groups, of 3
+ 1:22:04.729 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+ 1:22:04.734 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.737 [CE][Links] found 0 total links between groups, of 4
+ 1:22:04.737 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+ 1:22:04.739 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.741 [CE][Links] found 0 total links between groups, of 5
+ 1:22:04.741 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+ 1:22:04.744 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.745 [CE][Links] found 0 total links between groups, of 6
+ 1:22:04.745 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+ 1:22:04.746 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.751 [CE][Links] found 0 total links between groups, of 7
+ 1:22:04.751 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+ 1:22:04.753 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.753 [CE][Links] found 0 total links between groups, of 8
+ 1:22:04.753 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 10
+ 1:22:04.755 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 1:22:04.755 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (8 < 10) within 30 attempts.
+ 1:22:13.74 [Disconnect]: Finish script disconnect -1 (EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g=)
+ 1:22:32.432 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 1:22:57.692 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ChestHolster"
+ 1:23:01.88 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 1:23:01.389 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 1:23:29.68 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 1:23:50.519 [IdleMode] Entering IN - save processed
+ 2:03:39.957 [Login]: Adding player Wossie (20695477) to login queue at position 0
+ 2:03:39.981 [LoginMachine]: Add player Wossie (20695477 73.45.126.66:52602)
+ 2:03:39.981 [StateMachine]: Player Wossie (dpnid 20695477 uid ) Entering AuthPlayerLoginState
+ 2:03:40.582 [StateMachine]: Player Wossie (dpnid 20695477 uid ) Entering WaitAuthPlayerLoginState
+ 2:03:40.664 [IdleMode] Leaving OUT
+ 2:03:43.221 Player Wossie (id=_IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) has connected.
+ 2:03:43.221 Player "Wossie"(steamID=76561198456129129) is connected
+ 2:03:43.234 [StateMachine]: Player Wossie (dpnid 20695477 uid ) Entering WaitPlayerAssignedLoginState
+ 2:03:43.803 [StateMachine]: Player Wossie (dpnid 20695477 uid ) Entering PlayerAssignedLoginState
+ 2:03:43.814 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering DBGetLoginTimeLoginState
+ 2:03:44.82 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering DBWaitLoginTimeLoginState
+ 2:03:49.91 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering DBGetCharacterLoginState
+ 2:03:49.121 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering CreateNetObjectsLoginState
+ 2:03:49.131 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 2647891 | lt: 0 | ctr: 0)
+ 2:03:49.131 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } | idx: 0 (ct: 2647891 | ut: 2647891 | lt: 0 | ctr: 0)
+ 2:03:49.131 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } index: 0 (lt: 0 | ctr: 0)
+ 2:03:49.131 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 2647891 | lt: 0 | ctr: 0)
+ 2:03:49.144 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering PreloadCamLoginState
+ 2:03:49.145 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering WaitPreloadCamLoginState
+ 2:03:57.55 [StateMachine]: Player Wossie (dpnid 20695477 uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=) Entering GetNewCharLoginState
+ 2:03:57.129 <CREATE NEW CHAR>:
+    charID 4
+    playerID 4
+    dpnid 20695477
+    uid _IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=
+ 2:04:03.714 !!! [CE][Point] Removing 3048.365723, 2872.575195 from Land_Boat_Small3
+ 2:04:03.714 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "TShirt_Green"
+ 2:04:03.714 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "TShirt_Green"
+ 2:04:07.930 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:04:08.240 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:04:30.984 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "QuiltedJacket_Green"
+ 2:04:35.927 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:05:29.227 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:05:29.535 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:05:57.247 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:06:25.842 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:06:26.151 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:06:53.893 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:07:17.463 !!! [CE][Point] Removing 3591.586670, 2342.779785 from Land_Boat_Small2
+ 2:07:17.463 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "Hoodie_Red"
+ 2:07:47.63 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:07:47.375 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:08:15.46 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:08:43.666 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:08:43.973 !!! [CE][VehicleRespawner] (PRIPoliceCar) :: Respawning: "StaticPoliceCar" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:09:07.990 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "Izh18Shotgun"
+ 2:09:08.397 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Hoodie_Brown"
+ 2:09:11.693 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:09:35.702 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "CanisterGasoline"
+ 2:09:35.702 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "CanisterGasoline"
+ 2:09:35.702 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "CanisterGasoline"
+ 2:09:35.803 !!! [CE][Point] Removing 4364.415039, 1747.392700 from Land_Boat_Small3
+ 2:09:35.803 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "TShirt_OrangeWhiteStripes"
+ 2:09:40.329 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:09:40.638 [CE][Links] found 0 total links between groups, of 9
+ 2:09:40.638 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_Volha_Police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 10
+ 2:09:40.640 	!!! (child) Land_Wreck_Volha_Police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+ 2:10:03.486 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "Hoodie_Blue"
+ 2:10:08.327 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:10:31.458 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "BoonieHat_Flecktran"
+ 2:11:01.641 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:11:26.761 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "MilitaryBeret_Red"
+ 2:11:29.646 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:11:54.785 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "TShirt_Beige"
+ 2:11:54.785 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "TShirt_Beige"
+ 2:11:54.785 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "TShirt_Beige"
+ 2:11:58.292 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:12:22.991 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "NBCJacketGray"
+ 2:12:22.991 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "NBCJacketGray"
+ 2:12:26.283 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:13:19.548 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:13:47.506 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:14:16.80 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:14:40.349 !!! [CE][Point] Removing 3383.124023, 2642.537354 from Land_Boat_Small3
+ 2:14:40.349 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "Pajka"
+ 2:14:44.54 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:15:12.680 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:15:40.708 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:16:31.415 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "SlacksPants_White"
+ 2:16:33.989 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:17:01.974 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:17:30.565 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:17:58.553 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:18:51.861 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:19:19.882 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:19:45.91 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "PM73Rak"
+ 2:19:45.108 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "PM73Rak"
+ 2:19:48.496 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:20:17.172 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:20:45.769 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:21:09.244 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "TShirt_Blue"
+ 2:21:09.244 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "TShirt_Blue"
+ 2:21:13.752 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:21:37.91 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "PoliceJacket"
+ 2:22:04.173 !!! [CE][Point] Removing 3383.792725, 2643.124512 from Land_Boat_Small2
+ 2:22:04.273 !!! [CE][Point] Removing 3384.247314, 2641.898682 from Land_Boat_Small2
+ 2:22:06.957 [CE][Links] found 0 total links between groups, of 10
+ 2:22:06.957 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8, lootmin: 10, lootmax: 20, wanted: 19, deloot: 2, containermaxsum: 10
+ 2:22:06.957 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Sum of container LootMax is lower than event child LootMax (10 < 20)
+ 2:22:06.957 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8 :: !!! Wanting to spawn more loot than possible (19 > 10)
+ 2:22:06.968 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (1 < 3) within 9 attempts.
+ 2:22:32.463 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "QuiltedJacket_Red"
+ 2:22:34.926 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:23:03.665 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:23:27.474 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "NBCHoodYellow"
+ 2:23:31.678 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:24:24.932 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:24:36.12 [Disconnect]: Client 20695477 disconnecting
+ 2:24:36.12 [Disconnect]: Client 20695477 early disconnect
+ 2:24:36.13 [Disconnect]: Start script disconnect 20695477 (dbCharacterId 4 dbPlayerId 4) logoutTime 15
+ 2:24:36.13 [Disconnect]: Finish script disconnect 20695477 (_IPiWawmuE55DlKCc9SsXJw78JM0ZGrgguOAfif3HYw=)
+ 2:24:36.13 [Disconnect]: DisconnectPlayerFinish 20695477
+ 2:24:36.13 [Disconnect]: Remove player info 20695477
+ 2:24:36.43 [Disconnect]: Player destroy 20695477 
+ 2:24:52.997 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:25:22.148 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:25:50.340 !!! [CE][VehicleRespawner] (PRIBoat) :: Respawning: "VehicleBoat" - Failed to spawn the requested amount (0 < 1) within 3 attempts.
+ 2:26:18.928 !!! [CE][VehicleRespawner] (PRIHeliCrash) :: Respawning: "StaticHeliCrash" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+ 2:26:39.364 [IdleMode] Entering IN - save processed
+ 4:24:35.679  --- Termination successfully completed --- 
