@@ -1,54 +1,7 @@
 {
     "Areas": [
-		{ 	"AreaName": "Main-straight-1", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 5000.97, 0, 1818.15 ],
-				"Radius": 100,
-				"PosHeight": 100,
-				"NegHeight": 10,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
 		
-		{ 	"AreaName": "Main-straight-1-b", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 5119.14, 0, 1797.87 ],
-				"Radius": 200,
-				"PosHeight": 100,
-				"NegHeight": 10,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 0,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		
-		{ 	"AreaName": "powerplant", 
+		{ 	"AreaName": "powerplant-1", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -56,13 +9,13 @@
 				"Radius": 100,
 				"PosHeight": 100,
 				"NegHeight": 100,
-				"InnerRingCount": 2,
-				"InnerPartDist": 25,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 20,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -80,13 +33,13 @@
 				"Radius": 100,
 				"PosHeight": 100,
 				"NegHeight": 100,
-				"InnerRingCount": 2,
-				"InnerPartDist": 25,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 20,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -96,7 +49,58 @@
 			}
 		},
 		
-		{ 	"AreaName": "Main-straight-1-a", 
+		{ 	"AreaName": "main-straight-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 5119.14, 0, 1797.87 ],
+				"Radius": 100,
+				"PosHeight": 100,
+				"NegHeight": 100,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		
+		{ 	"AreaName": "main-straight-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 5000.97, 0, 1818.15 ],
+				"Radius": 100,
+				"PosHeight": 100,
+				"NegHeight": 100,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		
+		
+		{ 	"AreaName": "main-straight-3", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -109,8 +113,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 0,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -120,7 +124,7 @@
 			}
 		},
 		
-        { 	"AreaName": "Main-straight-2", 
+        { 	"AreaName": "main-straight-4", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -133,31 +137,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Main-straight-3", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 4380.29, 0, 2020.25 ],
-				"Radius": 150,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -167,54 +148,7 @@
 			}
 		},
 		
-		 { 	"AreaName": "Main-straight-3-a", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 4111.53, 0, 2134.00 ],
-				"Radius": 150,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		{ 	"AreaName": "Main-straight-3-b", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 4221.54, 0, 2079.00 ], 
-				"Radius": 150,
-				"PosHeight": 100,
-				"NegHeight": 2,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		
-		{ 	"AreaName": "Main-straight-3-c", 
+		{ 	"AreaName": "main-straight-5", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -227,8 +161,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 50, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -238,7 +172,80 @@
 			}
 		},
 		
-        { 	"AreaName": "Main-straight-4", 
+        { 	"AreaName": "main-straight-6", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4380.29, 0, 2020.25 ],
+				"Radius": 150,
+				"PosHeight": 100,
+				"NegHeight": 100,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		{ 	"AreaName": "main-straight-7", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4221.54, 0, 2079.00 ], 
+				"Radius": 150,
+				"PosHeight": 100,
+				"NegHeight": 2,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		 { 	"AreaName": "main-straight-8", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4111.53, 0, 2134.00 ],
+				"Radius": 150,
+				"PosHeight": 100,
+				"NegHeight": 100,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		
+        { 	"AreaName": "Main-straight-9", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -251,31 +258,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-        { 	"AreaName": "Main-straight-5", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 3530.61, 0, 2195.50 ],
-				"Radius": 25,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -285,7 +269,7 @@
 			}
 		},
 		
-		 { 	"AreaName": "Main-straight-5-a", 
+		 { 	"AreaName": "main-straight-10", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -298,8 +282,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -309,7 +293,32 @@
 			}
 		},
 		
-		 { 	"AreaName": "Main-straight-5-r", 
+        { 	"AreaName": "main-straight-11", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 3530.61, 0, 2195.50 ],
+				"Radius": 25,
+				"PosHeight": 100,
+				"NegHeight": 100,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		
+		
+		 { 	"AreaName": "main-straight-12", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -322,8 +331,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
+				"VerticalLayers": 2,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -333,7 +342,7 @@
 			}
 		},
 		
-		 { 	"AreaName": "second-straight-1-a", 
+		 { 	"AreaName": "second-straight-1", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -346,32 +355,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 3,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		
-		 { 	"AreaName": "second-straight-1-a", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 3170.97, 0, 2491.33 ],
-				"Radius": 170,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
-				"OuterOffset": 0, 
 				"VerticalLayers": 2,
-				"VerticalOffset": 30,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -381,7 +366,7 @@
 			}
 		},
 		
-		{ 	"AreaName": "second-straight-2-a", 
+		{ 	"AreaName": "second-straight-2", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -395,7 +380,7 @@
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
 				"VerticalLayers": 2,
-				"VerticalOffset": 30,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -405,7 +390,7 @@
 			}
 		},
 		
-		{ 	"AreaName": "second-straight-3-a", 
+		{ 	"AreaName": "second-straight-3", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -419,7 +404,7 @@
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
 				"VerticalLayers": 2,
-				"VerticalOffset": 30,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -429,7 +414,7 @@
 			}
 		},
 		
-		{ 	"AreaName": "second-straight-4-a", 
+		{ 	"AreaName": "second-straight-4", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -443,7 +428,7 @@
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
 				"VerticalLayers": 2,
-				"VerticalOffset": 30,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -453,7 +438,7 @@
 			}
 		},
 		
-		{ 	"AreaName": "second-straight-5-a", 
+		{ 	"AreaName": "second-straight-5", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
@@ -466,7 +451,7 @@
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
 				"VerticalLayers": 2,
-				"VerticalOffset": 30,
+				"VerticalOffset": 15,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
@@ -476,11 +461,12 @@
 			}
 		},
 		
-		{ 	"AreaName": "second-straight-6-a", 
+		
+		{ 	"AreaName": "boat", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 2261.54, 0, 2989.11 ],
+				"Pos": [ 3305.29, 0, 2257.73 ],
 				"Radius": 50,
 				"PosHeight": 100,
 				"NegHeight": 100,
@@ -489,32 +475,8 @@
 				"OuterRingToggle": 1, 
 				"OuterPartDist": 40, 
 				"OuterOffset": 0, 
-				"VerticalLayers": 2,
-				"VerticalOffset": 10,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		
-		{ 	"AreaName": "boat", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 3305.29, 0, 2257.73 ],
-				"Radius": 25,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 2,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 40, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 5,
-				"VerticalOffset": 0,
+				"VerticalLayers": 4,
+				"VerticalOffset": 5,
 				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
 				},
 			"PlayerData": {
