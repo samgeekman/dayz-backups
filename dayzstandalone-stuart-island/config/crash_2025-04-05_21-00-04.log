@@ -1,0 +1,136 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-04-05_21-00-04.log started at 06.04. 00:36:00
+
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:00
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:00
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:02
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:02
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:04
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:04
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:04
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:04
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:05
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:05
+NULL pointer to instance when trying to access variable 'param1' (Parent instance is null)
+Class:      'EVRStorm'
+Function: 'FinishRandomTeleportObject'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:1005
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 06.04 2025 00:36:14
+NULL pointer to instance
+Class:      'EVRStorm'
+Function: 'TeleportationSickness'
+Stack trace:
+nst/ns_dayz/scripts/4_World/namalsksurvival\classes\environment\events\evrstorm\evrstorm.c:597
+scripts/3_Game/dayzgame.c:2973
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

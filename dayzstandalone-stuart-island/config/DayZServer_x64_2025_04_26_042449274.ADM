@@ -1,0 +1,43 @@
+
+
+******************************************************************************
+AdminLog started on 2025-04-25 at 04:24:45
+06:41:04 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+07:16:46 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6294.9, 9519.9, 20.8>) is unconscious
+07:17:18 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.6, 9520.2, 20.8>) regained consciousness
+07:46:18 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6461.7, 9301.3, 20.3>)[HP: 99.3825] hit by Infected into RightArm(17) for 6.175 damage (MeleeInfected)
+08:04:53 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.3, 9521.8, 20.8>) performed EmoteLyingDown
+08:05:08 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.7, 9521.9, 20.8>) is unconscious
+08:05:39 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.5, 9522.5, 20.8>) regained consciousness
+08:05:48 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6296.1, 9522.7, 20.8>) performed EmoteSurrender
+08:05:56 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.5, 9521.1, 20.8>) performed EmoteSurrender with SurrenderDummyItem
+08:31:49 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5102.3, 8169.9, 39.4>)[HP: 100] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+08:52:04 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+08:52:06 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 96.58] hit by Infected into Torso(1) for 2.6125 damage (MeleeSoldierInfectedLong)
+08:52:08 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 94.0577] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+08:52:10 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 93.2502] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+08:52:11 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 90.7416] hit by Infected into Torso(1) for 2.6125 damage (MeleeSoldierInfectedLong)
+08:52:14 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<5718.8, 9874.6, 21.8>)[HP: 88.2519] hit by Infected into Torso(1) for 2.6125 damage (MeleeSoldierInfectedLong)
+09:31:42 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.2, 9524.0, 20.8>) is unconscious
+09:32:14 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6295.3, 9523.1, 20.8>) regained consciousness
+10:43:09 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6301, 9537.2, 20.6>) built ShelterFabric with Hands 
+10:43:44 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6304.8, 9537.3, 20.7>) built ShelterFabric with Hands 
+10:58:58 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<6310.9, 9523.9, 20.6>) performed EmoteSitA with M4A1
+10:59:12 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-25 at 12:45:09
+13:07:24 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+15:08:04 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<3598.4, 6669.9, 170.7>) performed EmoteSitA with FAL
+15:08:18 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-25 at 21:03:41
+00:51:49 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) is connected
+00:53:08 | Player "Mendoza" (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU= pos=<3597.4, 6677.8, 170.6>) performed EmoteSitA with FAL
+00:53:10 | Player "Mendoza"(id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has been disconnected
+
+
+**********************************EOF****************************************
