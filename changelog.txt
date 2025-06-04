@@ -1,0 +1,7 @@
+04/06/25 - 16:30 - v0.1.1 exp
+
+- Reduced gas clouds height size
+
+04/06/25 - 15:30 - v0.0.1 release
+
+- Tweaked types.xml to reduce barrel spawns
