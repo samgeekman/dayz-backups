@@ -14429,7 +14429,7 @@
 						<point pos="3.331274 1.301941 -1.368039" range="1.199951" height="2.001986" />
 				</container>
 		</group>
-		<group name="Land_Village_HealthCare_Enoch" lootmax="15">
+		<group name="Land_Village_HealthCare" lootmax="15">
 				<usage name="Medic" />
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
