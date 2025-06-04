@@ -1,0 +1,19 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\script_2025-06-03_21-16-59.log started at 03.06. 21:17:06
+
+SCRIPT       : Registered 302 temporary action enum(s), UAN==302
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (E): [::LoadData] :: [ERROR] :: File "dz/worlds/stuartisland/ce/pra/warheadstorage.json" does not exist, check the provided path
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfgplayerrestrictedareahandler.c:43 Function LoadData
+scripts/5_Mission/mission\missionserver.c:81 Function OnInit
+SCRIPT    (E): [::CreateZones] :: [ERROR] :: Radius cannot be <= 0. Fix [second-straight-5-a] area definition in cfgeffectarea.json
+Function: 'CreateZones'
+Stack trace:
+scripts/4_World/classes\contaminatedarea\contaminatedarealoader.c:48 Function CreateZones
+scripts/5_Mission/mission\missionserver.c:92 Function OnMissionStart
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=CrabCan:4660 parent=SurvivorM_Oliver:1:INSTANCETYPE_SERVER }
+SCRIPT       : [Logout]: New player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= with logout time 15
+SCRIPT       : [Logout]: Player EjyaR_evG3jSSz8VDJwqD2Jq7_Uz-Rfb4H6R-me5X0g= finished
+SCRIPT       : ~DayZGame()

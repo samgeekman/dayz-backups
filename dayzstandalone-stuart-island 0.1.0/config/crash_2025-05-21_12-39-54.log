@@ -1,0 +1,24 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-05-21_12-39-54.log started at 21.05. 14:23:20
+
+
+
+------------------------------------
+MS2871, 21.05 2025 14:23:20
+Unhandled exception
+
+Program: C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+Reason: Access violation. Illegal write by 0x7ff66f872e60 at 0x0
+
+SymGetSymFromAddr:487, addr:0x7ff66f872e60
+[CDPCreateServer]: ??? addr:0x7ff66fefb0e4
+SymGetSymFromAddr:487, addr:0x7ff66f87f94a
+SymGetSymFromAddr:487, addr:0x7ff66f87f989
+[BaseThreadInitThunk]: ??? addr:0x7ffdc2217ac4
+[RtlUserThreadStart]: ??? addr:0x7ffdc2d0a8c1
+[RtlUserThreadStart]: ??? addr:0x7ffdc2d0a8c1
+
+
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

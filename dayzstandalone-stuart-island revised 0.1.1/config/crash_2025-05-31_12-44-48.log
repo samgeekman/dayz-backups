@@ -1,0 +1,123 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-05-31_12-44-48.log started at 31.05. 13:16:09
+
+
+
+------------------------------------
+MS2871, 31.05 2025 13:16:09
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:20:45
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:25:49
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:32:18
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:39:14
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:45:44
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 13:52:39
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 31.05 2025 14:04:13
+[WeaponStableState::ValidateMuzzleArray] :: [ERROR] :: Muzzle array validation has failed. Please set up the correct muzzle states by overriding InitMuzzleArray.
+Class:      'WeaponStableState'
+Function: 'ValidateMuzzleArray'
+Stack trace:
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:191
+scripts/4_World/entities\firearms\fsm\states\weaponstablestate.c:36
+scripts/4_World/entities\firearms\rifle_base.c:22
+scripts/4_World/entities\firearms\weapon_base.c:128
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

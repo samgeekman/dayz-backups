@@ -1,0 +1,333 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-05-14_21-01-22.log started at 14.05. 22:49:05
+
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:05
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:05
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:05
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:05
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:05
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 14.05 2025 22:49:06
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:268891
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:265
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

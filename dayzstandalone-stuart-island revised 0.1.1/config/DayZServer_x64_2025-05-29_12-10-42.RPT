@@ -1,0 +1,316 @@
+=====================================================================
+== C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=85.190.162.236 -port=11200 -cpuCount=4 -limitFPS=100 -config=serverDZ.cfg "-mod=@Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock" -profiles=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -adminlog -freezecheck
+=====================================================================
+Exe timestamp: 2025/04/04 00:49:20
+Current time:  2025/05/29 12:10:55
+Version 1.27.159674
+=====================================================================
+
+12:10:55.733 [Inputs] Loading inputs default "bin/constants.xml"
+12:10:55.744 [Inputs] Loading inputs default "bin/specific.xml"
+12:10:55.747 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+12:10:55.750 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+12:10:55.753 [Inputs] Loading inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+12:10:55.770 [Inputs] Exporting inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+12:11:23.973 Hostname of server: "Aid Station | Namalsk | PVE - Wipe: 03-06"
+12:11:36.846 [CE][Hive] :: Initializing OFFLINE
+12:11:36.847 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\
+12:11:36.852 [CE][Hive] :: Loading core data ... 
+12:11:36.857 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+12:11:46.125 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+12:11:46.128 [CE][TypeSetup] :: 599 classes setuped...
+12:11:46.737 [CE][RegisterBind] :: 0 classes binded...
+12:11:46.738 [CE][RegisterConfig] :: 5794 config classes registered, 0 sub-counters...
+12:11:46.738 [CE][Hive] :: Loading map data ... 
+12:11:46.808 [CE][LoadPrototype] :: loaded 256 prototypes
+12:11:46.808   404 containers, 7415 points
+12:11:46.808   1 dispatches, 1 proxies
+12:11:46.808 !!! [CE][LoadPrototype] 1 groups have wrong points...
+12:11:46.808 [CE][LoadPrototype] :: last group name: land_frozen_person...
+12:11:46.820 [CE][LoadPrototype] :: loaded 0 prototypes
+12:11:46.820   38 containers, 66 points
+12:11:46.820   0 dispatches, 0 proxies
+12:11:46.820 [CE][LoadPrototype] :: last group name: StoneLoc38...
+12:11:46.913 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+12:11:46.919 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+12:11:46.925 [CE][Links] found 472 total links between groups, of 1445
+12:11:46.925 [CE][LoadClusters] "Cluster" :: Loading files...
+12:11:46.943 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+12:11:46.947 [CE][Storage] ver:21 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.bin"
+12:11:46.948 [CE][Storage] ver:21 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.001"
+12:11:46.950 [CE][Storage] ver:21 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.002"
+12:11:46.951 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.bin".
+12:11:47.16 [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+12:11:47.54 !!! [CE][offlineDB] :: Type 'R12' will be ignored. (Type does not exist. (Typo?))
+12:11:47.55 !!! [CE][offlineDB] :: Type 'MK4Optic_Black' will be ignored. (Type does not exist. (Typo?))
+12:11:47.55 !!! [CE][offlineDB] :: Type 'MK4Optic_Green' will be ignored. (Type does not exist. (Typo?))
+12:11:47.56 !!! [CE][offlineDB] :: Type 'SportingOptic' will be ignored. (Type does not exist. (Typo?))
+12:11:47.56 !!! [CE][offlineDB] :: Type 'PSO6Optic' will be ignored. (Type does not exist. (Typo?))
+12:11:47.58 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+12:11:47.86 [CE][DE][SPAWNS] :: Total positions: 711
+12:11:47.86 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+12:11:47.89 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.bin"
+12:11:47.90 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.001"
+12:11:47.92 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.002"
+12:11:47.93 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.bin".
+12:11:47.93 [CE][DynamicEvent] Load  Events:[23] Primary spawners: 23 Secondary spawners: 0
+12:11:47.94 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+12:11:47.95 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+12:11:47.97 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+12:11:47.97 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+12:11:47.100   1 items loaded. (0 failed)
+12:11:47.102 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+12:11:47.103 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+12:11:47.105 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+12:11:47.105 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 26 items.
+12:11:47.178   26 items loaded. (0 failed)
+12:11:47.180 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+12:11:47.182 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+12:11:47.184 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+12:11:47.184 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 63 items.
+12:11:47.324   63 items loaded. (0 failed)
+12:11:47.328 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+12:11:47.334 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+12:11:47.338 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+12:11:47.338 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 733 items.
+12:11:48.469   733 items loaded. (0 failed)
+12:11:48.471 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+12:11:48.474 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+12:11:48.476 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+12:11:48.476 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 1682 items.
+12:11:49.951   1682 items loaded. (0 failed)
+12:11:49.954 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+12:11:49.956 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+12:11:49.958 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+12:11:49.959 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 847 items.
+12:11:52.141   847 items loaded. (0 failed)
+12:11:52.143 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+12:11:52.146 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+12:11:52.148 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+12:11:52.148 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 1653 items.
+12:11:53.442   1653 items loaded. (0 failed)
+12:11:53.445 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+12:11:53.447 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+12:11:53.449 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+12:11:53.449 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 609 items.
+12:11:53.839   609 items loaded. (0 failed)
+12:11:53.842 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+12:11:53.844 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+12:11:53.845 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+12:11:53.846 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 131 items.
+12:11:53.987   131 items loaded. (0 failed)
+12:11:53.997 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+12:11:54.08 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+12:11:54.20 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+12:11:54.20 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+12:11:54.20   0 items loaded. (0 failed)
+12:11:54.34 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+12:11:54.48 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+12:11:54.65 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+12:11:54.69 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 35 items.
+12:11:54.275   35 items loaded. (0 failed)
+12:11:54.280 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+12:11:54.285 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+12:11:54.292 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+12:11:54.292 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 46 items.
+12:11:54.352   46 items loaded. (0 failed)
+12:11:54.366 [CE][Storage] ver:26 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.bin"
+12:11:54.382 [CE][Storage] ver:26 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.001"
+12:11:54.398 [CE][Storage] ver:26 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.002"
+12:11:54.398 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+12:11:54.398   0 items loaded. (0 failed)
+12:11:54.401 [CE][Storage] ver:25 stamp:125434, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+12:11:54.404 [CE][Storage] ver:25 stamp:123412, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+12:11:54.407 [CE][Storage] ver:25 stamp:123413, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+12:11:54.407 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 54 items.
+12:11:54.605   54 items loaded. (0 failed)
+12:11:54.684 [CE][Hive] :: Storage load took:7.58 seconds, recovery stamp:125434
+12:11:54.684   entity: 9864, building: 0
+12:11:54.684   no lifetime: 8
+12:11:54.684   pathgraph's: 445
+12:11:54.716 [CE][Hive] :: Initializing ... 
+12:11:54.789 [CE][InitializeMap] :: initialized: 0
+12:11:54.789 [CE][Hive] :: Initializing spawners ... 
+12:11:54.790 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:6396, Total in Map: 5934 at 0 (sec)
+12:11:54.790   tests:0, repeats:0 fails:0, overtime:0
+12:11:58.184 [CE][DynEvent] :: 23 types
+12:11:58.184 [00] Loot
+12:11:58.184   Primary Spawner: "Loot", active: yes, repeat: 2
+12:11:58.184 [01] StaticMedDrop
+12:11:58.184   Primary Spawner: "Static", active: yes, repeat: 1
+12:11:58.184 [02] StaticLifeboat
+12:11:58.184   Primary Spawner: "Static", active: yes, repeat: 1
+12:11:58.184 [03] ItemWoodenPlanks
+12:11:58.184   Primary Spawner: "Item", active: yes, repeat: 1
+12:11:58.184 [04] TrajectoryStones
+12:11:58.184   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:11:58.184 [05] InfectedSanta
+12:11:58.184   Primary Spawner: "Infected", active: yes, repeat: 1
+12:11:58.184 [06] InfectedArmy
+12:11:58.184   Primary Spawner: "Infected", active: yes, repeat: 1
+12:11:58.184 [07] InfectedIndustrial
+12:11:58.184   Primary Spawner: "Infected", active: yes, repeat: 1
+12:11:58.184 [08] InfectedCivil
+12:11:58.184   Primary Spawner: "Infected", active: yes, repeat: 1
+12:11:58.184 [09] InfectedMedic
+12:11:58.184   Primary Spawner: "Infected", active: yes, repeat: 1
+12:11:58.184 [10] AnimalGoat
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [11] AnimalSheep
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [12] AnimalReindeer
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [13] AnimalWildBoar
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [14] AnimalWolf
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [15] AnimalBrownBear
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [16] AnimalPolarBear
+12:11:58.184   Primary Spawner: "Animal", active: yes, repeat: 1
+12:11:58.184 [17] AmbientFox
+12:11:58.184   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:11:58.184 [18] AmbientHare
+12:11:58.184   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:11:58.184 [19] VehicleRubberBoats
+12:11:58.184   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:11:58.184 [20] VehicleCivilianCars
+12:11:58.184   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:11:58.184 [21] VehicleTrucks
+12:11:58.184   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:11:58.184 [22] VehicleMilitary
+12:11:58.184   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:11:58.184 [CE][Hive] :: Initializing of spawners done.
+12:11:58.194 [CE][Hive] :: Init sequence finished.
+12:11:58.195 Player connect enabled
+12:11:58.734 [IdleMode] Entering IN - save processed
+12:36:14.384 [Login]: Adding player Decalacs (24335560) to login queue at position 0
+12:36:14.385 [LoginMachine]: Add player Decalacs (24335560 77.25.18.53:3423)
+12:36:14.385 [StateMachine]: Player Decalacs (dpnid 24335560 uid ) Entering AuthPlayerLoginState
+12:36:14.852 [StateMachine]: Player Decalacs (dpnid 24335560 uid ) State Error (AuthPlayerLoginState)
+12:36:14.852 Player Unknown (24335560) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:36:14.852 [StateMachine]: Kick player Decalacs (dpnid 24335560 uid ) State AuthPlayerLoginState
+12:36:14.855 [Disconnect]: Client 24335560 early disconnect
+12:36:14.862 [Disconnect]: No identity -> remove player info 24335560 
+12:36:14.862 [Disconnect]: DisconnectPlayerFinish 24335560
+12:36:14.862 [Disconnect]: Remove player info 24335560
+12:36:14.865 [Disconnect]: Player destroy 24335560 
+12:36:29.795 [Login]: Adding player Decalacs (39748061) to login queue at position 0
+12:36:29.796 [LoginMachine]: Add player Decalacs (39748061 77.25.18.53:3497)
+12:36:29.796 [StateMachine]: Player Decalacs (dpnid 39748061 uid ) Entering AuthPlayerLoginState
+12:36:29.935 [StateMachine]: Player Decalacs (dpnid 39748061 uid ) State Error (AuthPlayerLoginState)
+12:36:29.935 Player Unknown (39748061) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:36:29.935 [StateMachine]: Kick player Decalacs (dpnid 39748061 uid ) State AuthPlayerLoginState
+12:36:29.940 [Disconnect]: Client 39748061 early disconnect
+12:36:29.946 [Disconnect]: No identity -> remove player info 39748061 
+12:36:29.946 [Disconnect]: DisconnectPlayerFinish 39748061
+12:36:29.946 [Disconnect]: Remove player info 39748061
+12:36:29.949 [Disconnect]: Player destroy 39748061 
+12:38:27.452 [Login]: Adding player Decalacs (157396416) to login queue at position 0
+12:38:27.453 [LoginMachine]: Add player Decalacs (157396416 77.25.18.53:59886)
+12:38:27.453 [StateMachine]: Player Decalacs (dpnid 157396416 uid ) Entering AuthPlayerLoginState
+12:38:27.588 [StateMachine]: Player Decalacs (dpnid 157396416 uid ) State Error (AuthPlayerLoginState)
+12:38:27.588 Player Unknown (157396416) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:38:27.588 [StateMachine]: Kick player Decalacs (dpnid 157396416 uid ) State AuthPlayerLoginState
+12:38:27.589 [Disconnect]: Client 157396416 early disconnect
+12:38:27.598 [Disconnect]: No identity -> remove player info 157396416 
+12:38:27.598 [Disconnect]: DisconnectPlayerFinish 157396416
+12:38:27.598 [Disconnect]: Remove player info 157396416
+12:38:27.601 [Disconnect]: Player destroy 157396416 
+12:40:34.396 [Login]: Adding player Decalacs (20962636) to login queue at position 0
+12:40:34.397 [LoginMachine]: Add player Decalacs (20962636 77.25.18.53:5347)
+12:40:34.397 [StateMachine]: Player Decalacs (dpnid 20962636 uid ) Entering AuthPlayerLoginState
+12:40:34.940 [StateMachine]: Player Decalacs (dpnid 20962636 uid ) State Error (AuthPlayerLoginState)
+12:40:34.940 Player Unknown (20962636) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:40:34.940 [StateMachine]: Kick player Decalacs (dpnid 20962636 uid ) State AuthPlayerLoginState
+12:40:34.945 [Disconnect]: Client 20962636 early disconnect
+12:40:34.950 [Disconnect]: No identity -> remove player info 20962636 
+12:40:34.950 [Disconnect]: DisconnectPlayerFinish 20962636
+12:40:34.950 [Disconnect]: Remove player info 20962636
+12:40:34.971 [Disconnect]: Player destroy 20962636 
+12:42:54.83 [Login]: Adding player Decalacs (18580635) to login queue at position 0
+12:42:54.83 [LoginMachine]: Add player Decalacs (18580635 77.25.18.53:3476)
+12:42:54.83 [StateMachine]: Player Decalacs (dpnid 18580635 uid ) Entering AuthPlayerLoginState
+12:42:54.655 [StateMachine]: Player Decalacs (dpnid 18580635 uid ) State Error (AuthPlayerLoginState)
+12:42:54.655 Player Unknown (18580635) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:42:54.655 [StateMachine]: Kick player Decalacs (dpnid 18580635 uid ) State AuthPlayerLoginState
+12:42:54.660 [Disconnect]: Client 18580635 early disconnect
+12:42:54.664 [Disconnect]: No identity -> remove player info 18580635 
+12:42:54.664 [Disconnect]: DisconnectPlayerFinish 18580635
+12:42:54.664 [Disconnect]: Remove player info 18580635
+12:42:54.672 [Disconnect]: Player destroy 18580635 
+12:43:07.827 [Login]: Adding player Decalacs (32321174) to login queue at position 0
+12:43:07.827 [LoginMachine]: Add player Decalacs (32321174 77.25.18.53:5391)
+12:43:07.827 [StateMachine]: Player Decalacs (dpnid 32321174 uid ) Entering AuthPlayerLoginState
+12:43:07.976 [StateMachine]: Player Decalacs (dpnid 32321174 uid ) State Error (AuthPlayerLoginState)
+12:43:07.976 Player Unknown (32321174) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+12:43:07.976 [StateMachine]: Kick player Decalacs (dpnid 32321174 uid ) State AuthPlayerLoginState
+12:43:07.982 [Disconnect]: Client 32321174 early disconnect
+12:43:07.987 [Disconnect]: No identity -> remove player info 32321174 
+12:43:07.987 [Disconnect]: DisconnectPlayerFinish 32321174
+12:43:07.987 [Disconnect]: Remove player info 32321174
+12:43:08.09 [Disconnect]: Player destroy 32321174 
+13:07:13.824 [Login]: Adding player Decalacs (24536401) to login queue at position 0
+13:07:13.824 [LoginMachine]: Add player Decalacs (24536401 77.25.18.53:3305)
+13:07:13.824 [StateMachine]: Player Decalacs (dpnid 24536401 uid ) Entering AuthPlayerLoginState
+13:07:14.307 [StateMachine]: Player Decalacs (dpnid 24536401 uid ) State Error (AuthPlayerLoginState)
+13:07:14.307 Player Unknown (24536401) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+13:07:14.307 [StateMachine]: Kick player Decalacs (dpnid 24536401 uid ) State AuthPlayerLoginState
+13:07:14.308 [Disconnect]: Client 24536401 early disconnect
+13:07:14.318 [Disconnect]: No identity -> remove player info 24536401 
+13:07:14.318 [Disconnect]: DisconnectPlayerFinish 24536401
+13:07:14.318 [Disconnect]: Remove player info 24536401
+13:07:14.320 [Disconnect]: Player destroy 24536401 
+15:52:45.111 [Login]: Adding player teddy (25365158) to login queue at position 0
+15:52:45.112 [LoginMachine]: Add player teddy (25365158 88.172.181.144:17052)
+15:52:45.112 [StateMachine]: Player teddy (dpnid 25365158 uid ) Entering AuthPlayerLoginState
+15:52:45.776 [StateMachine]: Player teddy (dpnid 25365158 uid ) State Error (AuthPlayerLoginState)
+15:52:45.776 Player Unknown (25365158) kicked from server: 115 (Client is missing a mod which is on the server. (CodeLock; Namalsk Island; Ear Plugs; Namalsk Survival; Zen's Zombie Door Bangers)  (Missing PBO.))
+15:52:45.776 [StateMachine]: Kick player teddy (dpnid 25365158 uid ) State AuthPlayerLoginState
+15:52:45.778 [Disconnect]: Client 25365158 early disconnect
+15:52:45.786 [Disconnect]: No identity -> remove player info 25365158 
+15:52:45.786 [Disconnect]: DisconnectPlayerFinish 25365158
+15:52:45.786 [Disconnect]: Remove player info 25365158
+15:52:45.788 [Disconnect]: Player destroy 25365158 
+16:32:08.820 [Login]: Adding player Decalacs (23772441) to login queue at position 0
+16:32:08.820 [LoginMachine]: Add player Decalacs (23772441 77.25.18.53:5414)
+16:32:08.820 [StateMachine]: Player Decalacs (dpnid 23772441 uid ) Entering AuthPlayerLoginState
+16:32:09.365 [StateMachine]: Player Decalacs (dpnid 23772441 uid ) State Error (AuthPlayerLoginState)
+16:32:09.365 Player Unknown (23772441) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+16:32:09.365 [StateMachine]: Kick player Decalacs (dpnid 23772441 uid ) State AuthPlayerLoginState
+16:32:09.367 [Disconnect]: Client 23772441 early disconnect
+16:32:09.375 [Disconnect]: No identity -> remove player info 23772441 
+16:32:09.375 [Disconnect]: DisconnectPlayerFinish 23772441
+16:32:09.375 [Disconnect]: Remove player info 23772441
+16:32:09.378 [Disconnect]: Player destroy 23772441 
+16:32:20.993 [Login]: Adding player Decalacs (35940209) to login queue at position 0
+16:32:20.993 [LoginMachine]: Add player Decalacs (35940209 77.25.18.53:5432)
+16:32:20.993 [StateMachine]: Player Decalacs (dpnid 35940209 uid ) Entering AuthPlayerLoginState
+16:32:21.148 [StateMachine]: Player Decalacs (dpnid 35940209 uid ) State Error (AuthPlayerLoginState)
+16:32:21.148 Player Unknown (35940209) kicked from server: 146 (Client has a more recent version. Please wait until server updates. (Namalsk Survival (PBO: )))
+16:32:21.148 [StateMachine]: Kick player Decalacs (dpnid 35940209 uid ) State AuthPlayerLoginState
+16:32:21.150 [Disconnect]: Client 35940209 early disconnect
+16:32:21.158 [Disconnect]: No identity -> remove player info 35940209 
+16:32:21.158 [Disconnect]: DisconnectPlayerFinish 35940209
+16:32:21.158 [Disconnect]: Remove player info 35940209
+16:32:21.160 [Disconnect]: Player destroy 35940209 
+18:54:47.115 [Shutdown] Shutting down in 5400 seconds (90 minutes).
+19:25:37.596 [Shutdown] Shutting down in 3600 seconds (60 minutes).
+19:41:02.135 [Shutdown] Shutting down in 2700 seconds (45 minutes).
+19:56:27.894 [Shutdown] Shutting down in 1800 seconds (30 minutes).
+20:06:45.553 [Shutdown] Shutting down in 1200 seconds (20 minutes).
+20:11:54.900 [Shutdown] Shutting down in 900 seconds (15 minutes).
+20:17:03.929 [Shutdown] Shutting down in 600 seconds (10 minutes).
+20:22:12.841 [Shutdown] Shutting down in 300 seconds (5 minutes).
+20:23:14.647 [Shutdown] Shutting down in 240 seconds (4 minutes).
+20:24:16.386 [Shutdown] Shutting down in 180 seconds (3 minutes).
+20:25:18.105 [Shutdown] Shutting down in 120 seconds (2 minutes).
+20:26:19.785 [Shutdown] Shutting down in 60 seconds (1 minutes).
+20:26:19.878 [Shutdown] Saving players, locking server and kicking all players.
+20:27:21.561 [Server] :: termination in: 5
+20:27:22.561 [Server] :: termination in: 4
+20:27:23.562 [Server] :: termination in: 3
+20:27:24.563 [Server] :: termination in: 2
+20:27:25.563 [Server] :: termination in: 1
+20:27:36.579  --- Termination successfully completed --- 

@@ -1,0 +1,39 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-04-05_04-25-21.log started at 05.04. 09:58:55
+
+
+
+------------------------------------
+MS2871, 05.04 2025 09:58:55
+NULL pointer to instance
+Class:      'HandEventMoveTo'
+Function: 'NeedInventoryJunctureFromServer'
+Stack trace:
+scripts/4_World/entities\manbase\playerbase.c:4925
+scripts/3_Game/systems\inventory\junctures.c:4
+scripts/3_Game/systems\inventory\hand_events.c:326
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1157
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1556
+scripts/4_World/systems\inventory\dayzplayerinventory.c:739
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
+
+
+------------------------------------
+MS2871, 05.04 2025 09:58:55
+NULL pointer to instance
+Class:      'CraftRagRope'
+Function: 'CheckIngredientAnimOverride'
+Stack trace:
+scripts/4_World/classes\recipes\recipebase.c:485
+scripts/4_World/classes\recipes\recipebase.c:630
+scripts/4_World/plugins\pluginbase\pluginrecipesmanager.c:682
+scripts/4_World/classes\useractionscomponent\actions\continuous\actionworldcraft.c:137
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:222
+scripts/4_World/entities\manbase\playerbase.c:2973
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:108
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  

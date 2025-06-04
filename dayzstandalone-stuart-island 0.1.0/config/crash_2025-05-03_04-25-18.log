@@ -1,0 +1,16 @@
+---------------------------------------------
+Log C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\config\crash_2025-05-03_04-25-18.log started at 03.05. 10:59:51
+
+
+
+------------------------------------
+MS2871, 03.05 2025 10:59:51
+NULL pointer to instance
+Class:      'TimerQueue'
+Function: 'Tick'
+Stack trace:
+scripts/3_Game/tools\tools.c:417
+scripts/3_Game/dayzgame.c:2921
+
+Runtime mode
+CLI params: ip 85.190.162.236 port 11200 cpuCount 4 limitFPS 100 config serverDZ.cfg mod @Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock profiles C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config BEPath C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye noFilePatching  nologs  adminlog  freezecheck  
