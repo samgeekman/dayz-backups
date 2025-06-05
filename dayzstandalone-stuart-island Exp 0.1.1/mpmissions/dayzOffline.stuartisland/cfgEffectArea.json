@@ -25,30 +25,6 @@
 			}
 		},
 		
-		{ 	"AreaName": "powerplant-2", 
-			"Type": "ContaminatedArea_Static", 
-			"TriggerType": "ContaminatedTrigger",
-			"Data": { 
-				"Pos": [ 4956.38, 0, 2152.04 ], 
-				"Radius": 100,
-				"PosHeight": 100,
-				"NegHeight": 100,
-				"InnerRingCount": 1,
-				"InnerPartDist": 50,
-				"OuterRingToggle": 1, 
-				"OuterPartDist": 50, 
-				"OuterOffset": 0, 
-				"VerticalLayers": 2,
-				"VerticalOffset": 15,
-				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
-				},
-			"PlayerData": {
-				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
-				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
-				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
-			}
-		},
-		
 		{ 	"AreaName": "main-straight-1", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
