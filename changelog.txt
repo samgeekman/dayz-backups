@@ -1,3 +1,8 @@
+
+06/06/25 - 19:16
+
+Fixed areaflags.map so loot spawns correctly. Hotfix applied to server and loot table rebuilt.
+
 06/06/25 - 00:13
 
 Tweaked power plant gas area
