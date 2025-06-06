@@ -1,0 +1,37 @@
+
+
+******************************************************************************
+AdminLog started on 2025-04-29 at 04:24:50
+10:02:34 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) is connected
+10:04:04 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1221.5, 11804.8, 3.3>)[HP: 99.1925] hit by Infected into RightArm(17) for 8.075 damage (MeleeSoldierInfected)
+10:04:11 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1229.2, 11791.9, 2.0>)[HP: 98.5653] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+10:04:29 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1231.3, 11788.9, 2.0>)[HP: 96.6684] hit by Infected into Torso(1) for 2.4225 damage (MeleeSoldierInfected)
+10:04:29 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1230.7, 11789.3, 2.0>)[HP: 94.6496] hit by Infected into RightLeg(3) for 8.075 damage (MeleeSoldierInfected)
+10:04:30 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1229.8, 11789.3, 2.0>)[HP: 93.8421] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+10:04:51 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1225.2, 11823.3, 2.6>)[HP: 91.9842] hit by Infected into Torso(1) for 2.4225 damage (MeleeSoldierInfected)
+10:05:51 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.3, 11849.9, 2.0>)[HP: 92.6188] hit by Infected into LeftArm(18) for 8.075 damage (MeleeSoldierInfected)
+10:05:51 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.3, 11850, 2.0>)[HP: 90.1963] hit by Infected into Torso(1) for 2.4225 damage (MeleeSoldierInfected)
+10:05:52 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 89.2229] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:52 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 86.0879] hit by Infected into Torso(1) for 3.135 damage (MeleeSoldierInfectedLong)
+10:05:54 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 83.4754] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:56 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 82.502] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:57 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 79.8895] hit by Infected into RightLeg(3) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:59 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 78.9151] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:59 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 77.8701] hit by Infected into RightArm(17) for 10.45 damage (MeleeSoldierInfectedLong)
+10:05:59 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>) is unconscious
+10:06:00 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 75.3201] hit by Infected into Torso(1) for 2.55 damage (MeleeSoldierInfected)
+10:06:00 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>)[HP: 73.3014] hit by Infected into LeftLeg(8) for 8.075 damage (MeleeSoldierInfected)
+10:06:52 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1219.4, 11850, 2.0>) regained consciousness
+10:29:03 | Player "Sharmageddon" (id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo= pos=<1283.8, 11614.9, 5.1>) performed EmoteSitA with AliceBag_Camo
+10:29:18 | Player "Sharmageddon"(id=qjfyllHuSnWkKheqVz8qh9y3OlVzQqg-gUaxwjVxWqo=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2025-04-29 at 12:41:31
+
+
+******************************************************************************
+AdminLog started on 2025-04-29 at 21:01:22
+
+
+**********************************EOF****************************************

@@ -1,3 +1,22 @@
+06/06/26 - 22:25
+
+0.1.1 release - server wiped to reset broken loot economy (future updates won't require this)
+
+- CE tiers fixed as this was causing loot to spawn incorrectly
+- Increased lower tier weapon spawns and ammo
+- Increased police and press vests
+- Slightly increased low tier food and drink
+- Slightly increased NBC loot
+- Increased glowplug spawn rate for bunker
+- Adjusted zombies locations and types
+
+Known issues
+
+- One or two buildings don't spawn loot (awaiting DayZ Editor fix)
+- Various object placements issues (awaiting DayZ Editor fix)
+- Need to add long stick bushes to first island (awaiting DayZ Editor fix)
+
+Next update will focus on overhauling dynamic events, and adding new ones from 1.28. There are also object fixes and additions to be made, but DayZ Editor isn't working so will wait for dev to fix.
 
 06/06/25 - 19:16
 

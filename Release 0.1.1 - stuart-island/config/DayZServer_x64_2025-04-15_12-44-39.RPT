@@ -1,0 +1,537 @@
+=====================================================================
+== C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=85.190.162.236 -port=11200 -cpuCount=4 -limitFPS=100 -config=serverDZ.cfg "-mod=@Namalsk Survival;@Namalsk Island;@Zens Zombie Door Bangers;@Ear-Plugs;@Code Lock" -profiles=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -adminlog -freezecheck
+=====================================================================
+Exe timestamp: 2025/04/04 00:49:20
+Current time:  2025/04/15 12:44:45
+Version 1.27.159674
+=====================================================================
+
+12:44:45.199 [Inputs] Loading inputs default "bin/constants.xml"
+12:44:45.207 [Inputs] Loading inputs default "bin/specific.xml"
+12:44:45.209 [Inputs] Loading inputs default "EarPlugs/data/inputs.xml"
+12:44:45.210 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+12:44:45.212 [Inputs] Loading inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+12:44:45.223 [Inputs] Exporting inputs cfg "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+12:45:04.761 Hostname of server: "Aid Station | Namalsk"
+12:45:13.70 [CE][Hive] :: Initializing OFFLINE
+12:45:13.71 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\
+12:45:13.74 [CE][Hive] :: Loading core data ... 
+12:45:13.77 [CE][CoreData] :: 8 root classes, 0 defaults, 0 updaters...
+12:45:21.676 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+12:45:21.678 [CE][TypeSetup] :: 599 classes setuped...
+12:45:22.242 [CE][RegisterBind] :: 0 classes binded...
+12:45:22.242 [CE][RegisterConfig] :: 5794 config classes registered, 0 sub-counters...
+12:45:22.242 [CE][Hive] :: Loading map data ... 
+12:45:22.305 [CE][LoadPrototype] :: loaded 256 prototypes
+12:45:22.305   404 containers, 7415 points
+12:45:22.305   1 dispatches, 1 proxies
+12:45:22.305 !!! [CE][LoadPrototype] 1 groups have wrong points...
+12:45:22.305 [CE][LoadPrototype] :: last group name: land_frozen_person...
+12:45:22.314 [CE][LoadPrototype] :: loaded 0 prototypes
+12:45:22.314   38 containers, 66 points
+12:45:22.314   0 dispatches, 0 proxies
+12:45:22.314 [CE][LoadPrototype] :: last group name: StoneLoc38...
+12:45:22.407 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+12:45:22.413 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+12:45:22.418 [CE][Links] found 472 total links between groups, of 1445
+12:45:22.418 [CE][LoadClusters] "Cluster" :: Loading files...
+12:45:22.435 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+12:45:22.439 [CE][Storage] ver:21 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.bin"
+12:45:22.441 [CE][Storage] ver:21 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.001"
+12:45:22.444 [CE][Storage] ver:21 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.002"
+12:45:22.444 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\types.bin".
+12:45:22.501 [CE][offlineDB] :: Loaded 23 dynamic events 177 total types.
+12:45:22.536 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+12:45:22.561 [CE][DE][SPAWNS] :: Total positions: 711
+12:45:22.561 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+12:45:22.563 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.bin"
+12:45:22.564 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.001"
+12:45:22.565 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.002"
+12:45:22.565 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\events.bin".
+12:45:22.566 [CE][DynamicEvent] Load  Events:[23] Primary spawners: 23 Secondary spawners: 0
+12:45:22.567 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin"
+12:45:22.568 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.001"
+12:45:22.570 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.002"
+12:45:22.570 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+12:45:22.571   1 items loaded. (0 failed)
+12:45:22.572 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin"
+12:45:22.573 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.001"
+12:45:22.575 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.002"
+12:45:22.575 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_001.bin" 27 items.
+12:45:22.633   27 items loaded. (0 failed)
+12:45:22.634 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin"
+12:45:22.636 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.001"
+12:45:22.638 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.002"
+12:45:22.638 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_002.bin" 66 items.
+12:45:22.755   66 items loaded. (0 failed)
+12:45:22.756 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin"
+12:45:22.758 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.001"
+12:45:22.760 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.002"
+12:45:22.760 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_003.bin" 711 items.
+12:45:23.472   711 items loaded. (0 failed)
+12:45:23.474 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin"
+12:45:23.476 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.001"
+12:45:23.478 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.002"
+12:45:23.478 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_004.bin" 1648 items.
+12:45:24.597   1648 items loaded. (0 failed)
+12:45:24.598 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin"
+12:45:24.600 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.001"
+12:45:24.602 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.002"
+12:45:24.602 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_005.bin" 743 items.
+12:45:26.81   743 items loaded. (0 failed)
+12:45:26.82 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin"
+12:45:26.84 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.001"
+12:45:26.86 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.002"
+12:45:26.87 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_006.bin" 1746 items.
+12:45:26.912   1746 items loaded. (0 failed)
+12:45:26.914 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin"
+12:45:26.915 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.001"
+12:45:26.917 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.002"
+12:45:26.917 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_007.bin" 562 items.
+12:45:27.172   562 items loaded. (0 failed)
+12:45:27.173 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin"
+12:45:27.174 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.001"
+12:45:27.175 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.002"
+12:45:27.176 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_008.bin" 126 items.
+12:45:27.236   126 items loaded. (0 failed)
+12:45:27.237 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin"
+12:45:27.239 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.001"
+12:45:27.240 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.002"
+12:45:27.240 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+12:45:27.240   0 items loaded. (0 failed)
+12:45:27.241 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin"
+12:45:27.242 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.001"
+12:45:27.243 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.002"
+12:45:27.243 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_010.bin" 34 items.
+12:45:27.262   34 items loaded. (0 failed)
+12:45:27.264 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin"
+12:45:27.265 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.001"
+12:45:27.266 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.002"
+12:45:27.266 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\dynamic_011.bin" 52 items.
+12:45:27.315   52 items loaded. (0 failed)
+12:45:27.316 [CE][Storage] ver:26 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.bin"
+12:45:27.318 [CE][Storage] ver:26 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.001"
+12:45:27.319 [CE][Storage] ver:26 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.002"
+12:45:27.319 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\building.bin" 0 items.
+12:45:27.319   0 items loaded. (0 failed)
+12:45:27.320 [CE][Storage] ver:25 stamp:33974, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.bin"
+12:45:27.322 [CE][Storage] ver:25 stamp:33340, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.001"
+12:45:27.324 [CE][Storage] ver:25 stamp:33341, valid:yes, name:"C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.002"
+12:45:27.324 [CE][Storage] Restoring file "C:\SERVICES\ni10839481_1_SHARE\ftproot\dayzstandalone\mpmissions\regular.namalsk\storage_1\data\vehicles.bin" 55 items.
+12:45:27.513   55 items loaded. (0 failed)
+12:45:27.529 [CE][Hive] :: Storage load took:4.97 seconds, recovery stamp:33974
+12:45:27.529   entity: 8369, building: 0
+12:45:27.529   no lifetime: 12
+12:45:27.529   pathgraph's: 313
+12:45:27.532 [CE][Hive] :: Initializing ... 
+12:45:27.564 [CE][InitializeMap] :: initialized: 0
+12:45:27.565 [CE][Hive] :: Initializing spawners ... 
+12:45:27.565 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:6458, Total in Map: 5818 at 0 (sec)
+12:45:27.565   tests:0, repeats:0 fails:0, overtime:0
+12:45:30.415 [CE][DynEvent] :: 23 types
+12:45:30.415 [00] Loot
+12:45:30.415   Primary Spawner: "Loot", active: yes, repeat: 2
+12:45:30.415 [01] StaticMedDrop
+12:45:30.415   Primary Spawner: "Static", active: yes, repeat: 1
+12:45:30.415 [02] StaticLifeboat
+12:45:30.415   Primary Spawner: "Static", active: yes, repeat: 1
+12:45:30.415 [03] ItemWoodenPlanks
+12:45:30.415   Primary Spawner: "Item", active: yes, repeat: 1
+12:45:30.415 [04] TrajectoryStones
+12:45:30.415   Primary Spawner: "Trajectory", active: yes, repeat: 1
+12:45:30.415 [05] InfectedSanta
+12:45:30.415   Primary Spawner: "Infected", active: yes, repeat: 1
+12:45:30.415 [06] InfectedArmy
+12:45:30.415   Primary Spawner: "Infected", active: yes, repeat: 1
+12:45:30.415 [07] InfectedIndustrial
+12:45:30.415   Primary Spawner: "Infected", active: yes, repeat: 1
+12:45:30.415 [08] InfectedCivil
+12:45:30.415   Primary Spawner: "Infected", active: yes, repeat: 1
+12:45:30.415 [09] InfectedMedic
+12:45:30.415   Primary Spawner: "Infected", active: yes, repeat: 1
+12:45:30.415 [10] AnimalGoat
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [11] AnimalSheep
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [12] AnimalReindeer
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [13] AnimalWildBoar
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [14] AnimalWolf
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [15] AnimalBrownBear
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [16] AnimalPolarBear
+12:45:30.415   Primary Spawner: "Animal", active: yes, repeat: 1
+12:45:30.415 [17] AmbientFox
+12:45:30.415   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:45:30.415 [18] AmbientHare
+12:45:30.415   Primary Spawner: "Ambient", active: yes, repeat: 1
+12:45:30.415 [19] VehicleRubberBoats
+12:45:30.415   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:45:30.415 [20] VehicleCivilianCars
+12:45:30.415   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:45:30.415 [21] VehicleTrucks
+12:45:30.415   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:45:30.415 [22] VehicleMilitary
+12:45:30.415   Primary Spawner: "Vehicle", active: yes, repeat: 1
+12:45:30.415 [CE][Hive] :: Initializing of spawners done.
+12:45:30.421 [CE][Hive] :: Init sequence finished.
+12:45:30.421 Player connect enabled
+12:45:30.811 [IdleMode] Entering IN - save processed
+19:29:23.192 [Shutdown] Shutting down in 5400 seconds (90 minutes).
+20:00:23.660 [Shutdown] Shutting down in 3600 seconds (60 minutes).
+20:10:41.690 [Login]: Adding player Mendoza (14119209) to login queue at position 0
+20:10:41.690 [LoginMachine]: Add player Mendoza (14119209 156.67.137.209:28144)
+20:10:41.690 [StateMachine]: Player Mendoza (dpnid 14119209 uid ) Entering AuthPlayerLoginState
+20:10:42.65 [StateMachine]: Player Mendoza (dpnid 14119209 uid ) Entering WaitAuthPlayerLoginState
+20:10:44.274 Player Mendoza (id=crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) has connected.
+20:10:44.274 Player "Mendoza"(steamID=76561197963413528) is connected
+20:10:44.284 [StateMachine]: Player Mendoza (dpnid 14119209 uid ) Entering WaitPlayerAssignedLoginState
+20:10:44.618 [StateMachine]: Player Mendoza (dpnid 14119209 uid ) Entering PlayerAssignedLoginState
+20:10:44.629 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering DBGetLoginTimeLoginState
+20:10:44.649 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering DBWaitLoginTimeLoginState
+20:10:45.811 [IdleMode] Leaving OUT
+20:10:59.659 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering DBGetCharacterLoginState
+20:10:59.679 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering CreateNetObjectsLoginState
+20:10:59.696 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering PreloadCamLoginState
+20:10:59.700 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering WaitPreloadCamLoginState
+20:11:03.947 [StateMachine]: Player Mendoza (dpnid 14119209 uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=) Entering GetLoadedCharLoginState
+20:11:09.147 <LOAD EXISTING CHAR>:
+    charID 6
+    playerID 6
+    dpnid 14119209
+    uid crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=
+20:11:13.781 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "Crowbar"
+20:11:13.986 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "BandageDressing"
+20:11:15.07 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "QuiltedJacket_Green"
+20:11:41.818 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "BomberJacket_Grey"
+20:11:42.25 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "BomberJacket_Maroon"
+20:11:42.25 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "BomberJacket_Maroon"
+20:12:20.922 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "GP5GasMask"
+20:12:21.842 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "Hoodie_Black"
+20:12:22.464 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "SherpaHat_Blue"
+20:12:48.712 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "SlacksPants_Brown"
+20:12:50.211 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "GorkaPants_PautRev"
+20:13:16.80 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "Pipe"
+20:13:16.82 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "Pipe"
+20:13:17.411 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_athena3_exp1"
+20:13:43.654 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "MetalPlate"
+20:13:43.854 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "Bandana_Greenpattern"
+20:13:44.158 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "FirefighterAxe"
+20:13:44.159 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "FirefighterAxe"
+20:13:44.159 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "FirefighterAxe"
+20:13:44.159 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "FirefighterAxe"
+20:13:44.980 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "GorkaPants_Flat"
+20:14:12.832 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "FirefighterJacket_Black"
+20:14:38.899 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "WoodenPlank"
+20:14:38.899 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "WoodenPlank"
+20:14:38.899 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "WoodenPlank"
+20:14:39.308 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "JumpsuitJacket_Blue"
+20:14:39.310 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "JumpsuitJacket_Blue"
+20:14:39.720 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "HuntingVest"
+20:14:39.721 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "HuntingVest"
+20:14:39.721 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "HuntingVest"
+20:14:39.721 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "HuntingVest"
+20:15:01.52 [Login]: Adding player Burli (29552008) to login queue at position 0
+20:15:01.52 [LoginMachine]: Add player Burli (29552008 156.67.137.209:49585)
+20:15:01.52 [StateMachine]: Player Burli (dpnid 29552008 uid ) Entering AuthPlayerLoginState
+20:15:01.193 [StateMachine]: Player Burli (dpnid 29552008 uid ) Entering WaitAuthPlayerLoginState
+20:15:04.813 Player Burli (id=geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) has connected.
+20:15:04.813 Player "Burli"(steamID=76561199403818735) is connected
+20:15:04.824 [StateMachine]: Player Burli (dpnid 29552008 uid ) Entering WaitPlayerAssignedLoginState
+20:15:05.358 [StateMachine]: Player Burli (dpnid 29552008 uid ) Entering PlayerAssignedLoginState
+20:15:05.369 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering DBGetLoginTimeLoginState
+20:15:05.389 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering DBWaitLoginTimeLoginState
+20:15:20.394 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering DBGetCharacterLoginState
+20:15:20.414 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering CreateNetObjectsLoginState
+20:15:20.429 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering PreloadCamLoginState
+20:15:20.434 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering WaitPreloadCamLoginState
+20:15:27.535 [StateMachine]: Player Burli (dpnid 29552008 uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=) Entering GetLoadedCharLoginState
+20:15:27.599 <LOAD EXISTING CHAR>:
+    charID 5
+    playerID 5
+    dpnid 29552008
+    uid geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=
+20:16:02.439 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "TrackSuitPants_Red"
+20:16:07.875 [Shutdown] Shutting down in 2700 seconds (45 minutes).
+20:16:29.337 [CE][LootRespawner] (PRIDummy) :: Item [28] is hard to place, performance drops: "ReflexVest"
+20:16:29.339 [CE][LootRespawner] (PRIDummy) :: Item [29] is hard to place, performance drops: "ReflexVest"
+20:16:29.958 [CE][LootRespawner] (PRIDummy) :: Item [30] is hard to place, performance drops: "HipPack_Green"
+20:17:52.144 [CE][LootRespawner] (PRIDummy) :: Item [31] is hard to place, performance drops: "MetalPlate"
+20:17:52.144 [CE][LootRespawner] (PRIDummy) :: Item [32] is hard to place, performance drops: "MetalPlate"
+20:17:52.144 [CE][LootRespawner] (PRIDummy) :: Item [33] is hard to place, performance drops: "MetalPlate"
+20:17:52.146 [CE][LootRespawner] (PRIDummy) :: Item [34] is hard to place, performance drops: "MetalPlate"
+20:17:52.760 [CE][LootRespawner] (PRIDummy) :: Item [35] is hard to place, performance drops: "PoliceVest"
+20:18:20.15 [CE][LootRespawner] (PRIDummy) :: Item [36] is hard to place, performance drops: "Pickaxe"
+20:18:20.627 [CE][LootRespawner] (PRIDummy) :: Item [37] is hard to place, performance drops: "M65Jacket_Black"
+20:18:21.135 [CE][LootRespawner] (PRIDummy) :: Item [38] is hard to place, performance drops: "PetushokHat_Green"
+20:18:47.903 [CE][LootRespawner] (PRIDummy) :: Item [39] is hard to place, performance drops: "TShirt_Beige"
+20:18:48.212 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_athena_planning"
+20:18:48.515 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_athena3_exp1"
+20:18:48.722 [CE][LootRespawner] (PRIDummy) :: Item [40] is hard to place, performance drops: "RadarCap_Red"
+20:18:48.722 [CE][LootRespawner] (PRIDummy) :: Item [41] is hard to place, performance drops: "RadarCap_Red"
+20:19:16.445 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "FirefighterJacket_Black"
+20:19:16.854 [CE][LootRespawner] (PRIDummy) :: Item [42] is hard to place, performance drops: "BushlatPoliceJacket_Blue"
+20:19:16.854 [CE][LootRespawner] (PRIDummy) :: Item [43] is hard to place, performance drops: "BushlatPoliceJacket_Blue"
+20:19:16.854 [CE][LootRespawner] (PRIDummy) :: Item [44] is hard to place, performance drops: "BushlatPoliceJacket_Blue"
+20:20:11.697 [CE][LootRespawner] (PRIDummy) :: Item [45] is hard to place, performance drops: "CodeLock"
+20:21:06.212 [CE][LootRespawner] (PRIDummy) :: Item [46] is hard to place, performance drops: "TShirt_White"
+20:21:06.212 [CE][LootRespawner] (PRIDummy) :: Item [47] is hard to place, performance drops: "TShirt_White"
+20:21:06.212 [CE][LootRespawner] (PRIDummy) :: Item [48] is hard to place, performance drops: "TShirt_White"
+20:21:06.212 [CE][LootRespawner] (PRIDummy) :: Item [49] is hard to place, performance drops: "TShirt_White"
+20:21:07.25 [CE][LootRespawner] (PRIDummy) :: Item [50] is hard to place, performance drops: "HuntingVest"
+20:22:28.121 [CE][LootRespawner] (PRIDummy) :: Item [51] is hard to place, performance drops: "PrisonUniformJacket"
+20:22:29.548 [CE][LootRespawner] (PRIDummy) :: Item [52] is hard to place, performance drops: "Jeans_Brown"
+20:22:55.775 [CE][LootRespawner] (PRIDummy) :: Item [53] is hard to place, performance drops: "ChestHolster"
+20:22:56.77 [CE][LootRespawner] (PRIDummy) :: Item [54] is hard to place, performance drops: "TrackSuitPants_Red"
+20:23:17.345 [Login]: Adding player Survivor (54425933) to login queue at position 0
+20:23:17.345 [LoginMachine]: Add player Survivor (54425933 94.31.70.138:54512)
+20:23:17.345 [StateMachine]: Player Survivor (dpnid 54425933 uid ) Entering AuthPlayerLoginState
+20:23:18.09 [StateMachine]: Player Survivor (dpnid 54425933 uid ) Entering WaitAuthPlayerLoginState
+20:23:21.499 Player Survivor (id=C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) has connected.
+20:23:21.499 Player "Survivor"(steamID=76561197965481378) is connected
+20:23:21.510 [StateMachine]: Player Survivor (dpnid 54425933 uid ) Entering WaitPlayerAssignedLoginState
+20:23:22.256 [StateMachine]: Player Survivor (dpnid 54425933 uid ) Entering PlayerAssignedLoginState
+20:23:22.267 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering DBGetLoginTimeLoginState
+20:23:22.347 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering DBWaitLoginTimeLoginState
+20:23:23.237 [CE][LootRespawner] (PRIDummy) :: Item [55] is hard to place, performance drops: "Balaclava3Holes_Beige"
+20:23:23.341 [CE][LootRespawner] (PRIDummy) :: Item [56] is hard to place, performance drops: "Bandana_PolkaPattern"
+20:23:37.353 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering DBGetCharacterLoginState
+20:23:37.374 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering CreateNetObjectsLoginState
+20:23:37.384 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 27538094 | lt: 0 | ctr: 0)
+20:23:37.384 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } | idx: 0 (ct: 27538094 | ut: 27538094 | lt: 0 | ctr: 0)
+20:23:37.384 [CE][PlayerSpawnPoints][GRP_DBG] :: Current: { no group } index: 0 (lt: 0 | ctr: 0)
+20:23:37.384 [CE][PlayerSpawnPoints][GRP_DBG] :: Selected: { no group } | idx: 0 (ut: 27538094 | lt: 0 | ctr: 0)
+20:23:37.389 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering PreloadCamLoginState
+20:23:37.394 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering WaitPreloadCamLoginState
+20:23:52.306 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "dzn_platecarriervest_nac"
+20:23:52.409 [CE][LootRespawner] (PRIDummy) :: Item [57] is hard to place, performance drops: "dzn_ukassvest_white"
+20:24:07.56 [StateMachine]: Player Survivor (dpnid 54425933 uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=) Entering GetNewCharLoginState
+20:24:07.95 <CREATE NEW CHAR>:
+    charID 16
+    playerID 16
+    dpnid 54425933
+    uid C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=
+20:24:18.787 [CE][LootRespawner] (PRIDummy) :: Item [58] is hard to place, performance drops: "BalaclavaMask_Black"
+20:24:18.787 [CE][LootRespawner] (PRIDummy) :: Item [59] is hard to place, performance drops: "BalaclavaMask_Black"
+20:24:18.787 [CE][LootRespawner] (PRIDummy) :: Item [60] is hard to place, performance drops: "BalaclavaMask_Black"
+20:24:20.223 [CE][LootRespawner] (PRIDummy) :: Item [61] is hard to place, performance drops: "MotoHelmet_Red"
+20:24:23.284 [CE][Links] found 0 total links between groups, of 1
+20:24:23.284 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+20:24:46.379 [CE][LootRespawner] (PRIDummy) :: Item [62] is hard to place, performance drops: "ManSuit_Khaki"
+20:24:46.380 [CE][LootRespawner] (PRIDummy) :: Item [63] is hard to place, performance drops: "ManSuit_Khaki"
+20:24:46.380 [CE][LootRespawner] (PRIDummy) :: Item [64] is hard to place, performance drops: "ManSuit_Khaki"
+20:24:46.380 [CE][LootRespawner] (PRIDummy) :: Item [65] is hard to place, performance drops: "ManSuit_Khaki"
+20:24:46.483 [CE][LootRespawner] (PRIDummy) :: Item [66] is hard to place, performance drops: "TShirt_Blue"
+20:24:46.483 [CE][LootRespawner] (PRIDummy) :: Item [67] is hard to place, performance drops: "TShirt_Blue"
+20:24:46.483 [CE][LootRespawner] (PRIDummy) :: Item [68] is hard to place, performance drops: "TShirt_Blue"
+20:24:46.483 [CE][LootRespawner] (PRIDummy) :: Item [69] is hard to place, performance drops: "TShirt_Blue"
+20:24:46.483 [CE][LootRespawner] (PRIDummy) :: Item [70] is hard to place, performance drops: "TShirt_Blue"
+20:24:46.991 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "dzn_blueprint_lehs"
+20:24:47.299 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "dzn_athena3_exp1"
+20:24:48.123 [CE][Links] found 0 total links between groups, of 2
+20:24:48.123 [CE][SpawnRandomLoot] (StaticLifeboat) :: Type: sea_oilrig_lifeboat, lootmin: 2, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 5
+20:24:48.123 [CE][SpawnRandomLoot] (StaticLifeboat) :: No item found to spawn for DE! Spawned: 2 / 3 (enable log_ce_dynamicevent to see item lists for event)
+20:25:13.775 [CE][LootRespawner] (PRIDummy) :: Item [71] is hard to place, performance drops: "BurlapSack"
+20:25:13.775 [CE][LootRespawner] (PRIDummy) :: Item [72] is hard to place, performance drops: "BurlapSack"
+20:25:13.776 [CE][LootRespawner] (PRIDummy) :: Item [73] is hard to place, performance drops: "BurlapSack"
+20:25:13.776 [CE][LootRespawner] (PRIDummy) :: Item [74] is hard to place, performance drops: "BurlapSack"
+20:25:13.776 [CE][LootRespawner] (PRIDummy) :: Item [75] is hard to place, performance drops: "BurlapSack"
+20:26:10.264 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "FirefighterJacket_Black"
+20:27:04.410 [CE][LootRespawner] (PRIDummy) :: Item [76] is hard to place, performance drops: "WomanSuit_Khaki"
+20:27:04.410 [CE][LootRespawner] (PRIDummy) :: Item [77] is hard to place, performance drops: "WomanSuit_Khaki"
+20:27:05.227 [CE][LootRespawner] (PRIDummy) :: Item [78] is hard to place, performance drops: "GorkaEJacket_Flat"
+20:27:31.634 [CE][LootRespawner] (PRIDummy) :: Item [79] is hard to place, performance drops: "WorkingGloves_Yellow"
+20:27:59.424 [CE][LootRespawner] (PRIDummy) :: Item [80] is hard to place, performance drops: "CanisterGasoline"
+20:27:59.525 [CE][LootRespawner] (PRIDummy) :: Item [81] is hard to place, performance drops: "MetalPlate"
+20:27:59.526 [CE][LootRespawner] (PRIDummy) :: Item [82] is hard to place, performance drops: "MetalPlate"
+20:27:59.935 [CE][LootRespawner] (PRIDummy) :: Item [83] is hard to place, performance drops: "DenimJacket"
+20:28:27.451 [CE][LootRespawner] (PRIDummy) :: Item [84] is hard to place, performance drops: "Hatchback_02_Wheel"
+20:28:55.594 [CE][LootRespawner] (PRIDummy) :: Item [85] is hard to place, performance drops: "Hoodie_Blue"
+20:28:55.798 [CE][LootRespawner] (PRIDummy) :: Item [86] is hard to place, performance drops: "Balaclava3Holes_White"
+20:29:22.195 [CE][LootRespawner] (PRIDummy) :: Item [87] is hard to place, performance drops: "WorkingGloves_Brown"
+20:29:23.937 [CE][LootRespawner] (PRIDummy) :: Item [88] is hard to place, performance drops: "JoggingShoes_Black"
+20:29:24.658 [CE][Links] found 0 total links between groups, of 3
+20:29:24.658 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+20:29:24.660 [CE][Links] found 0 total links between groups, of 4
+20:29:24.660 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+20:29:49.929 [CE][LootRespawner] (PRIDummy) :: Item [89] is hard to place, performance drops: "Hacksaw"
+20:29:51.162 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "NBCGlovesYellow"
+20:29:51.677 [CE][LootRespawner] (PRIDummy) :: Item [90] is hard to place, performance drops: "Blouse_White"
+20:30:17.857 [CE][LootRespawner] (PRIDummy) :: Item [91] is hard to place, performance drops: "Balaclava3Holes_Green"
+20:30:18.163 [CE][LootRespawner] (PRIDummy) :: Item [92] is hard to place, performance drops: "WomanSuit_LightGrey"
+20:30:18.368 [CE][LootRespawner] (PRIDummy) :: Item [93] is hard to place, performance drops: "ConstructionHelmet_Yellow"
+20:30:45.173 [CE][LootRespawner] (PRIDummy) :: Item [94] is hard to place, performance drops: "FryingPan"
+20:30:45.174 [CE][LootRespawner] (PRIDummy) :: Item [95] is hard to place, performance drops: "FryingPan"
+20:31:13.209 [CE][LootRespawner] (PRIDummy) :: Item [96] is hard to place, performance drops: "Jeans_Black"
+20:31:14.335 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "dzn_platecarriervest_nac"
+20:31:30.887 [Shutdown] Shutting down in 1800 seconds (30 minutes).
+20:31:41.980 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "dzn_athena3_exp1"
+20:32:07.972 [CE][LootRespawner] (PRIDummy) :: Item [97] is hard to place, performance drops: "JumpsuitPants_Red"
+20:32:08.74 [CE][LootRespawner] (PRIDummy) :: Item [98] is hard to place, performance drops: "JumpsuitPants_Blue"
+20:32:09.92 [CE][LootRespawner] (PRIDummy) :: Item [99] is hard to place, performance drops: "ManSuit_Blue"
+20:32:09.92 [CE][LootRespawner] (PRIDummy) :: Item [100] is hard to place, performance drops: "ManSuit_Blue"
+20:32:09.399 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "FirefightersHelmet_Red"
+20:32:12.904 [CE][Links] found 0 total links between groups, of 5
+20:32:12.904 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+20:32:12.906 [CE][Links] found 0 total links between groups, of 6
+20:32:12.906 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+20:32:12.924 [CE][Links] found 0 total links between groups, of 7
+20:32:12.924 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+20:33:03.714 [CE][LootRespawner] (PRIDummy) :: Item [101] is hard to place, performance drops: "WoolCoat_RedCheck"
+20:33:03.919 [CE][LootRespawner] (PRIDummy) :: Item [102] is hard to place, performance drops: "Blouse_Green"
+20:33:05.52 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "FirefighterJacket_Black"
+20:33:30.917 [CE][LootRespawner] (PRIDummy) :: Item [103] is hard to place, performance drops: "Truck_01_Wheel"
+20:33:31.330 [CE][LootRespawner] (PRIDummy) :: Item [104] is hard to place, performance drops: "QuiltedJacket_Grey"
+20:33:31.839 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "FirefightersPants_Black"
+20:33:58.634 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "BloodTestKit"
+20:33:59.969 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "FirefightersPants_Beige"
+20:34:26.424 [CE][LootRespawner] (PRIDummy) :: Item [105] is hard to place, performance drops: "USMCPants_Woodland"
+20:34:27.969 [CE][LootRespawner] (PRIDummy) :: Item [106] is hard to place, performance drops: "WoodenPlank"
+20:34:54.64 [CE][LootRespawner] (PRIDummy) :: Item [107] is hard to place, performance drops: "MetalPlate"
+20:34:54.64 [CE][LootRespawner] (PRIDummy) :: Item [108] is hard to place, performance drops: "MetalPlate"
+20:34:54.65 [CE][LootRespawner] (PRIDummy) :: Item [109] is hard to place, performance drops: "MetalPlate"
+20:35:21.912 [CE][LootRespawner] (PRIDummy) :: Item [110] is hard to place, performance drops: "Izh18"
+20:35:22.633 [CE][LootRespawner] (PRIDummy) :: Item [111] is hard to place, performance drops: "Magnum"
+20:35:49.233 [CE][LootRespawner] (PRIDummy) :: Item [112] is hard to place, performance drops: "CamoNet"
+20:35:49.538 [CE][LootRespawner] (PRIDummy) :: Item [113] is hard to place, performance drops: "WomanSuit_DarkGrey"
+20:36:17.58 [CE][LootRespawner] (PRIDummy) :: Item [114] is hard to place, performance drops: "HatchbackWheel"
+20:36:44.291 [CE][LootRespawner] (PRIDummy) :: Item [115] is hard to place, performance drops: "Shovel"
+20:37:12.392 [CE][LootRespawner] (PRIDummy) :: Item [116] is hard to place, performance drops: "WoolCoat_BlueCheck"
+20:37:12.392 [CE][LootRespawner] (PRIDummy) :: Item [117] is hard to place, performance drops: "WoolCoat_BlueCheck"
+20:38:07.431 [CE][LootRespawner] (PRIDummy) :: Item [118] is hard to place, performance drops: "KitchenKnife"
+20:38:07.634 [CE][LootRespawner] (PRIDummy) :: Item [119] is hard to place, performance drops: "Machete"
+20:38:07.737 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "MedicalScrubsPants_Blue"
+20:38:07.942 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "IodineTincture"
+20:38:35.252 [CE][LootRespawner] (PRIDummy) :: Item [120] is hard to place, performance drops: "WomanSuit_Blue"
+20:39:02.560 [CE][LootRespawner] (PRIDummy) :: Item [121] is hard to place, performance drops: "GasMask_Filter"
+20:39:02.663 [CE][LootRespawner] (PRIDummy) :: Item [122] is hard to place, performance drops: "Hammer"
+20:39:03.285 [CE][LootRespawner] (PRIDummy) :: Item [123] is hard to place, performance drops: "WoolCoat_GreyCheck"
+20:39:04.00 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "dzn_platecarriervest_nac"
+20:39:04.106 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "dzn_athena3_august"
+20:39:58.26 [CE][LootRespawner] (PRIDummy) :: Item [124] is hard to place, performance drops: "BomberJacket_Blue"
+20:39:58.26 !!! [CE][Point] Removing 5035.500977, 8162.964844 from land_hut_old01
+20:39:58.26 [CE][LootRespawner] (PRIDummy) :: Item [125] is hard to place, performance drops: "BomberJacket_Blue"
+20:39:58.127 [CE][LootRespawner] (PRIDummy) :: Item [126] is hard to place, performance drops: "Jeans_Green"
+20:39:58.540 [CE][LootRespawner] (PRIDummy) :: Item [127] is hard to place, performance drops: "QuiltedJacket_Red"
+20:39:59.153 [CE][LootRespawner] (PRIDummy) :: Item [128] is hard to place, performance drops: "HikingJacket_Black"
+20:40:25.868 !!! [CE][Point] Removing 6504.356445, 9291.453125 from land_wrecked_ural
+20:40:25.868 [CE][LootRespawner] (PRIDummy) :: Item [129] is hard to place, performance drops: "TacticalGloves_Green"
+20:40:53.210 [CE][LootRespawner] (PRIDummy) :: Item [130] is hard to place, performance drops: "JumpsuitPants_Red"
+20:40:53.519 [CE][LootRespawner] (PRIDummy) :: Item [131] is hard to place, performance drops: "BalaclavaMask_Beige"
+20:40:53.820 [CE][LootRespawner] (PRIDummy) :: Item [132] is hard to place, performance drops: "Hoodie_Grey"
+20:40:53.821 [CE][LootRespawner] (PRIDummy) :: Item [133] is hard to place, performance drops: "Hoodie_Grey"
+20:41:47.653 [Shutdown] Shutting down in 1200 seconds (20 minutes).
+20:42:16.626 [CE][LootRespawner] (PRIDummy) :: Item [134] is hard to place, performance drops: "Bandana_Greenpattern"
+20:42:18.56 [CE][LootRespawner] (PRIDummy) :: Item [135] is hard to place, performance drops: "HikingBootsLow_Beige"
+20:42:43.807 [CE][LootRespawner] (PRIDummy) :: Item [136] is hard to place, performance drops: "WorkingGloves_Black"
+20:43:39.321 [CE][LootRespawner] (PRIDummy) :: Item [137] is hard to place, performance drops: "Sneakers_White"
+20:43:39.935 [CE][LootRespawner] (PRIDummy) :: Item [138] is hard to place, performance drops: "Blouse_Violet"
+20:44:34.559 [CE][LootRespawner] (PRIDummy) :: Item [139] is hard to place, performance drops: "CamoNet"
+20:44:35.280 [CE][LootRespawner] (PRIDummy) :: Item [140] is hard to place, performance drops: "TrackSuitJacket_Blue"
+20:45:02.618 [CE][LootRespawner] (PRIDummy) :: Item [141] is hard to place, performance drops: "HikingJacket_Green"
+20:45:30.742 [CE][LootRespawner] (PRIDummy) :: Item [142] is hard to place, performance drops: "SlingBag_Brown"
+20:45:57.359 [CE][LootRespawner] (PRIDummy) :: Item [143] is hard to place, performance drops: "JumpsuitPants_Green"
+20:46:24.880 [CE][LootRespawner] (PRIDummy) :: Item [144] is hard to place, performance drops: "GP5GasMask"
+20:46:53.311 [CE][LootRespawner] (PRIDummy) :: Item [145] is hard to place, performance drops: "WoodenPlank"
+20:46:53.415 [CE][LootRespawner] (PRIDummy) :: Item [146] is hard to place, performance drops: "MetalPlate"
+20:46:53.415 [CE][LootRespawner] (PRIDummy) :: Item [147] is hard to place, performance drops: "MetalPlate"
+20:46:53.934 [CE][LootRespawner] (PRIDummy) :: Item [148] is hard to place, performance drops: "Sweater_Red"
+20:46:53.935 [CE][LootRespawner] (PRIDummy) :: Item [149] is hard to place, performance drops: "Sweater_Red"
+20:46:56.90 [Shutdown] Shutting down in 900 seconds (15 minutes).
+20:47:47.917 !!! [CE][Point] Removing 6162.589844, 10878.765625 from land_hut_old01
+20:47:47.917 [CE][LootRespawner] (PRIDummy) :: Item [150] is hard to place, performance drops: "Tomato"
+20:47:48.525 [CE][LootRespawner] (PRIDummy) :: Item [151] is hard to place, performance drops: "GhillieHood_Woodland"
+20:47:49.764 [CE][LootRespawner] (PRIDummy) :: Item [152] is hard to place, performance drops: "Jeans_Black"
+20:47:49.863 [CE][LootRespawner] (PRIDummy) :: Item [153] is hard to place, performance drops: "PolicePants"
+20:48:15.749 [CE][LootRespawner] (PRIDummy) :: Item [154] is hard to place, performance drops: "BaseRadio"
+20:48:16.57 [CE][LootRespawner] (PRIDummy) :: Item [155] is hard to place, performance drops: "HuntingVest"
+20:48:16.57 [CE][LootRespawner] (PRIDummy) :: Item [156] is hard to place, performance drops: "HuntingVest"
+20:48:16.569 [CE][LootRespawner] (PRIDummy) :: Item [157] is hard to place, performance drops: "TShirt_Blue"
+20:48:16.774 [CE][LootRespawner] (PRIDummy) :: Item [158] is hard to place, performance drops: "MedicalScrubsShirt_Green"
+20:48:43.700 [CE][LootRespawner] (PRIDummy) :: Item [159] is hard to place, performance drops: "CarRadiator"
+20:48:44.829 [CE][LootRespawner] (PRIDummy) :: Item [160] is hard to place, performance drops: "SlacksPants_DarkGrey"
+20:48:47.52 [Disconnect]: Start script disconnect 14119209 (dbCharacterId 6 dbPlayerId 6) logoutTime 15
+20:48:49.272 [Disconnect]: Client 14119209 disconnecting
+20:48:49.273 [Disconnect]: Client 14119209 early disconnect
+20:48:49.280 [Disconnect]: Start script disconnect 14119209 (dbCharacterId 6 dbPlayerId 6) logoutTime 15
+20:48:59.715 [Disconnect]: No packets from 14119209
+20:48:59.715 Player Mendoza (14119209) kicked from server: 4 (Connection with host has been lost.)
+20:49:00.721 [Disconnect]: Remove player info 14119209
+20:49:00.747 [Disconnect]: Player destroy 14119209 
+20:49:02.60 [Disconnect]: Finish script disconnect -1 (crMy59eA2TCfN-GyF37DMEBPOnJ1WTzWO02Rn7KwJLU=)
+20:49:11.671 [CE][LootRespawner] (PRIDummy) :: Item [161] is hard to place, performance drops: "BomberJacket_Olive"
+20:49:12.388 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "dzn_platecarrierpouches_nac"
+20:49:12.694 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "dzn_apsi"
+20:49:24.940 [Disconnect]: Start script disconnect 29552008 (dbCharacterId 5 dbPlayerId 5) logoutTime 15
+20:49:38.680 [CE][LootRespawner] (PRIDummy) :: Item [162] is hard to place, performance drops: "JumpsuitJacket_Green"
+20:49:38.884 [CE][LootRespawner] (PRIDummy) :: Item [163] is hard to place, performance drops: "Sedan_02_Wheel"
+20:49:38.885 [CE][LootRespawner] (PRIDummy) :: Item [164] is hard to place, performance drops: "Sedan_02_Wheel"
+20:49:39.598 [CE][LootRespawner] (PRIDummy) :: Item [165] is hard to place, performance drops: "ManSuit_Beige"
+20:49:39.945 [Disconnect]: Finish script disconnect 29552008 (geDsqpP5KQh_AmouyJHL0jYzhy963PzXdkoLnjuAmTg=)
+20:49:39.945 [Disconnect]: DisconnectPlayerFinish 29552008
+20:49:40.911 [Disconnect]: Remove player info 29552008
+20:49:40.920 [Disconnect]: Player destroy 29552008 
+20:50:07.485 [CE][LootRespawner] (PRIDummy) :: Item [166] is hard to place, performance drops: "SlacksPants_Black"
+20:50:34.235 [CE][LootRespawner] (PRIDummy) :: Item [167] is hard to place, performance drops: "TrackSuitPants_Blue"
+20:50:34.340 [CE][LootRespawner] (PRIDummy) :: Item [168] is hard to place, performance drops: "TShirt_Beige"
+20:50:34.340 [CE][LootRespawner] (PRIDummy) :: Item [169] is hard to place, performance drops: "TShirt_Beige"
+20:51:01.508 [CE][LootRespawner] (PRIDummy) :: Item [170] is hard to place, performance drops: "CombinationLock"
+20:51:01.814 [CE][LootRespawner] (PRIDummy) :: Item [171] is hard to place, performance drops: "Jeans_Blue"
+20:51:02.536 [CE][LootRespawner] (PRIDummy) :: Item [172] is hard to place, performance drops: "WorkingGloves_Beige"
+20:51:28.997 [CE][LootRespawner] (PRIDummy) :: Item [173] is hard to place, performance drops: "Fabric"
+20:51:29.815 [CE][LootRespawner] (PRIDummy) :: Item [174] is hard to place, performance drops: "TTSKOPants"
+20:51:29.815 [CE][LootRespawner] (PRIDummy) :: Item [175] is hard to place, performance drops: "TTSKOPants"
+20:51:56.622 [CE][LootRespawner] (PRIDummy) :: Item [176] is hard to place, performance drops: "JumpsuitJacket_Red"
+20:51:57.136 [CE][LootRespawner] (PRIDummy) :: Item [177] is hard to place, performance drops: "Flag_UEC"
+20:52:04.218 [Shutdown] Shutting down in 600 seconds (10 minutes).
+20:52:51.798 [CE][LootRespawner] (PRIDummy) :: Item [178] is hard to place, performance drops: "JumpsuitJacket_Gray"
+20:53:46.890 !!! [CE][Point] Removing 5608.094727, 11072.156250 from land_ala_warehouse_small
+20:53:46.890 [CE][LootRespawner] (PRIDummy) :: Item [179] is hard to place, performance drops: "WorkingGloves_Brown"
+20:53:47.506 [CE][LootRespawner] (PRIDummy) :: Item [180] is hard to place, performance drops: "Bandana_PolkaPattern"
+20:55:09.815 [CE][LootRespawner] (PRIDummy) :: Item [181] is hard to place, performance drops: "WorkingGloves_Black"
+20:55:09.919 [CE][LootRespawner] (PRIDummy) :: Item [182] is hard to place, performance drops: "BalaclavaMask_Beige"
+20:55:10.431 [CE][LootRespawner] (PRIDummy) :: Item [183] is hard to place, performance drops: "SlacksPants_White"
+20:55:11.47 [CE][LootRespawner] (PRIDummy) :: Item [184] is hard to place, performance drops: "Plastic_Explosive"
+20:55:38.227 [CE][LootRespawner] (PRIDummy) :: Item [185] is hard to place, performance drops: "BeanieHat_Pink"
+20:56:05.170 [CE][LootRespawner] (PRIDummy) :: Item [186] is hard to place, performance drops: "SlacksPants_Blue"
+20:56:05.377 [CE][LootRespawner] (PRIDummy) :: Item [187] is hard to place, performance drops: "TrackSuitPants_Black"
+20:56:34.59 !!! [CE][Point] Removing 6504.311523, 9286.791016 from land_wrecked_ural
+20:56:34.59 [CE][LootRespawner] (PRIDummy) :: Item [188] is hard to place, performance drops: "MilitaryBoots_Beige"
+20:57:00.310 [CE][LootRespawner] (PRIDummy) :: Item [189] is hard to place, performance drops: "Truck_01_Wheel"
+20:57:00.718 [CE][LootRespawner] (PRIDummy) :: Item [190] is hard to place, performance drops: "Jeans_Brown"
+20:57:11.993 [Shutdown] Shutting down in 300 seconds (5 minutes).
+20:57:55.397 [CE][LootRespawner] (PRIDummy) :: Item [191] is hard to place, performance drops: "GasMask_Filter"
+20:57:56.528 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "dzn_athena3_exp2"
+20:57:57.41 [CE][LootRespawner] (PRIDummy) :: Item [192] is hard to place, performance drops: "NavyUniformPants"
+20:58:13.570 [Shutdown] Shutting down in 240 seconds (4 minutes).
+20:58:45.111 [Disconnect]: Client 54425933 disconnecting
+20:58:45.111 [Disconnect]: Client 54425933 early disconnect
+20:58:45.116 [Disconnect]: Start script disconnect 54425933 (dbCharacterId 16 dbPlayerId 16) logoutTime 15
+20:58:45.116 [Disconnect]: Finish script disconnect 54425933 (C4buUgptBvZSpTPPlJBpmdcMZSy4hOiF5033Z0m9_2M=)
+20:58:45.117 [Disconnect]: DisconnectPlayerFinish 54425933
+20:58:45.117 [Disconnect]: Remove player info 54425933
+20:58:45.126 [Disconnect]: Player destroy 54425933 
+20:58:50.666 [CE][LootRespawner] (PRIDummy) :: Item [193] is hard to place, performance drops: "MetalPlate"
+20:58:50.668 [CE][LootRespawner] (PRIDummy) :: Item [194] is hard to place, performance drops: "MetalPlate"
+20:58:52.216 [CE][LootRespawner] (PRIDummy) :: Item [195] is hard to place, performance drops: "CanisterGasoline"
+20:59:15.328 [Shutdown] Shutting down in 180 seconds (3 minutes).
+20:59:18.735 [CE][LootRespawner] (PRIDummy) :: Item [196] is hard to place, performance drops: "BeanieHat_Blue"
+20:59:19.457 [CE][LootRespawner] (PRIDummy) :: Item [197] is hard to place, performance drops: "BoonieHat_Blue"
+20:59:20.177 [CE][LootRespawner] (PRIDummy) :: Item [198] is hard to place, performance drops: "BomberJacket_Brown"
+20:59:46.80 [CE][LootRespawner] (PRIDummy) :: Item [199] is hard to place, performance drops: "WoodenPlank"
+20:59:46.286 [CE][LootRespawner] (PRIDummy) :: Item [200] is hard to place, performance drops: "WorkingGloves_Yellow"
+20:59:47.630 [CE][LootRespawner] (PRIDummy) :: Item [201] is hard to place, performance drops: "Sickle"
+20:59:47.839 [CE][LootRespawner] (PRIDummy) :: Item [202] is hard to place, performance drops: "GardenLime"
+20:59:57.753 [IdleMode] Entering IN - save processed
+21:00:17.283 [Shutdown] Shutting down in 120 seconds (2 minutes).
+21:01:19.279 [Shutdown] Shutting down in 60 seconds (1 minutes).
+21:01:19.382 [Shutdown] Saving players, locking server and kicking all players.
+21:02:21.248 [Server] :: termination in: 5
+21:02:22.248 [Server] :: termination in: 4
+21:02:23.248 [Server] :: termination in: 3
+21:02:24.248 [Server] :: termination in: 2
+21:02:25.249 [Server] :: termination in: 1
+21:02:31.580  --- Termination successfully completed --- 

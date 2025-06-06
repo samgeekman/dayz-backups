@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="1289674462">
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="5" dmax="10" x="2713.18" z="2370.76" r="60"/>
+    </territory>
+    <territory color="2387830984">
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="2604.61" z="3067.11" r="60"/>
+        <zone name="InfectedMedic" smin="0" smax="0" dmin="1" dmax="4" x="7059.16" z="4309.09" r="50"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="1" smax="7" dmin="2" dmax="8" x="3209.23" z="3061.54" r="90"/>
+        <zone name="InfectedArmy" smin="2" smax="8" dmin="4" dmax="8" x="4224" z="1675.83" r="100"/>
+        <zone name="InfectedArmy" smin="2" smax="8" dmin="4" dmax="8" x="4120.25" z="1724.62" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="780" z="3811" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="3064" z="3113" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="3342" z="3022" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="400" z="4050" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="445" z="4005" r="80"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="3" dmax="7" x="1340" z="2875" r="80"/>
+    </territory>
+    <territory color="2809946700">
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="4063" z="2587.86" r="120"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="1438.21" z="3783.5" r="160"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="3391.93" z="2757.21" r="80"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="4237.77" z="2630.67" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="1269.5" z="3779" r="80"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="3286.75" z="3308.75" r="140"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="1585" z="3800" r="80"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="3061.59" z="3249.5" r="130"/>
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="7" dmax="13" x="3491.25" z="2463.75" r="100"/>
+    </territory>
+    <territory color="1136576269">
+        <zone name="InfectedCity" smin="0" smax="0" dmin="10" dmax="15" x="2681.38" z="2387.13" r="110"/>
+    </territory>
+    <territory color="1910952871">
+        <zone name="InfectedSolitude" smin="1" smax="0" dmin="1" dmax="4" x="2282" z="3187" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2653.57" z="3728.57" r="80"/>
+        <zone name="InfectedSolitude" smin="1" smax="0" dmin="1" dmax="4" x="3473" z="3108" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1721.5" z="3402.5" r="80"/>
+        <zone name="InfectedSolitude" smin="1" smax="0" dmin="1" dmax="4" x="989.5" z="3783" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1138.5" z="3754" r="80"/>
+        <zone name="InfectedSolitude" smin="1" smax="0" dmin="1" dmax="4" x="1921" z="2624" r="80"/>
+    </territory>
+    <territory color="1102461653">
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="1275.91" z="3082.27" r="140"/>
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="3136" z="3112" r="90"/>
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="1238" z="3050" r="100"/>
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="1850" z="3235" r="90"/>
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="1795" z="3155" r="90"/>
+        <zone name="InfectedIndustrial" smin="2" smax="0" dmin="5" dmax="10" x="2577.5" z="2332.5" r="60"/>
+    </territory>
+    <territory color="1790009876">
+        <zone name="InfectedFirefighter" smin="0" smax="0" dmin="1" dmax="4" x="2681.38" z="2387.13" r="10"/>
+    </territory>
+    <territory color="1794965508">
+        <zone name="InfectedPolice" smin="2" smax="0" dmin="1" dmax="4" x="2724.29" z="2368.57" r="70"/>
+    </territory>
+    <territory color="1291845632">
+        <zone name="InfectedReligious" smin="1" smax="0" dmin="1" dmax="3" x="1341.5" z="3335" r="80"/>
+        <zone name="InfectedReligious" smin="1" smax="0" dmin="1" dmax="3" x="2796.67" z="2375" r="60"/>
+    </territory>
+</territory-type>
