@@ -1,6 +1,6 @@
 06/06/26 - 22:25
 
-0.1.1 release - server wiped to reset loot economy (future updates won't require this)
+0.0.2 release - server wiped to reset loot economy (future updates won't require this)
 
 - CE tiers fixed as this was causing loot to spawn incorrectly
 - Increased lower tier weapon spawns and ammo
